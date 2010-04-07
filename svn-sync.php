@@ -181,8 +181,21 @@ class gitMirror
     $this->run(sprintf('git branch -D %s', $svn_tag));
     $this->run(sprintf("git tag -am 'version %s tag' %s", $git_tag, $git_tag));
   }
+  
+  protected function isExcluded($version, array $stringsToExclude)
+  {
+    foreach($stringsToExclude as $string)
+    {
+      if(strpos($version,$string) !== false)
+      {
+        return true;
+      }
+    }
+    
+    return false;
+  }
 
-  public function sync(array $from)
+  public function sync(array $from,array $stringsToExclude)
   {
     if (!is_dir($this->rep_path))
     {
@@ -220,8 +233,11 @@ class gitMirror
 
     foreach ($versions as $version)
     {
-      $this->log(sprintf('Mirroring %s', $this->getGitTagFromVersion($version)));
-      $this->mirrorVersion($version);
+      if(!$version[3] || $this->isExcluded($version[3],$stringsToExclude) === false)
+      {
+        $this->log(sprintf('Mirroring %s', $this->getGitTagFromVersion($version)));
+        $this->mirrorVersion($version);
+      }
     }
 
     $this->log("Sync edge\n");
@@ -243,5 +259,5 @@ class gitMirror
 }
 
 $mirror = new gitMirror('http://svn.symfony-project.com', '1.4', $argv[1]);
-$mirror->sync(array(1, 3, 0));
+$mirror->sync(array(1, 3, 0),array('RC','BETA','ALPHA'));
 $mirror->push();
