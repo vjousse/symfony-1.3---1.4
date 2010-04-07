@@ -147,11 +147,11 @@ class gitMirror
   {
     if (false === $version[3])
     {
-      return sprintf("RELEASE_%d_%d_%d", $version[0], $version[1], $version[2]);
+      return sprintf($this->svn_version, $version[0], $version[1], $version[2]);
     }
     else
     {
-      return sprintf("RELEASE_%d_%d_%d_%s", $version[0], $version[1], $version[2], $version[3]);
+      return sprintf($this->svn_full_version, $version[0], $version[1], $version[2], $version[3]);
     }
   }
 
@@ -159,11 +159,11 @@ class gitMirror
   {
     if (false === $version[3])
     {
-      return sprintf("v%d.%d.%d", $version[0], $version[1], $version[2]);
+      return sprintf($this->git_version, $version[0], $version[1], $version[2]);
     }
     else
     {
-      return sprintf("v%d.%d.%d-%s", $version[0], $version[1], $version[2], $version[3]);
+      return sprintf($this->git_full_version, $version[0], $version[1], $version[2], $version[3]);
     }
   }
 
