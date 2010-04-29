@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/generator
+http://svn.symfony-project.com/tags/RELEASE_1_4_3/lib/task/generator
 http://svn.symfony-project.com
 
 
@@ -63,7 +63,7 @@ has-props
 sfGenerateTaskTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/generator/sfGenerateTaskTask.class.php
 
 
 2010-04-29T21:57:26.000000Z
@@ -134,7 +134,7 @@ has-props
 sfGenerateProjectTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/generator/sfGenerateProjectTask.class.php
 
 
 2010-04-29T21:57:26.000000Z

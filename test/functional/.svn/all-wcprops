@@ -1,11 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/!svn/ver/27966/tags/RELEASE_1_4_2/test/functional
-END
-escapingTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/!svn/ver/27966/tags/RELEASE_1_4_2/test/functional/escapingTest.php
+/!svn/ver/28266/tags/RELEASE_1_4_3/test/functional
 END

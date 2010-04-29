@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/debug
+http://svn.symfony-project.com/tags/RELEASE_1_4_3/lib/debug
 http://svn.symfony-project.com
 
 
@@ -199,7 +199,7 @@ has-props
 sfWebDebug.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/debug/sfWebDebug.class.php
 
 
 2010-04-29T21:57:26.000000Z
@@ -233,7 +233,7 @@ has-props
 sfWebDebugPanel.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/debug/sfWebDebugPanel.class.php
 
 
 2010-04-29T21:57:26.000000Z

@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/plugins/sfDoctrinePlugin/test/functional
+http://svn.symfony-project.com/tags/RELEASE_1_4_3/lib/plugins/sfDoctrinePlugin/test/functional
 http://svn.symfony-project.com
 
 
@@ -29,14 +29,14 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 AdminGenBrowser.class.php
 file
 
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenBrowser.class.php
 
 
-2010-04-29T21:56:58.000000Z
-49be78ea9d7d5aa9e4b9fbc8632cdfc6
-2009-11-14T14:23:18.872848Z
-23912
-fabien
+
+2010-04-29T21:57:38.000000Z
+624f380fb30fceaaad7767d365198b65
+2010-02-24T23:42:54.503877Z
+28260
+Kris.Wallsmith
 has-props
 
 
@@ -58,12 +58,12 @@ has-props
 
 
 
-6804
+8931
 
 FormGeneratorTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/plugins/sfDoctrinePlugin/test/functional/FormGeneratorTest.php
 
 
 2010-04-29T21:57:27.000000Z
@@ -100,7 +100,7 @@ dir
 PagerTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/plugins/sfDoctrinePlugin/test/functional/PagerTest.php
 
 
 2010-04-29T21:57:27.000000Z

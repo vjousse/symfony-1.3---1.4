@@ -1,23 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/widget
-END
-sfWidgetFormSelectCheckbox.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/widget/sfWidgetFormSelectCheckbox.class.php
-END
-sfWidgetFormSelectRadio.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/widget/sfWidgetFormSelectRadio.class.php
-END
-sfWidgetFormSchema.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/widget/sfWidgetFormSchema.class.php
+/!svn/ver/28266/tags/RELEASE_1_4_3/lib/widget
 END

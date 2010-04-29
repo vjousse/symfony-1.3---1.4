@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/test
+http://svn.symfony-project.com/tags/RELEASE_1_4_3/lib/test
 http://svn.symfony-project.com
 
 
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfTestFunctionalBase.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/test/sfTestFunctionalBase.class.php
 
 
 2010-04-29T21:57:26.000000Z
@@ -63,7 +63,7 @@ has-props
 sfTesterRequest.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/test/sfTesterRequest.class.php
 
 
 2010-04-29T21:57:26.000000Z
@@ -199,7 +199,7 @@ has-props
 sfTesterResponse.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/test/sfTesterResponse.class.php
 
 
 2010-04-29T21:57:26.000000Z

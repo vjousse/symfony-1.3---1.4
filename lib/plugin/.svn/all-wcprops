@@ -1,11 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/plugin
-END
-sfSymfonyPluginManager.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/plugin/sfSymfonyPluginManager.class.php
+/!svn/ver/28266/tags/RELEASE_1_4_3/lib/plugin
 END

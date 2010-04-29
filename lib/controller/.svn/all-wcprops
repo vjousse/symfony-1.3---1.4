@@ -1,11 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/controller
-END
-sfWebController.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/controller/sfWebController.class.php
+/!svn/ver/28266/tags/RELEASE_1_4_3/lib/controller
 END

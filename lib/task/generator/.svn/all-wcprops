@@ -1,17 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/task/generator
-END
-sfGenerateTaskTask.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/task/generator/sfGenerateTaskTask.class.php
-END
-sfGenerateProjectTask.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/task/generator/sfGenerateProjectTask.class.php
+/!svn/ver/28266/tags/RELEASE_1_4_3/lib/task/generator
 END

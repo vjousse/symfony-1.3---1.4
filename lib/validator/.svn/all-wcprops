@@ -1,17 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
 V 48
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/validator
-END
-sfValidatedFile.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/validator/sfValidatedFile.class.php
-END
-sfValidatorDate.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/!svn/ver/27966/tags/RELEASE_1_4_2/lib/validator/sfValidatorDate.class.php
+/!svn/ver/28266/tags/RELEASE_1_4_3/lib/validator
 END
