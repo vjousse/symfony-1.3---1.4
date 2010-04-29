@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_3/test/unit/i18n/extract
+http://svn.symfony-project.com/tags/RELEASE_1_3_4/test/unit/i18n/extract
 http://svn.symfony-project.com
 
 
 
-2009-06-25T06:35:13.766150Z
-19531
+2010-03-29T10:08:13.782410Z
+28850
 fabien
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:14.000000Z
-f2f676e664f6b1bf9e6c6de98901732c
-2009-06-25T06:35:13.766150Z
-19531
+2010-04-29T21:56:39.000000Z
+5d70bb6de44f2e8be2a1fbce939b183a
+2010-03-29T08:29:22.379355Z
+28844
 fabien
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-1908
+1943
 
 sfI18nYamlGeneratorExtractorTest.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:14.000000Z
-43c34989f363f34219a4872f3828ce92
-2009-06-25T06:35:13.766150Z
-19531
+2010-04-29T21:56:39.000000Z
+e99272e383f946a8036c6b6e0cfc3317
+2010-03-29T10:08:13.782410Z
+28850
 fabien
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-1559
+1599
 
 sfI18nYamlValidateExtractorTest.php
 file

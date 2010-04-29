@@ -2,14 +2,14 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Search/Indexer
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Search/Indexer
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-c9963a9a548a5e2582a2472c15692e00
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:44.000000Z
+dae275a34355781b0c67401eb3d09711
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-1713
+1723
 
 Exception.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-65bd5c1b755403b3bfdd176bca2c9141
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:44.000000Z
+ee1e06db02275fc666594b75e93a2321
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-1363
+1373
 

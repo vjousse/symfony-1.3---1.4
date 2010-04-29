@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
 V 42
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Cli
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Cli
 END
 AnsiColorFormatter.php
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Cli/AnsiColorFormatter.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Cli/AnsiColorFormatter.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Cli/Exception.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Cli/Exception.php
 END
 Formatter.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Cli/Formatter.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Cli/Formatter.php
 END

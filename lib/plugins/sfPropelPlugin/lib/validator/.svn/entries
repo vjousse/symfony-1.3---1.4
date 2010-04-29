@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/plugins/sfPropelPlugin/lib/validator
+http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/lib/validator
 http://svn.symfony-project.com
 
 
 
-2010-02-12T13:31:30.838136Z
-27940
+2010-03-20T14:13:37.777691Z
+28632
 Kris.Wallsmith
 
 
@@ -100,11 +100,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-81075d345f21476eb3a342092091b045
-2009-09-23T18:32:54.307411Z
-22299
-fabien
+2010-04-29T21:56:40.000000Z
+c464fcf5fcb0cb296752ed78ffeb6f55
+2010-03-20T14:13:37.777691Z
+28632
+Kris.Wallsmith
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-4157
+4179
 
 sfValidatorPropelChoiceMany.class.php
 file

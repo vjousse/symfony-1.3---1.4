@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/task
+END
+sfDoctrineGenerateAdminTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateAdminTask.class.php
+END
+sfDoctrineBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBaseTask.class.php
+END
+sfDoctrineGenerateMigrationsDiffTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateMigrationsDiffTask.class.php
+END

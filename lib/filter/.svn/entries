@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/filter
+http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/filter
 http://svn.symfony-project.com
 
 
 
-2009-11-30T23:14:18.730600Z
-24619
-FabianLange
+2010-03-19T19:00:53.490685Z
+28625
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -202,11 +202,11 @@ file
 
 
 
-2010-04-29T21:55:17.000000Z
-908197c62e49ffbf02a6d5542b529dc9
-2009-11-30T23:14:18.730600Z
-24619
-FabianLange
+2010-04-29T21:56:40.000000Z
+4ed9bf2ffe6da24d9ca76b8754f94e74
+2010-03-19T19:00:53.490685Z
+28625
+Kris.Wallsmith
 has-props
 
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-5925
+6098
 
 sfExecutionFilter.class.php
 file

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/SettingsPlugin/base
+END
+BaseSetting.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/SettingsPlugin/base/BaseSetting.class.php
+END

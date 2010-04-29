@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Template
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Template
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-11-24T19:24:33.315330Z
-6799
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-e7127a1aafd6ef73ff3ef662aeb85eba
-2009-10-13T23:29:18.706832Z
-6506
+2010-04-29T21:56:44.000000Z
+7675c1d32b3acd864815b2a48d8b8140
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-3093
+3103
 
 Versionable.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-bca2a33843575eaf231631ce6ed02985
-2009-10-13T23:29:18.706832Z
-6506
+2010-04-29T21:56:44.000000Z
+6ba4aa9c521c7dd284ef72c95067dc91
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-4040
+4167
 
 NestedSet.php
 file
@@ -100,44 +100,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-0c2f1f2117d85b0fac9b26d6b3afc8dc
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1853
-
-SoftDelete.php
-file
-
-
-
-
-2010-04-29T21:55:58.000000Z
-b3d6daa3150f8173dc49ed5dc32cb8d0
-2009-11-03T17:00:02.556235Z
-6642
+2010-04-29T21:56:44.000000Z
+afffbfcd1e56997405872749a031c006
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -160,7 +126,41 @@ has-props
 
 
 
-2978
+1863
+
+SoftDelete.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+afece6c8a70645f9d58127ba0df2036b
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2988
 
 Listener
 dir
@@ -171,11 +171,11 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-63716eb2d448c135a295340539e36246
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:44.000000Z
+9544eb7aebc05e182de102d8aa3ca3de
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -197,7 +197,7 @@ has-props
 
 
 
-1991
+2001
 
 Geographical.php
 file
@@ -205,10 +205,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-fd14500350bc75d1170fcc3f27f26b31
-2009-10-13T23:29:18.706832Z
-6506
+2010-04-29T21:56:44.000000Z
+0f9f3692591b792be74ea340fe122537
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -231,7 +231,7 @@ has-props
 
 
 
-4919
+4931
 
 Sluggable.php
 file
@@ -239,10 +239,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-808f64d7e39dbfbf61a1e805728b4df3
-2009-10-13T04:30:15.713653Z
-6496
+2010-04-29T21:56:44.000000Z
+34595b297a94d666d679f63681aa6561
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -265,7 +265,7 @@ has-props
 
 
 
-3001
+3120
 
 Timestampable.php
 file
@@ -273,10 +273,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-3b181bc7124a099ffdedaf120f82d209
-2009-10-13T23:29:18.706832Z
-6506
+2010-04-29T21:56:44.000000Z
+1941167e7e3367137cd5c66c10933399
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -299,5 +299,5 @@ has-props
 
 
 
-3844
+3854
 

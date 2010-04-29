@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/config
+http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/config
 http://svn.symfony-project.com
 
 
 
-2010-01-26T13:38:49.545696Z
-27191
-FabianLange
+2010-03-03T14:46:07.750351Z
+28366
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -60,40 +60,6 @@ has-props
 
 5542
 
-sfProjectConfiguration.class.php
-file
-
-
-
-
-2010-04-29T21:56:12.000000Z
-ecd6d75cdf2ba8f5472575e612371984
-2010-01-26T13:38:49.545696Z
-27191
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16698
-
 sfViewConfigHandler.class.php
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 10705
+
+sfProjectConfiguration.class.php
+file
+
+
+
+
+2010-04-29T21:56:12.000000Z
+ecd6d75cdf2ba8f5472575e612371984
+2010-01-26T13:38:49.545696Z
+27191
+FabianLange
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16698
 
 sfSimpleYamlConfigHandler.class.php
 file
@@ -162,40 +162,6 @@ has-props
 
 1358
 
-sfDefineEnvironmentConfigHandler.class.php
-file
-
-
-
-
-2010-04-29T21:55:06.000000Z
-f362b68337d3bec16d56a478c4d4d5f9
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4096
-
 sfConfigHandler.class.php
 file
 
@@ -229,6 +195,40 @@ has-props
 
 
 3682
+
+sfDefineEnvironmentConfigHandler.class.php
+file
+
+
+
+
+2010-04-29T21:55:06.000000Z
+f362b68337d3bec16d56a478c4d4d5f9
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4096
 
 sfConfig.class.php
 file
@@ -372,11 +372,11 @@ file
 
 
 
-2010-04-29T21:55:17.000000Z
-686d6ee7121e94e8371a11129fc4835a
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-04-29T21:56:40.000000Z
+045d9669e3728b2759274fb4bbabe78b
+2010-03-03T14:46:07.750351Z
+28366
+fabien
 has-props
 
 
@@ -398,7 +398,7 @@ has-props
 
 
 
-3705
+3721
 
 sfRoutingConfigHandler.class.php
 file

@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/EventListener
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/EventListener
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/EventListener/Exception.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/EventListener/Exception.php
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/EventListener/Interface.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/EventListener/Interface.php
 END
 Chain.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/EventListener/Chain.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/EventListener/Chain.php
 END

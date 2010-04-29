@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Query/Registry
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Query/Registry
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Query/Registry/Exception.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Query/Registry/Exception.php
 END

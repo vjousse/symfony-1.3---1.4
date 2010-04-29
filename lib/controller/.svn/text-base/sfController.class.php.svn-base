@@ -24,7 +24,8 @@ abstract class sfController
     $context           = null,
     $dispatcher        = null,
     $controllerClasses = array(),
-    $renderMode        = sfView::RENDER_CLIENT;
+    $renderMode        = sfView::RENDER_CLIENT,
+    $maxForwards       = 5;
 
   /**
    * Class constructor.
@@ -97,6 +98,9 @@ abstract class sfController
       {
         throw new sfConfigurationException(sprintf('The module "%s" is not enabled.', $moduleName));
       }
+
+      // check for a module generator config file
+      $this->context->getConfigCache()->import('modules/'.$moduleName.'/config/generator.yml', false, true);
 
       // one action per file or one file for all actions
       $classFile   = strtolower($extension);
@@ -172,7 +176,7 @@ abstract class sfController
     $moduleName = preg_replace('/[^a-z0-9_]+/i', '', $moduleName);
     $actionName = preg_replace('/[^a-z0-9_]+/i', '', $actionName);
 
-    if ($this->getActionStack()->getSize() >= 5)
+    if ($this->getActionStack()->getSize() >= $this->maxForwards)
     {
       // let's kill this party before it turns into cpu cycle hell
       throw new sfForwardException('Too many forwards have been detected for this request.');

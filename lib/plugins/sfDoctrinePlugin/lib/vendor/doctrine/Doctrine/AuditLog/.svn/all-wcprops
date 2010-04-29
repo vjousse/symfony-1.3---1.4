@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/AuditLog
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/AuditLog
 END
 Listener.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/AuditLog/Listener.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/AuditLog/Listener.php
 END

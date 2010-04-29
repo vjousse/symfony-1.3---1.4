@@ -1,41 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/DataDict
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/DataDict
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/DataDict/Exception.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/DataDict/Exception.php
 END
 Mssql.php
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/DataDict/Mssql.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/DataDict/Mssql.php
 END
 Sqlite.php
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/DataDict/Sqlite.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/DataDict/Sqlite.php
 END
 Mysql.php
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/DataDict/Mysql.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/DataDict/Mysql.php
 END
 Oracle.php
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/DataDict/Oracle.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/DataDict/Oracle.php
 END
 Pgsql.php
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/DataDict/Pgsql.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/DataDict/Pgsql.php
 END

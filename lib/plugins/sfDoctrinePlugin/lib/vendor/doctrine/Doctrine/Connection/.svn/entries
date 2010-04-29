@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Connection
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Connection
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-11-23T23:25:14.078560Z
-6795
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-5082525f98d53e511a660824004d2df8
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:44.000000Z
+52e3e8e0416bf2695e505ad4cc2153a6
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -69,10 +69,10 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-715074892b69d37a0feb9eda74b6dc6a
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:44.000000Z
+6c4f6f5799088272162c75c486b3eccc
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -95,7 +95,7 @@ has-props
 
 
 
-5823
+5833
 
 Mssql.php
 file
@@ -103,10 +103,10 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-3f424c0c5ee413ac14e950985e725ae3
-2009-11-23T23:25:14.078560Z
-6795
+2010-04-29T21:56:44.000000Z
+dffe84b291f9e1fea841181e54f79a18
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -129,7 +129,7 @@ has-props
 
 
 
-10843
+15266
 
 Pgsql
 dir
@@ -140,10 +140,10 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-02e2c51d9672c51fe2ad26361df20d6b
-2009-10-13T04:44:19.561012Z
-6497
+2010-04-29T21:56:44.000000Z
+5e7438558b202b82f8dfc3347ebc3e8e
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -166,7 +166,7 @@ has-props
 
 
 
-5043
+5053
 
 Statement.php
 file
@@ -174,10 +174,10 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-0257498138469dffe1bf52dabc551f7a
-2009-11-04T19:42:16.252333Z
-6667
+2010-04-29T21:56:44.000000Z
+a8abe18c42439401c85ec74ffd3c994b
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -200,41 +200,7 @@ has-props
 
 
 
-20076
-
-Mysql.php
-file
-
-
-
-
-2010-04-29T21:55:59.000000Z
-a754fd0935ae94e563b6b2003c162e51
-2009-10-12T17:40:41.504876Z
-6484
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8622
+20121
 
 Oracle.php
 file
@@ -242,10 +208,10 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-99a220aca744694c57c6eb687f022926
-2009-11-18T21:38:51.488391Z
-6769
+2010-04-29T21:56:44.000000Z
+e41c4883a1a24df1c4d50bb2ac1c6ef9
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -268,18 +234,18 @@ has-props
 
 
 
-6013
+6023
 
-UnitOfWork.php
+Mysql.php
 file
 
 
 
 
-2010-04-29T21:55:59.000000Z
-2da7920a4864fdc20069291e59bbe522
-2009-11-10T16:34:23.259274Z
-6690
+2010-04-29T21:56:44.000000Z
+d0d2819314105fec1e63b49f5828d3f4
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -302,7 +268,7 @@ has-props
 
 
 
-34487
+8669
 
 Db2.php
 file
@@ -310,11 +276,11 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-9e3f7a9db37aed073206e60930a5e605
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:44.000000Z
+ba5988d1a6a899bcba5bb8a2edc59901
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -338,28 +304,16 @@ has-props
 
 2506
 
-Mssql
-dir
-
-Sqlite
-dir
-
-Mysql
-dir
-
-Oracle
-dir
-
-Profiler.php
+UnitOfWork.php
 file
 
 
 
 
-2010-04-29T21:55:59.000000Z
-81c8457a1f7e6a34d910354740109d10
-2009-06-22T22:30:02.862388Z
-5927
+2010-04-29T21:56:44.000000Z
+dff5a3fd9bf8ab56da94c5b6483c5211
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -382,7 +336,53 @@ has-props
 
 
 
-5093
+34845
+
+Mssql
+dir
+
+Sqlite
+dir
+
+Oracle
+dir
+
+Mysql
+dir
+
+Profiler.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+9cc8392f0bc14283ee3cecc1362c2688
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5103
 
 Module.php
 file
@@ -390,11 +390,11 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-a5ecdcaae5490a080575be9782051393
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:44.000000Z
+2951c5a111768d5385135ace2d8cc1ab
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -424,11 +424,11 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-affdb02e31cb58331f3def667f8c0893
-2009-07-08T20:51:21.298341Z
-6026
-domluc
+2010-04-29T21:56:44.000000Z
+91b5ad85d193fdaf7279c808039d233f
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -450,7 +450,7 @@ has-props
 
 
 
-8865
+9195
 
 Common.php
 file
@@ -458,11 +458,11 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-c4d332a0278fc0dd0fe8fda36dc36f5c
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:44.000000Z
+c0dca346c8357774e351e7e80fd6a85d
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 

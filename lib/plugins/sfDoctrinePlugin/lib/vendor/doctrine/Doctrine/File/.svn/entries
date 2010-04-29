@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/File
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/File
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-06-22T15:44:45.962479Z
-5901
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-b607d3e1af38b9d5e32ce3659e5e6cb2
-2009-06-22T15:44:45.962479Z
-5901
+2010-04-29T21:56:43.000000Z
+0bf576bc2eb65925050fcd655f3e298f
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-2428
+2438
 

@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Compiler
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Compiler
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Compiler/Exception.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Compiler/Exception.php
 END

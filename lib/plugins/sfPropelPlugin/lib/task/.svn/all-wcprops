@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/lib/task
+END
+sfPropelGenerateAdminTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/lib/task/sfPropelGenerateAdminTask.class.php
+END
+sfPropelBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/lib/task/sfPropelBaseTask.class.php
+END

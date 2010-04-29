@@ -1,29 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Collection
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Collection
 END
 Iterator.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Collection/Iterator.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Collection/Iterator.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Collection/Exception.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Collection/Exception.php
 END
 OnDemand.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Collection/OnDemand.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Collection/OnDemand.php
 END
 Offset.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Collection/Offset.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Collection/Offset.php
 END

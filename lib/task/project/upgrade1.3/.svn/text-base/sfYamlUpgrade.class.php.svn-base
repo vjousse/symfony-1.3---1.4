@@ -31,8 +31,8 @@ class sfYamlUpgrade extends sfUpgrade
       // attempt to upgrade booleans
       $original = file_get_contents($file);
       $upgraded = sfToolkit::pregtr($original, array(
-        '/^([^:]+: +)(?:on|y(?:es)?|\+)(\s*)$/im' => '\\1true\\2',
-        '/^([^:]+: +)(?:off|no?|-)(\s*)$/im'      => '\\1false\\2',
+        '/^([^:]+: +)(?:on|y(?:es)?|\+)(\s*(#.*)?)$/im' => '\\1true\\2',
+        '/^([^:]+: +)(?:off|no?|-)(\s*(#.*)?)$/im'      => '\\1false\\2',
       ));
 
       try

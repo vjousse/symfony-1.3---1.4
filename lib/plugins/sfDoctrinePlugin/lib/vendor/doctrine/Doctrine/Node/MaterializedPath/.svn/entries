@@ -2,14 +2,14 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Node/MaterializedPath
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Node/MaterializedPath
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-f799a96da52cc4b488c1cce6083639e7
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:43.000000Z
+07191e60946a77c0ad4022d5bc58cfea
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-020b4dc45c6b6a2e43763e38efd23da3
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:43.000000Z
+e3918db2d75634e3b1fc72b5d9ba3bf7
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -100,11 +100,11 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-f4ad39c7b417712c66dfa17ad6f6e32f
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:43.000000Z
+b8f4db52c72216ed80540a2b3d3de3ef
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 

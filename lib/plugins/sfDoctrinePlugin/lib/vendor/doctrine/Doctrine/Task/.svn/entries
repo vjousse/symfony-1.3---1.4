@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Task
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Task
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-11-24T19:24:33.315330Z
-6799
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-6bb10440e81b1cae55dd534318aef41e
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:43.000000Z
+88469ae38c6409cfdab38d907dcffca4
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-2075
+2085
 
 RebuildDb.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-de814f46f8469ba63616844ee88f1765
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:43.000000Z
+6322f6eb8a4fd1d9e3d4f77cc4b7285d
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-2357
+2367
 
 GenerateMigrationsDb.php
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-1df35a836257c8e39247ab243010b1bb
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:43.000000Z
+5d97ea93731c1c2f754ecac0d63dee9b
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -126,41 +126,7 @@ has-props
 
 
 
-2876
-
-CreateTables.php
-file
-
-
-
-
-2010-04-29T21:55:58.000000Z
-cb50b562dabb06a95be86f57d9d9bf6d
-2009-10-12T17:40:41.504876Z
-6484
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1863
+2886
 
 Exception.php
 file
@@ -168,11 +134,11 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-3e122cba1829c0124f7965529b71810f
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:44.000000Z
+74ac6f302abef4eeab14b1d331ffde7d
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -194,7 +160,41 @@ has-props
 
 
 
-1392
+1402
+
+CreateTables.php
+file
+
+
+
+
+2010-04-29T21:56:43.000000Z
+8df1053693a155bdec852ab63f848699
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1873
 
 DumpData.php
 file
@@ -202,10 +202,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-d55c16780a5e0bf755e2ab7f5afcc425
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:44.000000Z
+5d68781d86131d62ada84c1d12d71d77
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -228,41 +228,7 @@ has-props
 
 
 
-2416
-
-GenerateMigration.php
-file
-
-
-
-
-2010-04-29T21:55:58.000000Z
-3b90052dd38cb0f55aaaf03757fbb079
-2009-10-12T17:40:41.504876Z
-6484
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2105
+2426
 
 GenerateModelsDb.php
 file
@@ -270,10 +236,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-c19fd33ffa85459fd5b1909a7f9ee21e
-2009-11-17T20:18:49.169259Z
-6745
+2010-04-29T21:56:44.000000Z
+decca1bf38c654fa7f67a4c94c28c107
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -296,18 +262,18 @@ has-props
 
 
 
-2199
+2209
 
-LoadData.php
+GenerateMigration.php
 file
 
 
 
 
-2010-04-29T21:55:58.000000Z
-a37b900b359d06e3ba8ae4cae2a9a82c
-2009-11-16T20:13:01.830060Z
-6736
+2010-04-29T21:56:44.000000Z
+cc812fcab9a2070ee42b2649e14e748d
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -330,7 +296,7 @@ has-props
 
 
 
-2126
+2115
 
 CreateDb.php
 file
@@ -338,10 +304,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-0963390b2ecc2e7d664e955e72181635
-2009-09-17T18:34:04.930763Z
-6372
+2010-04-29T21:56:44.000000Z
+54eb0ce27c5496efb778274f3e331d5c
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -364,18 +330,18 @@ has-props
 
 
 
-1990
+2000
 
-GenerateSql.php
+LoadData.php
 file
 
 
 
 
-2010-04-29T21:55:58.000000Z
-c528a90d7593efc2cc1363e09ac2cb92
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:44.000000Z
+8361f7e16b4e4323507f484f0c5cc617
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -398,7 +364,7 @@ has-props
 
 
 
-2376
+2136
 
 DropDb.php
 file
@@ -406,10 +372,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-5ffafd9b05aa899b6978c6729c58b24a
-2009-09-17T18:34:04.930763Z
-6372
+2010-04-29T21:56:44.000000Z
+abee6680df7265bf333969f9ecb66a0f
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -432,7 +398,41 @@ has-props
 
 
 
-2313
+2323
+
+GenerateSql.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+3de3bec0598ed7c1a746f9b531dfabf2
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2386
 
 BuildAllReload.php
 file
@@ -440,44 +440,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-0564f2020537756ce3b5a6bc3a48eb9b
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2382
-
-Dql.php
-file
-
-
-
-
-2010-04-29T21:55:58.000000Z
-90d75cd59392794cd09ff626033ff368
-2009-11-24T19:24:33.315330Z
-6799
+2010-04-29T21:56:44.000000Z
+fe16108ce543aaaba561e2e99d8c79a9
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -500,7 +466,7 @@ has-props
 
 
 
-2686
+2392
 
 GenerateMigrationsDiff.php
 file
@@ -508,11 +474,11 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-87ce796e08bf838953837c3e8d4bdbcd
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:44.000000Z
+c015bd27da765b6560edad84497e1891
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -534,7 +500,41 @@ has-props
 
 
 
-2672
+2682
+
+Dql.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+eadf670c987325654a6b56e95adb8414
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2696
 
 GenerateModelsYaml.php
 file
@@ -542,10 +542,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-29ecd458d68b6cc26908ab053f8518dc
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:44.000000Z
+18f04b5b7d07c7c3d6c3008854c42429
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -568,7 +568,7 @@ has-props
 
 
 
-2213
+2223
 
 GenerateYamlModels.php
 file
@@ -576,10 +576,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-5bf1a7e345ec8418b4167bc3b08d2b0d
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:44.000000Z
+12b2856b951255011a00d5a82ae0752c
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -602,7 +602,7 @@ has-props
 
 
 
-2038
+2048
 
 GenerateYamlDb.php
 file
@@ -610,10 +610,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-e72b82196a02c1a3290069f26e5c97bf
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:44.000000Z
+020c2197ca6b36f8c7f841de3da031ef
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -636,7 +636,7 @@ has-props
 
 
 
-1872
+1882
 
 Compile.php
 file
@@ -644,10 +644,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-f0f0910cac1a9bcccce01bec8d1af2b9
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:44.000000Z
+5e92e6e81da65903cffc67fb0c904ee0
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -670,7 +670,7 @@ has-props
 
 
 
-2038
+2048
 
 BuildAllLoad.php
 file
@@ -678,78 +678,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-9ad05f02d954d4475adc37fd11a2ce2f
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2370
-
-BuildAll.php
-file
-
-
-
-
-2010-04-29T21:55:58.000000Z
-d3c6a7dbb8d8eb2adb53bdc1beef6582
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2694
-
-Migrate.php
-file
-
-
-
-
-2010-04-29T21:55:58.000000Z
-7659f0ac8dd09b4e32dd6d9a741e7767
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:44.000000Z
+a5ced0663ef3c57cd601de4055b2c9aa
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -772,5 +704,73 @@ has-props
 
 
 
-2003
+2380
+
+BuildAll.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+caaae4950ed4d8a27f0a9e47e9f0efd8
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2704
+
+Migrate.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+5a008f22e3e2a1489ab9ba8a4f6a6ce9
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2013
 

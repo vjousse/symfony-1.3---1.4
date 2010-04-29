@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/routing
+http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/routing
 http://svn.symfony-project.com
 
 
 
-2010-01-26T11:52:46.796661Z
-27183
-FabianLange
+2010-03-21T10:20:44.993417Z
+28641
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -202,11 +202,11 @@ file
 
 
 
-2010-04-29T21:55:17.000000Z
-146d05debef766a8ca48f6307b76a88b
-2009-11-16T22:35:03.485675Z
-24061
-FabianLange
+2010-04-29T21:56:40.000000Z
+e1c20ba40cf3fde9bed460d2551f9419
+2010-03-21T10:20:44.993417Z
+28641
+fabien
 has-props
 
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-14210
+14205
 
 sfRequestRoute.class.php
 file

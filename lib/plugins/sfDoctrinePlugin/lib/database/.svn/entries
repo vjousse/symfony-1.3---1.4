@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/plugins/sfDoctrinePlugin/lib/database
+http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/database
 http://svn.symfony-project.com
 
 
 
-2009-11-30T19:59:04.838074Z
-24598
+2010-03-30T20:57:27.214801Z
+28902
 Jonathan.Wage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-296275556cebb6156d2f842accd8c151
-2009-11-30T19:59:04.838074Z
-24598
+2010-04-29T21:56:40.000000Z
+8186db43060955e4860f0ae24988b367
+2010-03-30T20:57:27.214801Z
+28902
 Jonathan.Wage
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-4799
+4911
 
 sfDoctrineConnectionListener.class.php
 file

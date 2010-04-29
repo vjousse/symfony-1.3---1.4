@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
 V 43
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Data
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Data
 END
 Import.php
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Data/Import.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Data/Import.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Data/Exception.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Data/Exception.php
 END
 Export.php
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Data/Export.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Data/Export.php
 END

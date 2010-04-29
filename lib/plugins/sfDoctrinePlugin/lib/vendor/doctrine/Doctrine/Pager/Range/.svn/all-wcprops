@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Pager/Range
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Pager/Range
 END
 Jumping.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Pager/Range/Jumping.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Pager/Range/Jumping.php
 END
 Sliding.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Pager/Range/Sliding.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Pager/Range/Sliding.php
 END

@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Collection
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Collection
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-10-12T17:40:41.504876Z
-6484
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-489c33b4fc9fcb8d15fe67d8b2fa31bf
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:43.000000Z
+213c8686d4912834240b72bf58bb9394
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-b8ca32f44a0755495039646c1c9f6046
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:43.000000Z
+5bb977b0acd3f3798d3042abb80921c3
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -103,10 +103,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-2d366516105fba576d46e56be7c47308
-2009-09-15T21:53:31.623188Z
-6370
+2010-04-29T21:56:43.000000Z
+727c0e1316db0305324f94a6ddc0821e
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 
 
@@ -129,7 +129,7 @@ jwage
 
 
 
-3027
+3037
 
 Offset.php
 file
@@ -137,10 +137,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-da587befb576eda9ea3a4ff01e0b61d3
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:43.000000Z
+391208439a898665678d73c6c296c7ec
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -163,5 +163,5 @@ has-props
 
 
 
-2046
+2056
 

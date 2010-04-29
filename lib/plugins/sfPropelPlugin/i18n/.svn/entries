@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/plugins/sfPropelPlugin/i18n
+http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/i18n
 http://svn.symfony-project.com
 
 
 
-2009-12-16T13:08:00.328227Z
-25458
-FabianLange
+2010-03-21T10:24:08.721746Z
+28642
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -366,6 +366,40 @@ fabien
 
 4485
 
+sf_admin.fa.xml
+file
+
+
+
+
+2010-04-29T21:56:40.000000Z
+6a6e1938b164bbd49c9dafc3abbe3190
+2010-03-21T10:24:08.721746Z
+28642
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5520
+
 sf_admin.sv.xml
 file
 
@@ -604,40 +638,6 @@ bschussek
 
 5922
 
-sf_admin.nl.xml
-file
-
-
-
-
-2010-04-29T21:55:04.000000Z
-f419ad64b3505f2bffe4d50dd40a2af1
-2008-11-27T10:53:20.077847Z
-13399
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3915
-
 sf_admin.hr.xml
 file
 
@@ -671,6 +671,40 @@ fabien
 
 
 4425
+
+sf_admin.nl.xml
+file
+
+
+
+
+2010-04-29T21:55:04.000000Z
+f419ad64b3505f2bffe4d50dd40a2af1
+2008-11-27T10:53:20.077847Z
+13399
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3915
 
 sf_admin.pl.xml
 file
@@ -706,40 +740,6 @@ FabianLange
 
 5803
 
-sf_admin.no.xml
-file
-
-
-
-
-2010-04-29T21:55:04.000000Z
-a7993b2c5a7f79cf31791a5f51d0ae89
-2008-11-27T10:53:20.077847Z
-13399
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3413
-
 sf_admin.hu.xml
 file
 
@@ -773,6 +773,40 @@ fabien
 
 
 4579
+
+sf_admin.no.xml
+file
+
+
+
+
+2010-04-29T21:55:04.000000Z
+a7993b2c5a7f79cf31791a5f51d0ae89
+2008-11-27T10:53:20.077847Z
+13399
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3413
 
 sf_admin.lt.xml
 file
@@ -876,40 +910,6 @@ fabien
 
 4448
 
-sf_admin.pt.xml
-file
-
-
-
-
-2010-04-29T21:55:04.000000Z
-fef6c702cdea97038465ad7bc27c3c31
-2008-11-27T10:53:20.077847Z
-13399
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4549
-
 sf_admin.ca.xml
 file
 
@@ -943,6 +943,40 @@ FabianLange
 
 
 5122
+
+sf_admin.pt.xml
+file
+
+
+
+
+2010-04-29T21:55:04.000000Z
+fef6c702cdea97038465ad7bc27c3c31
+2008-11-27T10:53:20.077847Z
+13399
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4549
 
 sf_admin.tr.xml
 file

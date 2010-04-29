@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/task/project
+http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/task/project
 http://svn.symfony-project.com
 
 
 
-2010-02-03T19:39:44.707774Z
-27511
-FabianLange
+2010-04-06T04:49:08.537559Z
+28988
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -310,11 +310,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-24106842869b6d3b8cfc938893790642
-2010-02-03T19:39:44.707774Z
-27511
-FabianLange
+2010-04-29T21:56:39.000000Z
+6c0d2566b83b1bdecb82e834a7c2e135
+2010-03-23T15:28:37.478941Z
+28715
+fabien
 has-props
 
 
@@ -336,5 +336,5 @@ has-props
 
 
 
-4950
+5281
 

@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Connection/Mssql
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Connection/Mssql
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-10-12T17:40:41.504876Z
-6484
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:59.000000Z
-e0e6e62a071d822e5b17c9204766361b
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:44.000000Z
+c0c7edf40e74945c3ac6b9ad7bb7e40e
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-3545
+3555
 

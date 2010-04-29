@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Template/Listener
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Template/Listener
 END
 SoftDelete.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Template/Listener/SoftDelete.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Template/Listener/SoftDelete.php
 END
 Sluggable.php
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Template/Listener/Sluggable.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Template/Listener/Sluggable.php
 END
 Timestampable.php
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Template/Listener/Timestampable.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Template/Listener/Timestampable.php
 END

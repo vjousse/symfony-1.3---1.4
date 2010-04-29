@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Parser
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Parser
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-11-30T17:49:28.443157Z
-6822
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-f784139c5bc97a4241183829b1fd2b57
-2009-11-18T21:06:08.148854Z
-6765
+2010-04-29T21:56:43.000000Z
+86e9dbfc2520af0bc3ba50a5dc06778e
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-2271
+2281
 
 Exception.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-d046a029948dfa978bd7b5dcf439673d
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:43.000000Z
+206c326b02c4ea1aebd4b6e5dbd1839c
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-1400
+1410
 
 Xml.php
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-f6b72e087e08de5a1c77de16e87aaac6
-2009-11-19T19:57:48.050729Z
-6779
+2010-04-29T21:56:43.000000Z
+5b941b6be9d93346e190be56f249a2ec
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-5189
+5199
 
 Yml.php
 file
@@ -134,10 +134,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-3deac434bc46c81a6cb3af8fba684c43
-2009-11-23T22:58:22.089803Z
-6794
+2010-04-29T21:56:43.000000Z
+66a1bab222b1a3c4dfe4320542aac4cd
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-2990
+3000
 
 Serialize.php
 file
@@ -168,10 +168,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-3b86d7259a6a129457c721695c62e999
-2009-11-18T21:06:08.148854Z
-6765
+2010-04-29T21:56:43.000000Z
+38d5d1d283ca3137cbd3f1ec12bf4100
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -194,5 +194,5 @@ has-props
 
 
 
-2113
+2123
 

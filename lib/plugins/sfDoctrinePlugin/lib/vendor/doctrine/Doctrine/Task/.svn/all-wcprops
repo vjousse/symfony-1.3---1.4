@@ -1,137 +1,137 @@
 K 25
 svn:wc:ra_dav:version-url
 V 43
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task
 END
 GenerateMigrationsModels.php
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/GenerateMigrationsModels.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/GenerateMigrationsModels.php
 END
 RebuildDb.php
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/RebuildDb.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/RebuildDb.php
 END
 GenerateMigrationsDb.php
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/GenerateMigrationsDb.php
-END
-CreateTables.php
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/CreateTables.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/GenerateMigrationsDb.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/Exception.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/Exception.php
+END
+CreateTables.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/CreateTables.php
 END
 DumpData.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/DumpData.php
-END
-GenerateMigration.php
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/GenerateMigration.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/DumpData.php
 END
 GenerateModelsDb.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/GenerateModelsDb.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/GenerateModelsDb.php
 END
-LoadData.php
+GenerateMigration.php
 K 25
 svn:wc:ra_dav:version-url
-V 56
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/LoadData.php
+V 65
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/GenerateMigration.php
 END
 CreateDb.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/CreateDb.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/CreateDb.php
 END
-GenerateSql.php
+LoadData.php
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/GenerateSql.php
+V 56
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/LoadData.php
 END
 DropDb.php
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/DropDb.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/DropDb.php
+END
+GenerateSql.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/GenerateSql.php
 END
 BuildAllReload.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/BuildAllReload.php
-END
-Dql.php
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/Dql.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/BuildAllReload.php
 END
 GenerateMigrationsDiff.php
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/GenerateMigrationsDiff.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/GenerateMigrationsDiff.php
+END
+Dql.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/Dql.php
 END
 GenerateModelsYaml.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/GenerateModelsYaml.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/GenerateModelsYaml.php
 END
 GenerateYamlModels.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/GenerateYamlModels.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/GenerateYamlModels.php
 END
 GenerateYamlDb.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/GenerateYamlDb.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/GenerateYamlDb.php
 END
 Compile.php
 K 25
 svn:wc:ra_dav:version-url
 V 55
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/Compile.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/Compile.php
 END
 BuildAllLoad.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/BuildAllLoad.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/BuildAllLoad.php
 END
 BuildAll.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/BuildAll.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/BuildAll.php
 END
 Migrate.php
 K 25
 svn:wc:ra_dav:version-url
 V 55
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Task/Migrate.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Task/Migrate.php
 END

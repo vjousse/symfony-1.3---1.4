@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Pager
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Pager
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-06-22T15:44:45.962479Z
-5901
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-ed7ec0f6a54e0bf5f5357ff78a42eb73
-2009-06-22T15:44:45.962479Z
-5901
+2010-04-29T21:56:43.000000Z
+da7ff7fb464f4922cf312ae33a6e9752
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-4700
+4710
 
 Layout.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-b905ba8df20fdc0586e8609801fa898a
-2009-06-22T15:44:45.962479Z
-5901
+2010-04-29T21:56:43.000000Z
+ba3dc1447a4917c81b53c5bf0a330022
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-14403
+14413
 
 Exception.php
 file
@@ -100,11 +100,11 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-32f6c6d0ae976fd2a23bf1f652d15376
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
+2010-04-29T21:56:43.000000Z
+f4b09035353ab42a691e6a81fb0550f3
+2010-03-29T19:53:27.209172Z
+7490
+jwage
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-1355
+1365
 
 Range
 dir

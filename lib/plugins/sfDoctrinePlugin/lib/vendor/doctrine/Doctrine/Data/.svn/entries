@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Data
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Data
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-10-12T17:40:41.504876Z
-6484
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-01939911bdfe07e769cfd7f1fe617086
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:44.000000Z
+fa8eb872e8b52db36ba5b1a21f949927
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-14595
+14605
 
 Exception.php
 file
@@ -66,44 +66,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-055affaae62ec8302bb195331648a8e3
-2009-06-02T15:10:46.063184Z
-5798
-piccoloprincipe
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1401
-
-Export.php
-file
-
-
-
-
-2010-04-29T21:55:58.000000Z
-6ec0e2b399df4961080fd9800c033eb3
-2009-10-12T17:40:41.504876Z
-6484
+2010-04-29T21:56:44.000000Z
+936e59857d19ee90d409e765a5e27c67
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -126,5 +92,39 @@ has-props
 
 
 
-7581
+1411
+
+Export.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+609504d59e3b42f59c0e9ba21218238e
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7591
 

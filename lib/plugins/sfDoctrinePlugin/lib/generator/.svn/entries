@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/plugins/sfDoctrinePlugin/lib/generator
+http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/generator
 http://svn.symfony-project.com
 
 
 
-2010-02-10T19:42:03.644712Z
-27842
-Kris.Wallsmith
+2010-03-30T20:55:38.729911Z
+28900
+Jonathan.Wage
 
 
 svn:special svn:externals svn:needs-lock
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-a909c93e4ccedde75b6e98743b95487e
-2010-02-10T19:42:03.644712Z
-27842
-Kris.Wallsmith
+2010-04-29T21:56:40.000000Z
+624effeffe6c1092c49a293bed90227b
+2010-03-30T20:55:38.729911Z
+28900
+Jonathan.Wage
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-18770
+18821
 
 sfDoctrineColumn.class.php
 file

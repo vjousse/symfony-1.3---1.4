@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Template/Listener
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Template/Listener
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2009-11-24T19:24:33.315330Z
-6799
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-3f51741a3dcbb32df56b02436db131e1
-2009-11-03T17:00:02.556235Z
-6642
+2010-04-29T21:56:44.000000Z
+ff2d999fe584c449269d8401328f3a5a
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-5342
+5352
 
 Sluggable.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-bdebbbbddc82a9b631552c6af9123d6d
-2009-11-24T19:24:33.315330Z
-6799
+2010-04-29T21:56:44.000000Z
+b834246e827a6d93ed103d405042ce05
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-8360
+8932
 
 Timestampable.php
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-04-29T21:55:58.000000Z
-ea66c9b8566f61c0278295973a1e4751
-2009-11-03T02:10:50.838465Z
-6632
+2010-04-29T21:56:44.000000Z
+d8c344094d0991c2fcff38698d293447
+2010-03-29T19:53:27.209172Z
+7490
 jwage
 has-props
 
@@ -126,5 +126,5 @@ has-props
 
 
 
-5050
+5060
 

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/record
+END
+sfDoctrineRecord.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/record/sfDoctrineRecord.class.php
+END

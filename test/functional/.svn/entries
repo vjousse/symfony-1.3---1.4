@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_3/test/functional
+http://svn.symfony-project.com/tags/RELEASE_1_3_4/test/functional
 http://svn.symfony-project.com
 
 
 
-2010-02-08T20:51:02.851961Z
-27755
+2010-03-19T19:00:53.490685Z
+28625
 Kris.Wallsmith
 
 
@@ -205,10 +205,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-8d83ea861a866ee6c7ce640e24be8274
-2009-11-30T22:30:46.362071Z
-24615
+2010-04-29T21:56:39.000000Z
+f352a62cb9a3a6da081b7c44cf75aa7f
+2010-03-19T19:00:53.490685Z
+28625
 Kris.Wallsmith
 has-props
 
@@ -231,7 +231,7 @@ has-props
 
 
 
-19878
+20220
 
 httpcacheTest.php
 file

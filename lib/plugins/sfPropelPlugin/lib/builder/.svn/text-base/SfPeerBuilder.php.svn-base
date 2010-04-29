@@ -225,7 +225,6 @@ class SfPeerBuilder extends PHP5PeerBuilder
       $script .= str_replace("return {$this->basePeerClassname}::doValidate(".$this->getPeerClassname()."::DATABASE_NAME, ".$this->getPeerClassname()."::TABLE_NAME, \$columns);\n",
         "\$res =  {$this->basePeerClassname}::doValidate(".$this->getPeerClassname()."::DATABASE_NAME, ".$this->getPeerClassname()."::TABLE_NAME, \$columns);\n".
         "    if (\$res !== true) {\n".
-        "        \$request = sfContext::getInstance()->getRequest();\n".
         "        foreach (\$res as \$failed) {\n".
         "            \$col = ".$this->getPeerClassname()."::translateFieldname(\$failed->getColumn(), BasePeer::TYPE_COLNAME, BasePeer::TYPE_PHPNAME);\n".
         "        }\n".

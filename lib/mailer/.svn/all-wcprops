@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/mailer
+END
+sfMailer.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/29010/tags/RELEASE_1_3_4/lib/mailer/sfMailer.class.php
+END

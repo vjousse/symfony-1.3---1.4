@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 55
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Connection/Mysql
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Connection/Mysql
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Connection/Mysql/Exception.php
+/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Connection/Mysql/Exception.php
 END

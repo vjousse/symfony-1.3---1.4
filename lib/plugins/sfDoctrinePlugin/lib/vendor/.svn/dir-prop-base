@@ -1,6 +1,6 @@
 K 13
 svn:externals
 V 71
-doctrine http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib
+doctrine http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib
 
 END
