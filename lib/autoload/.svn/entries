@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/autoload
+http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/autoload
 http://svn.symfony-project.com
 
 
 
-2010-02-12T20:04:05.295383Z
-27973
+2010-02-25T07:16:16.496102Z
+28272
 Kris.Wallsmith
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-eacefbe7cc15393fd72d9359518dc491
-2010-02-12T20:04:05.295383Z
-27973
+2010-04-29T21:56:26.000000Z
+6806b7dbfc399c7e40e4ee3cae6fda2d
+2010-02-25T07:16:16.496102Z
+28272
 Kris.Wallsmith
 has-props
 

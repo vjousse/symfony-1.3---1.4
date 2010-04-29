@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine
+http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine
 http://svn.symfony-project.com
 
 
@@ -672,40 +672,6 @@ has-props
 
 136
 
-UniqueTestTable.class.php
-file
-
-
-
-
-2010-04-29T21:55:03.000000Z
-7d85296a30be41469f8529b4ce2f154f
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-131
-
 BlogAuthorTable.class.php
 file
 
@@ -739,6 +705,40 @@ has-props
 
 
 53
+
+UniqueTestTable.class.php
+file
+
+
+
+
+2010-04-29T21:55:03.000000Z
+7d85296a30be41469f8529b4ce2f154f
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+131
 
 ModelWithNumberInColumnTable.class.php
 file
@@ -1012,40 +1012,6 @@ Jonathan.Wage
 
 320
 
-BlogArticleTable.class.php
-file
-
-
-
-
-2010-04-29T21:55:03.000000Z
-35306958999ea636e3af7be81542b671
-2009-11-07T12:51:07.550901Z
-23668
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-55
-
 AuthorInheritanceConcrete.class.php
 file
 
@@ -1079,6 +1045,40 @@ has-props
 
 
 392
+
+BlogArticleTable.class.php
+file
+
+
+
+
+2010-04-29T21:55:03.000000Z
+35306958999ea636e3af7be81542b671
+2009-11-07T12:51:07.550901Z
+23668
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55
 
 Profile.class.php
 file

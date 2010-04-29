@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/task
+http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/task
 http://svn.symfony-project.com
 
 
@@ -26,13 +26,10 @@ svn:special svn:externals svn:needs-lock
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
-i18n
-dir
-
 test
 dir
 
-app
+i18n
 dir
 
 sfBaseTask.class.php
@@ -69,10 +66,13 @@ has-props
 
 11585
 
-configure
+app
 dir
 
 log
+dir
+
+configure
 dir
 
 sfTask.class.php

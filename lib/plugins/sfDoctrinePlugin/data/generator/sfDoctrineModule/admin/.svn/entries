@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin
+http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin
 http://svn.symfony-project.com
 
 
 
-2009-12-01T02:11:40.256489Z
-24634
-Jonathan.Wage
+2010-02-24T23:42:54.503877Z
+28260
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock

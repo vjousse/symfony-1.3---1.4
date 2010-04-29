@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfPropelPlugin/data/generator/sfPropelAdmin/default/template/templates
+http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/plugins/sfPropelPlugin/data/generator/sfPropelAdmin/default/template/templates
 http://svn.symfony-project.com
 
 
@@ -264,40 +264,6 @@ has-props
 
 44
 
-_edit_actions.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-599788fbcbf42755f1b9297cd7b81bdb
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-619
-
 listSuccess.php
 file
 
@@ -332,14 +298,14 @@ has-props
 
 1158
 
-_filters.php
+_edit_actions.php
 file
 
 
 
 
 2010-04-29T21:55:16.000000Z
-2b465528ca511fada398f8a57d60fda7
+599788fbcbf42755f1b9297cd7b81bdb
 2009-11-12T11:07:44.003356Z
 23810
 Kris.Wallsmith
@@ -364,7 +330,7 @@ has-props
 
 
 
-1838
+619
 
 _edit_form.php
 file
@@ -400,6 +366,40 @@ has-props
 
 3768
 
+_filters.php
+file
+
+
+
+
+2010-04-29T21:55:16.000000Z
+2b465528ca511fada398f8a57d60fda7
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1838
+
 _list.php
 file
 
@@ -434,40 +434,6 @@ has-props
 
 3194
 
-_list_td_tabular.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-ebbfcb717d26f4841c26c57770275059
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-923
-
 _edit_messages.php
 file
 
@@ -501,6 +467,40 @@ has-props
 
 
 513
+
+_list_td_tabular.php
+file
+
+
+
+
+2010-04-29T21:55:16.000000Z
+ebbfcb717d26f4841c26c57770275059
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+923
 
 editSuccess.php
 file

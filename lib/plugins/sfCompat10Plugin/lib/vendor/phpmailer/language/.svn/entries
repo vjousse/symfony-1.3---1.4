@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfCompat10Plugin/lib/vendor/phpmailer/language
+http://svn.symfony-project.com/tags/RELEASE_1_3_3/lib/plugins/sfCompat10Plugin/lib/vendor/phpmailer/language
 http://svn.symfony-project.com
 
 
@@ -60,40 +60,6 @@ has-props
 
 1174
 
-phpmailer.lang-fi.php
-file
-
-
-
-
-2010-04-29T21:55:17.000000Z
-13eee1eba8105e3a2bd6c3624daf3ef6
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1172
-
 phpmailer.lang-dk.php
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 1091
+
+phpmailer.lang-fi.php
+file
+
+
+
+
+2010-04-29T21:55:17.000000Z
+13eee1eba8105e3a2bd6c3624daf3ef6
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1172
 
 phpmailer.lang-en.php
 file
@@ -230,14 +230,14 @@ has-props
 
 1206
 
-phpmailer.lang-fr.php
+phpmailer.lang-se.php
 file
 
 
 
 
 2010-04-29T21:55:17.000000Z
-18d27b7118124dc2e65723f6113b8dcf
+0c02bc8a3f3ce1eb68915bbf0d64743e
 2009-11-12T11:07:44.003356Z
 23810
 Kris.Wallsmith
@@ -262,7 +262,7 @@ has-props
 
 
 
-1134
+1067
 
 phpmailer.lang-es.php
 file
@@ -298,14 +298,14 @@ has-props
 
 1116
 
-phpmailer.lang-se.php
+phpmailer.lang-fr.php
 file
 
 
 
 
 2010-04-29T21:55:17.000000Z
-0c02bc8a3f3ce1eb68915bbf0d64743e
+18d27b7118124dc2e65723f6113b8dcf
 2009-11-12T11:07:44.003356Z
 23810
 Kris.Wallsmith
@@ -330,7 +330,7 @@ has-props
 
 
 
-1067
+1134
 
 phpmailer.lang-nl.php
 file
@@ -400,14 +400,14 @@ has-props
 
 1173
 
-phpmailer.lang-no.php
+phpmailer.lang-cz.php
 file
 
 
 
 
 2010-04-29T21:55:17.000000Z
-5d0a727e4fa35a9bbad31f5d234489ef
+6c6e485469fb363a9d4f5a9cc0a6b768
 2009-11-12T11:07:44.003356Z
 23810
 Kris.Wallsmith
@@ -432,41 +432,7 @@ has-props
 
 
 
-1015
-
-phpmailer.lang-it.php
-file
-
-
-
-
-2010-04-29T21:55:17.000000Z
-793a49787250436c98d259d778b90298
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1320
+1091
 
 phpmailer.lang-hu.php
 file
@@ -502,14 +468,14 @@ has-props
 
 1081
 
-phpmailer.lang-cz.php
+phpmailer.lang-it.php
 file
 
 
 
 
 2010-04-29T21:55:17.000000Z
-6c6e485469fb363a9d4f5a9cc0a6b768
+793a49787250436c98d259d778b90298
 2009-11-12T11:07:44.003356Z
 23810
 Kris.Wallsmith
@@ -534,7 +500,41 @@ has-props
 
 
 
-1091
+1320
+
+phpmailer.lang-no.php
+file
+
+
+
+
+2010-04-29T21:55:17.000000Z
+5d0a727e4fa35a9bbad31f5d234489ef
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1015
 
 phpmailer.lang-ro.php
 file
