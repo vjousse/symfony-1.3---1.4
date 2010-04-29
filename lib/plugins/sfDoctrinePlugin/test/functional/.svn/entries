@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/plugins/sfDoctrinePlugin/test/functional
+http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional
 http://svn.symfony-project.com
 
 
@@ -236,7 +236,7 @@ has-props
 I18nTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/plugins/sfDoctrinePlugin/test/functional/I18nTest.php
 
 
 2010-04-29T21:57:51.000000Z

@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/request
+http://svn.symfony-project.com/branches/1.4/test/unit/request
 http://svn.symfony-project.com
 
 
 
-2009-09-26T12:42:15.919161Z
-22452
+2010-04-28T06:33:02.881769Z
+29285
 fabien
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:14.000000Z
-5e6bce04ad0df5fb83111e33f3ffa1e1
-2009-09-26T12:42:15.919161Z
-22452
+2010-04-29T21:58:00.000000Z
+8a92eeacfc6b127927d2641ace5f4b41
+2010-04-28T06:33:02.881769Z
+29285
 fabien
 has-props
 
@@ -58,12 +58,12 @@ has-props
 
 
 
-12574
+12847
 
 sfRequestTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/request/sfRequestTest.php
 
 
 2010-04-29T21:54:59.000000Z

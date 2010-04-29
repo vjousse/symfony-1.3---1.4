@@ -1,11 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
-V 45
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/mailer
-END
-sfMailer.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/mailer/sfMailer.class.php
+V 39
+/!svn/ver/28841/branches/1.4/lib/mailer
 END

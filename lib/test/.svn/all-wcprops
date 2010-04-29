@@ -1,11 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
-V 43
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/test
-END
-sfTestFunctionalBase.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/test/sfTestFunctionalBase.class.php
+V 37
+/!svn/ver/28641/branches/1.4/lib/test
 END

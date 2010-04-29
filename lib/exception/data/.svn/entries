@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/exception/data
+http://svn.symfony-project.com/branches/1.4/lib/exception/data
 http://svn.symfony-project.com
 
 
@@ -60,40 +60,6 @@ has-props
 
 2217
 
-exception.atom.php
-file
-
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/exception.atom.php
-
-
-2010-04-29T21:55:00.000000Z
-88e9bed0b392a3537b6a86a5d943f508
-2008-10-11T05:38:49.746445Z
-12138
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-67
-
 exception.xml.php
 file
 
@@ -128,6 +94,74 @@ has-props
 
 481
 
+exception.atom.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/exception.atom.php
+
+
+2010-04-29T21:55:00.000000Z
+88e9bed0b392a3537b6a86a5d943f508
+2008-10-11T05:38:49.746445Z
+12138
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+67
+
+exception.html.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/exception/data/exception.html.php
+
+
+2010-04-29T21:57:50.000000Z
+33a1bf137dc1a48cad6e231539f0918e
+2010-03-21T10:09:26.186811Z
+28640
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5387
+
 error.json.php
 file
 
@@ -161,40 +195,6 @@ has-props
 
 
 115
-
-exception.html.php
-file
-
-
-
-
-2010-04-29T21:57:50.000000Z
-33a1bf137dc1a48cad6e231539f0918e
-2010-03-21T10:09:26.186811Z
-28640
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5387
 
 error.rdf.php
 file

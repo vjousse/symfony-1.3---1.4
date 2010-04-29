@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/cache
+http://svn.symfony-project.com/branches/1.4/lib/cache
 http://svn.symfony-project.com
 
 
@@ -131,7 +131,7 @@ has-props
 sfCache.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/cache/sfCache.class.php
 
 
 2010-04-29T21:57:50.000000Z

@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/mailer
+http://svn.symfony-project.com/branches/1.4/lib/mailer
 http://svn.symfony-project.com
 
 
@@ -63,7 +63,7 @@ has-props
 sfMailer.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/mailer/sfMailer.class.php
 
 
 2010-04-29T21:57:50.000000Z

@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_3/lib/log
+http://svn.symfony-project.com/branches/1.4/lib/log
 http://svn.symfony-project.com
 
 
@@ -301,7 +301,7 @@ has-props
 sfVarLogger.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_3/lib/log/sfVarLogger.class.php
 
 
 2010-04-29T21:57:37.000000Z

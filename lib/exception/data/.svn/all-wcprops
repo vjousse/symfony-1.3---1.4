@@ -1,11 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
-V 53
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/exception/data
-END
-exception.html.php
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/exception/data/exception.html.php
+V 47
+/!svn/ver/28640/branches/1.4/lib/exception/data
 END

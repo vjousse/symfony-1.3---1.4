@@ -1,23 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
-V 43
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/view
-END
-sfPHPView.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/view/sfPHPView.class.php
-END
-sfViewCacheManager.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/view/sfViewCacheManager.class.php
-END
-sfView.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/view/sfView.class.php
+V 37
+/!svn/ver/28785/branches/1.4/lib/view
 END

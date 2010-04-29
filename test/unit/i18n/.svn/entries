@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_4/test/unit/i18n
+http://svn.symfony-project.com/branches/1.4/test/unit/i18n
 http://svn.symfony-project.com
 
 
@@ -341,7 +341,7 @@ has-props
 sfI18NTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/test/unit/i18n/sfI18NTest.php
 
 
 2010-04-29T21:57:50.000000Z

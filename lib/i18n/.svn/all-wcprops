@@ -1,23 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
-V 43
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/i18n
-END
-sfNumberFormat.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/i18n/sfNumberFormat.class.php
-END
-sfNumberFormatInfo.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/i18n/sfNumberFormatInfo.class.php
-END
-sfI18N.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/i18n/sfI18N.class.php
+V 37
+/!svn/ver/28848/branches/1.4/lib/i18n
 END

@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_4/test/unit/i18n/extract
+http://svn.symfony-project.com/branches/1.4/test/unit/i18n/extract
 http://svn.symfony-project.com
 
 
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfI18nPhpExtractorTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/test/unit/i18n/extract/sfI18nPhpExtractorTest.php
 
 
 2010-04-29T21:57:50.000000Z
@@ -63,7 +63,7 @@ has-props
 sfI18nYamlGeneratorExtractorTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/test/unit/i18n/extract/sfI18nYamlGeneratorExtractorTest.php
 
 
 2010-04-29T21:57:50.000000Z

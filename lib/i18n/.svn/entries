@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/i18n
+http://svn.symfony-project.com/branches/1.4/lib/i18n
 http://svn.symfony-project.com
 
 
@@ -25,40 +25,6 @@ svn:special svn:externals svn:needs-lock
 
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
-
-sfMessageSource_XLIFF.class.php
-file
-
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageSource_XLIFF.class.php
-
-
-2010-04-29T21:55:03.000000Z
-5fd0ff3b6a0de39d672a99c48435f935
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11663
 
 sfMessageFormat.class.php
 file
@@ -94,6 +60,40 @@ has-props
 
 6846
 
+sfMessageSource_XLIFF.class.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageSource_XLIFF.class.php
+
+
+2010-04-29T21:55:03.000000Z
+5fd0ff3b6a0de39d672a99c48435f935
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11663
+
 sfCultureInfo.class.php
 file
 
@@ -128,13 +128,10 @@ has-props
 
 22283
 
-Gettext
-dir
-
 sfNumberFormat.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/i18n/sfNumberFormat.class.php
 
 
 2010-04-29T21:57:50.000000Z
@@ -164,6 +161,9 @@ has-props
 
 
 9031
+
+Gettext
+dir
 
 sfChoiceFormat.class.php
 file
@@ -338,7 +338,7 @@ has-props
 sfNumberFormatInfo.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/i18n/sfNumberFormatInfo.class.php
 
 
 2010-04-29T21:57:50.000000Z
@@ -406,7 +406,7 @@ has-props
 sfI18N.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/i18n/sfI18N.class.php
 
 
 2010-04-29T21:57:50.000000Z

@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_4/test/unit/form
+http://svn.symfony-project.com/branches/1.4/test/unit/form
 http://svn.symfony-project.com
 
 
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfFormTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/test/unit/form/sfFormTest.php
 
 
 2010-04-29T21:57:50.000000Z

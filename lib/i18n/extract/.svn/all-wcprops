@@ -1,17 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
-V 51
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/i18n/extract
-END
-sfI18nPhpExtractor.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/i18n/extract/sfI18nPhpExtractor.class.php
-END
-sfI18nYamlGeneratorExtractor.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/!svn/ver/29003/tags/RELEASE_1_4_4/lib/i18n/extract/sfI18nYamlGeneratorExtractor.class.php
+V 45
+/!svn/ver/28848/branches/1.4/lib/i18n/extract
 END

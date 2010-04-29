@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/i18n/extract
+http://svn.symfony-project.com/branches/1.4/lib/i18n/extract
 http://svn.symfony-project.com
 
 
@@ -165,7 +165,7 @@ has-props
 sfI18nPhpExtractor.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/i18n/extract/sfI18nPhpExtractor.class.php
 
 
 2010-04-29T21:57:50.000000Z
@@ -199,7 +199,7 @@ has-props
 sfI18nYamlGeneratorExtractor.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/i18n/extract/sfI18nYamlGeneratorExtractor.class.php
 
 
 2010-04-29T21:57:50.000000Z
