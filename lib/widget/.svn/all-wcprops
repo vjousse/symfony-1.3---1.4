@@ -1,77 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget
-END
-sfWidgetFormFilterInput.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormFilterInput.class.php
-END
-sfWidgetFormDate.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormDate.class.php
-END
-sfWidgetFormSelect.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSelect.class.php
-END
-sfWidgetForm.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetForm.class.php
-END
-sfWidgetFormFilterDate.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormFilterDate.class.php
-END
-sfWidgetFormChoiceBase.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormChoiceBase.class.php
-END
-sfWidgetFormSelectCheckbox.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSelectCheckbox.class.php
-END
-sfWidgetFormInputFileEditable.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormInputFileEditable.class.php
-END
-sfWidgetFormDateRange.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormDateRange.class.php
-END
-sfWidgetFormChoice.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormChoice.class.php
-END
-sfWidgetFormSelectRadio.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSelectRadio.class.php
+/!svn/ver/25076/tags/RELEASE_1_4_1/lib/widget
 END
 sfWidgetFormSchema.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/!svn/ver/24666/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSchema.class.php
+/!svn/ver/25076/tags/RELEASE_1_4_1/lib/widget/sfWidgetFormSchema.class.php
 END

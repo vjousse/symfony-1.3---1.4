@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/autoload
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/autoload
 http://svn.symfony-project.com
 
 
 
-2009-12-01T11:13:49.740557Z
-24669
+2009-12-08T14:14:38.480688Z
+25078
 Kris.Wallsmith
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-a81621fd07fadca9aebb1578149cc57c
-2009-12-01T11:13:49.740557Z
-24669
+2010-04-29T21:57:18.000000Z
+44a4bd4a5089f6ca322bb48ab2a33114
+2009-12-08T14:14:38.480688Z
+25078
 Kris.Wallsmith
 has-props
 
@@ -63,7 +63,7 @@ has-props
 sfSimpleAutoload.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/autoload/sfSimpleAutoload.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -97,7 +97,7 @@ has-props
 sfAutoload.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/autoload/sfAutoload.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -131,7 +131,7 @@ has-props
 sfAutoloadAgain.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/autoload/sfAutoloadAgain.class.php
 
 
 2010-04-29T21:55:01.000000Z

@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/widget
 http://svn.symfony-project.com
 
 
 
-2009-11-30T21:20:19.002184Z
-24605
+2009-12-04T20:42:16.098259Z
+24963
 FabianLange
 
 
@@ -26,44 +26,13 @@ svn:special svn:externals svn:needs-lock
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
-sfWidgetFormInputText.class.php
-file
-
-
-
-
-2010-04-29T21:55:00.000000Z
-007d5c28935e5829d8ed7506eff293e9
-2009-08-08T14:11:51.348239Z
-20941
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-921
+i18n
+dir
 
 sfWidgetFormSelectMany.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSelectMany.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -94,13 +63,44 @@ has-props
 
 965
 
-i18n
-dir
+sfWidgetFormInputText.class.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormInputText.class.php
+
+
+2010-04-29T21:55:00.000000Z
+007d5c28935e5829d8ed7506eff293e9
+2009-08-08T14:11:51.348239Z
+20941
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+921
 
 sfWidgetFormFilterInput.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormFilterInput.class.php
 
 
 
@@ -134,7 +134,7 @@ has-props
 sfWidgetFormInputCheckbox.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormInputCheckbox.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -168,7 +168,7 @@ has-props
 sfWidgetFormInputHidden.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormInputHidden.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -199,44 +199,10 @@ has-props
 
 976
 
-sfWidgetFormDate.class.php
-file
-
-
-
-
-
-ee27556b31d555b144836e4b1071df4b
-2009-11-30T21:20:19.002184Z
-24605
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4905
-
 sfWidgetFormTextarea.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormTextarea.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -267,17 +233,17 @@ has-props
 
 1495
 
-sfWidgetForm.class.php
+sfWidgetFormDate.class.php
 file
 
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormDate.class.php
 
 
 
-
-82948eda766e83c0289396673ab24185
-2009-11-18T13:12:40.498957Z
-24137
-fabien
+ee27556b31d555b144836e4b1071df4b
+2009-11-30T21:20:19.002184Z
+24605
+FabianLange
 has-props
 
 
@@ -299,12 +265,12 @@ has-props
 
 
 
-9130
+4905
 
 sfWidgetFormSelect.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSelect.class.php
 
 
 
@@ -335,10 +301,44 @@ has-props
 
 3137
 
+sfWidgetForm.class.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetForm.class.php
+
+
+
+82948eda766e83c0289396673ab24185
+2009-11-18T13:12:40.498957Z
+24137
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9130
+
 sfWidgetFormSchemaFormatterList.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSchemaFormatterList.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -372,7 +372,7 @@ has-props
 sfWidgetFormInputPassword.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormInputPassword.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -406,7 +406,7 @@ has-props
 sfWidgetFormFilterDate.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormFilterDate.class.php
 
 
 
@@ -440,7 +440,7 @@ has-props
 sfWidgetFormSchemaFormatter.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSchemaFormatter.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -474,7 +474,7 @@ has-props
 sfWidgetFormChoiceBase.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormChoiceBase.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -508,7 +508,7 @@ bschussek
 sfWidgetFormSelectCheckbox.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSelectCheckbox.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -542,7 +542,7 @@ has-props
 sfWidgetFormSchemaForEach.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSchemaForEach.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -576,7 +576,7 @@ has-props
 sfWidgetFormInputFileEditable.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormInputFileEditable.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -610,7 +610,7 @@ has-props
 sfWidgetFormDateRange.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormDateRange.class.php
 
 
 
@@ -644,7 +644,7 @@ has-props
 sfWidgetFormChoice.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormChoice.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -678,7 +678,7 @@ has-props
 sfWidget.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidget.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -712,7 +712,7 @@ has-props
 sfWidgetFormDateTime.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormDateTime.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -746,7 +746,7 @@ has-props
 sfWidgetFormSchemaFormatterTable.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSchemaFormatterTable.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -780,7 +780,7 @@ has-props
 sfWidgetFormSelectRadio.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSelectRadio.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -814,7 +814,7 @@ has-props
 sfWidgetFormTime.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormTime.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -848,7 +848,7 @@ has-props
 sfWidgetFormInputFile.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormInputFile.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -882,7 +882,7 @@ has-props
 sfWidgetFormInput.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormInput.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -919,11 +919,11 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-c3302054ee74fcf86e78c8f2b76880c6
-2009-11-23T15:16:24.078762Z
-24277
-Kris.Wallsmith
+2010-04-29T21:57:18.000000Z
+612a4d1d1237ec71b279e88a6103dc89
+2009-12-04T20:42:16.098259Z
+24963
+FabianLange
 has-props
 
 
@@ -945,12 +945,12 @@ has-props
 
 
 
-22992
+22951
 
 sfWidgetFormSchemaDecorator.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/sfWidgetFormSchemaDecorator.class.php
 
 
 2010-04-29T21:55:00.000000Z

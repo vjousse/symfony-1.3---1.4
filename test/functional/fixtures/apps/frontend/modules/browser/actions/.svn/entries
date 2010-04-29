@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/functional/fixtures/apps/frontend/modules/browser/actions
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/test/functional/fixtures/apps/frontend/modules/browser/actions
 http://svn.symfony-project.com
 
 
 
-2008-10-16T12:11:16.368392Z
-12215
-fabien
+2009-12-06T20:48:52.154761Z
+24992
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-8feeec9ee362b32f42a870795b6b7669
-2008-10-16T12:11:16.368392Z
-12215
-fabien
+2010-04-29T21:57:18.000000Z
+d7844c1764c9fece0f12e2686b487fc2
+2009-12-06T20:48:52.154761Z
+24992
+Kris.Wallsmith
 has-props
 
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-966
+1302
 

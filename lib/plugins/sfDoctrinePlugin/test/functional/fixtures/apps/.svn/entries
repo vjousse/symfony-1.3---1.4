@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps
 http://svn.symfony-project.com
 
 
 
-2009-11-26T11:52:47.753777Z
-24434
-fabien
+2009-12-05T15:05:03.068673Z
+24971
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock

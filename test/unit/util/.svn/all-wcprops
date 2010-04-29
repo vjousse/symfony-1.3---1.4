@@ -1,41 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util
+/!svn/ver/25076/tags/RELEASE_1_4_1/test/unit/util
 END
 sfClassManipulatorTest.php
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util/sfClassManipulatorTest.php
-END
-sfBrowserTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util/sfBrowserTest.php
-END
-sfToolkitTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util/sfToolkitTest.php
-END
-sfDomCssSelectorTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util/sfDomCssSelectorTest.php
-END
-sfParameterHolderTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util/sfParameterHolderTest.php
-END
-sfNamespacedParameterHolderTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/util/sfNamespacedParameterHolderTest.php
+/!svn/ver/25076/tags/RELEASE_1_4_1/test/unit/util/sfClassManipulatorTest.php
 END

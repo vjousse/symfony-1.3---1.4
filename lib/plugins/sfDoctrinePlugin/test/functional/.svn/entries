@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/plugins/sfDoctrinePlugin/test/functional
 http://svn.symfony-project.com
 
 
@@ -23,13 +23,13 @@ svn:special svn:externals svn:needs-lock
 
 
 
-
+incomplete
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 AdminGenBrowser.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenBrowser.class.php
 
 
 2010-04-29T21:56:58.000000Z
@@ -60,13 +60,47 @@ has-props
 
 6804
 
+FormGeneratorTest.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/FormGeneratorTest.php
+
+
+2010-04-29T21:56:58.000000Z
+439071f1e714116550faaaf12b9e94b7
+2009-11-23T21:45:03.892671Z
+24294
+Jonathan.Wage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4431
+
 Ticket
 dir
 
 PagerTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/PagerTest.php
 
 
 2010-04-29T21:56:58.000000Z
@@ -100,7 +134,7 @@ has-props
 RouteTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/RouteTest.php
 
 
 
@@ -134,7 +168,7 @@ has-props
 ActionRedirectTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/ActionRedirectTest.php
 
 
 2010-04-29T21:55:03.000000Z
@@ -168,7 +202,7 @@ has-props
 sfDoctrineRecordTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/sfDoctrineRecordTest.php
 
 
 2010-04-29T21:55:03.000000Z
@@ -199,112 +233,10 @@ has-props
 
 2480
 
-FormTest.php
-file
-
-
-
-
-2010-04-29T21:55:03.000000Z
-aa321a052be9477c83cb731db0e4c408
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3173
-
-UniqueTest.php
-file
-
-
-
-
-2010-04-29T21:55:03.000000Z
-d6ef375db4cf7748f0e60e61bbad5ccb
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-972
-
-FormGeneratorTest.php
-file
-
-
-
-
-2010-04-29T21:56:58.000000Z
-439071f1e714116550faaaf12b9e94b7
-2009-11-23T21:45:03.892671Z
-24294
-Jonathan.Wage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4431
-
 I18nTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/I18nTest.php
 
 
 2010-04-29T21:56:58.000000Z
@@ -338,7 +270,7 @@ has-props
 AdminGenTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenTest.php
 
 
 2010-04-29T21:55:03.000000Z
@@ -369,13 +301,47 @@ has-props
 
 476
 
+FormTest.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/FormTest.php
+
+
+2010-04-29T21:55:03.000000Z
+aa321a052be9477c83cb731db0e4c408
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3173
+
 fixtures
 dir
 
 UploadTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/UploadTest.php
 
 
 2010-04-29T21:56:58.000000Z
@@ -409,7 +375,7 @@ has-props
 EnvironmentSetupTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/EnvironmentSetupTest.php
 
 
 2010-04-29T21:55:03.000000Z
@@ -439,4 +405,38 @@ has-props
 
 
 2178
+
+UniqueTest.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/UniqueTest.php
+
+
+2010-04-29T21:55:03.000000Z
+d6ef375db4cf7748f0e60e61bbad5ccb
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+972
 

@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib
 http://svn.symfony-project.com
 
 
@@ -23,7 +23,7 @@ svn:externals
 
 
 
-
+incomplete
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 escaper
@@ -77,25 +77,25 @@ dir
 command
 dir
 
-test
+i18n
 dir
 
 helper
 dir
 
-i18n
-dir
-
-plugins
+test
 dir
 
 log
 dir
 
-addon
+plugins
 dir
 
 filter
+dir
+
+addon
 dir
 
 routing
@@ -113,10 +113,10 @@ dir
 config
 dir
 
-util
+action
 dir
 
-action
+util
 dir
 
 user

@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/plugins
 http://svn.symfony-project.com
 
 
@@ -23,7 +23,7 @@ svn:special svn:externals svn:needs-lock
 
 
 
-
+incomplete
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 sfDoctrinePlugin

@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/plugin
 http://svn.symfony-project.com
 
 
 
-2009-11-12T11:07:44.003356Z
-23810
+2009-12-07T22:00:55.846514Z
+25051
 Kris.Wallsmith
 
 
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfPearEnvironment.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPearEnvironment.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -63,7 +63,7 @@ has-props
 sfPluginDependencyException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPluginDependencyException.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -97,7 +97,7 @@ has-props
 sfPearConfig.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPearConfig.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -131,7 +131,7 @@ has-props
 sfPluginException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPluginException.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -168,11 +168,11 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-02bc92f68c0a1c8e767a95828bdbcff1
-2009-08-06T06:05:00.979469Z
-20837
-fabien
+2010-04-29T21:57:18.000000Z
+bb8aa8c270c422df6ffcac67c6a50110
+2009-12-07T22:00:55.846514Z
+25051
+Kris.Wallsmith
 has-props
 
 
@@ -194,12 +194,12 @@ has-props
 
 
 
-7858
+7794
 
 sfPearRestPlugin.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPearRestPlugin.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -233,7 +233,7 @@ has-props
 sfPluginRecursiveDependencyException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPluginRecursiveDependencyException.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -267,7 +267,7 @@ has-props
 sfPearRest.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPearRest.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -301,7 +301,7 @@ has-props
 sfPearDownloader.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPearDownloader.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -335,7 +335,7 @@ has-props
 sfPearFrontendPlugin.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPearFrontendPlugin.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -369,7 +369,7 @@ has-props
 sfPearRest10.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPearRest10.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -403,7 +403,7 @@ has-props
 sfPearRest11.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPearRest11.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -437,7 +437,7 @@ has-props
 sfPluginManager.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPluginManager.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -471,7 +471,7 @@ has-props
 sfPluginRestException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin/sfPluginRestException.class.php
 
 
 2010-04-29T21:55:00.000000Z

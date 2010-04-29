@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/task/project
 http://svn.symfony-project.com
 
 
 
-2009-11-30T22:07:34.550040Z
-24610
-FabianLange
+2009-12-01T19:38:44.140240Z
+24706
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfProjectDisableTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectDisableTask.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -63,7 +63,7 @@ has-props
 sfProjectSendEmailsTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectSendEmailsTask.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -97,7 +97,7 @@ has-props
 sfProjectEnableTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectEnableTask.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -131,7 +131,7 @@ has-props
 sfProjectValidateTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectValidateTask.class.php
 
 
 
@@ -165,7 +165,7 @@ has-props
 sfProjectPermissionsTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectPermissionsTask.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -199,7 +199,7 @@ has-props
 sfProjectDeployTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectDeployTask.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -236,7 +236,7 @@ dir
 sfProjectClearControllersTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectClearControllersTask.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -270,7 +270,7 @@ has-props
 sfProjectOptimizeTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectOptimizeTask.class.php
 
 
 2010-04-29T21:56:57.000000Z

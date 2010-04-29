@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/Ticket
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/plugins/sfDoctrinePlugin/test/functional/Ticket
 http://svn.symfony-project.com
 
 
 
-2009-11-12T11:07:44.003356Z
-23810
+2009-12-05T14:28:15.157258Z
+24970
 Kris.Wallsmith
 
 
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 5269Test.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/Ticket/5269Test.php
 
 
 2010-04-29T21:55:03.000000Z
@@ -59,4 +59,38 @@ has-props
 
 
 1163
+
+7774Test.php
+file
+
+
+
+
+2010-04-29T21:57:18.000000Z
+0d10b4a32969a60e490485c6d73cddbe
+2009-12-05T14:28:15.157258Z
+24970
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+556
 
