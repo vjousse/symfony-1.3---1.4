@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/unit
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/unit
 http://svn.symfony-project.com
 
 
 
-2009-12-01T18:36:11.181357Z
-24703
-Jonathan.Wage
+2010-02-11T18:12:56.431500Z
+27915
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -62,6 +62,9 @@ has-props
 
 
 2598
+
+validator
+dir
 
 sfDoctrineDatabaseTest.php
 file

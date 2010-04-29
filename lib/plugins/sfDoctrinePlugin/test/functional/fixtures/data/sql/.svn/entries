@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/data/sql
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/data/sql
 http://svn.symfony-project.com
 
 
 
-2009-12-05T14:28:15.157258Z
-24970
+2010-02-08T15:46:35.227110Z
+27742
 Kris.Wallsmith
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:54.000000Z
-7e0d7b1db1487a9d966ab165bc4a9b81
-2009-12-05T14:28:15.157258Z
-24970
+2010-04-29T21:56:11.000000Z
+4a5748f4c74588be3453cceac369adf5
+2010-02-08T15:46:35.227110Z
+27742
 Kris.Wallsmith
 
 
@@ -58,5 +58,5 @@ Kris.Wallsmith
 
 
 
-2576
+2658
 

@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/test/functional
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/test/functional
 http://svn.symfony-project.com
 
 
 
-2009-12-06T20:48:52.154761Z
-24992
+2010-02-08T20:51:02.851961Z
+27755
 Kris.Wallsmith
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-e917f4f139a9f551b432fbda54e2a0a9
-2009-11-14T13:44:52.794445Z
-23902
-fabien
+2010-04-29T21:56:11.000000Z
+7ae6df75453a193d500e2e802e299e50
+2010-02-08T20:51:02.851961Z
+27755
+Kris.Wallsmith
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-1120
+1467
 
 genericTest.php
 file

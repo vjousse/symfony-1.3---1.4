@@ -1,11 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib/form
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/lib/form
+END
+sfFormFilterDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/lib/form/sfFormFilterDoctrine.class.php
 END
 sfFormDoctrine.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 97
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib/form/sfFormDoctrine.class.php
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/lib/form/sfFormDoctrine.class.php
 END

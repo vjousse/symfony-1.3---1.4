@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/config
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/config
 END
-sfRoutingConfigHandler.class.php
+sfProjectConfiguration.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/config/sfRoutingConfigHandler.class.php
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/config/sfProjectConfiguration.class.php
 END

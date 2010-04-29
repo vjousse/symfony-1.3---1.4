@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/generator
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/generator
 http://svn.symfony-project.com
 
 
 
-2009-11-14T13:14:07.670372Z
-23900
-bschussek
+2009-12-16T13:08:43.921166Z
+25459
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -236,10 +236,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-6c1efbf2028b5a18dc265ac8f890f062
-2009-10-19T16:37:13.540511Z
-23194
+2010-04-29T21:56:11.000000Z
+428f97e5ade5ab52ceabb1d8fc6158b1
+2009-12-16T13:08:43.921166Z
+25459
 fabien
 has-props
 
@@ -262,7 +262,7 @@ has-props
 
 
 
-13050
+13077
 
 sfModelGeneratorHelper.class.php
 file

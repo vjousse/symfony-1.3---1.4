@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/config/config
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/config/config
 http://svn.symfony-project.com
 
 
 
-2009-11-16T17:22:19.943601Z
-24034
-Kris.Wallsmith
+2010-01-19T10:14:08.746646Z
+26867
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:17.000000Z
-b6503901883430a35271f290f906fc8c
-2009-09-22T07:53:42.551586Z
-22235
+2010-04-29T21:56:12.000000Z
+26d0bf8d716da09e596e4828b202364f
+2010-01-19T10:14:08.746646Z
+26867
 fabien
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-3090
+3091
 
 core_compile.yml
 file

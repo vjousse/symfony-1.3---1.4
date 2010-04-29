@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib/debug
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/lib/debug
 END
 sfWebDebugPanelDoctrine.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 107
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib/debug/sfWebDebugPanelDoctrine.class.php
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/lib/debug/sfWebDebugPanelDoctrine.class.php
 END

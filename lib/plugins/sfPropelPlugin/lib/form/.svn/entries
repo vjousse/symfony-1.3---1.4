@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/lib/form
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfPropelPlugin/lib/form
 http://svn.symfony-project.com
 
 
 
-2009-11-17T06:39:35.953872Z
-24068
+2010-02-11T18:12:56.431500Z
+27915
 Kris.Wallsmith
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-da33748cc07c8a9ce9f88e54a98085f6
-2009-11-17T06:39:35.953872Z
-24068
+2010-04-29T21:56:11.000000Z
+423286584015d54281e835f46061fa53
+2010-02-11T18:12:56.431500Z
+27915
 Kris.Wallsmith
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-8707
+8683
 
 sfFormFilterPropel.class.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-56b6672a3d8fdcfa29ed6cf64b5099a9
-2009-10-13T22:44:18.775851Z
-23018
+2010-04-29T21:56:11.000000Z
+8ad039e5b3cd94f25001e5aca63415ca
+2010-02-08T18:18:44.740130Z
+27748
 Kris.Wallsmith
 has-props
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-7816
+7817
 

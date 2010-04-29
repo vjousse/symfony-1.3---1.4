@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/data/generator/sfPropelFormFilter
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfPropelPlugin/data/generator/sfPropelFormFilter
 http://svn.symfony-project.com
 
 
 
-2009-11-16T21:08:08.565384Z
-24051
-Kris.Wallsmith
+2010-02-03T09:22:49.917680Z
+27479
+FabianLange
 
 
 svn:special svn:externals svn:needs-lock

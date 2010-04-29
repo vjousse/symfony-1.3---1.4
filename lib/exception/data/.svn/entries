@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/exception/data
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/exception/data
 http://svn.symfony-project.com
 
 
@@ -60,40 +60,6 @@ has-props
 
 2217
 
-exception.xml.php
-file
-
-
-
-
-2010-04-29T21:55:00.000000Z
-38c6bbd57a236e109ced780f26a65cb4
-2008-10-14T21:45:36.141152Z
-12191
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-481
-
 exception.atom.php
 file
 
@@ -128,16 +94,16 @@ has-props
 
 67
 
-exception.html.php
+exception.xml.php
 file
 
 
 
 
-2010-04-29T21:55:15.000000Z
-59622075ec35df4d476af895d83549bd
-2009-11-12T11:07:44.003356Z
-23810
+2010-04-29T21:55:00.000000Z
+38c6bbd57a236e109ced780f26a65cb4
+2008-10-14T21:45:36.141152Z
+12191
 Kris.Wallsmith
 has-props
 
@@ -160,7 +126,7 @@ has-props
 
 
 
-5323
+481
 
 error.json.php
 file
@@ -195,6 +161,40 @@ has-props
 
 
 115
+
+exception.html.php
+file
+
+
+
+
+2010-04-29T21:55:15.000000Z
+59622075ec35df4d476af895d83549bd
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5323
 
 error.rdf.php
 file

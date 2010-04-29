@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/i18n
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/i18n
 http://svn.symfony-project.com
 
 
 
-2009-11-30T23:49:47.071555Z
-24622
-FabianLange
+2010-01-15T15:28:37.247301Z
+26681
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -25,40 +25,6 @@ svn:special svn:externals svn:needs-lock
 
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
-
-sfMessageFormat.class.php
-file
-
-
-
-
-
-fa8c75acaa38670bef212caa6796d2e7
-2009-11-30T23:49:47.071555Z
-24622
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6846
 
 sfMessageSource_XLIFF.class.php
 file
@@ -94,6 +60,40 @@ has-props
 
 11663
 
+sfMessageFormat.class.php
+file
+
+
+
+
+
+fa8c75acaa38670bef212caa6796d2e7
+2009-11-30T23:49:47.071555Z
+24622
+FabianLange
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6846
+
 sfCultureInfo.class.php
 file
 
@@ -128,16 +128,19 @@ has-props
 
 22283
 
+Gettext
+dir
+
 sfNumberFormat.class.php
 file
 
 
 
 
-2010-04-29T21:55:15.000000Z
-89682ace3ccba0f6335f81065b964ec0
-2009-11-14T11:40:15.331390Z
-23894
+2010-04-29T21:56:11.000000Z
+3bc397300f17bf51c4b76b0771d5c730
+2010-01-15T15:28:37.247301Z
+26681
 fabien
 has-props
 
@@ -160,10 +163,7 @@ has-props
 
 
 
-9330
-
-Gettext
-dir
+9078
 
 sfChoiceFormat.class.php
 file

@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib/pager
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/lib/pager
 http://svn.symfony-project.com
 
 
 
-2009-11-12T11:07:44.003356Z
-23810
+2010-02-08T18:02:19.568173Z
+27747
 Kris.Wallsmith
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-3e8fc13b6bb1f9b3c427d1de4dcfa760
-2009-11-12T11:07:44.003356Z
-23810
+2010-04-29T21:56:11.000000Z
+c74cb89a729cddd289cc85929bff98d4
+2010-02-08T18:02:19.568173Z
+27747
 Kris.Wallsmith
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-3913
+4147
 

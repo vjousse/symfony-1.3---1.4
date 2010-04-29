@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine
 http://svn.symfony-project.com
 
 
 
-2009-12-05T15:05:03.068673Z
-24971
+2010-02-08T15:46:35.227110Z
+27742
 Kris.Wallsmith
 
 
@@ -25,74 +25,6 @@ svn:special svn:externals svn:needs-lock
 
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
-
-BaseFormDoctrine.class.php
-file
-
-
-
-
-2010-04-29T21:55:03.000000Z
-0e4b3f1066bce57e6bf8a6113ccb37c6
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-254
-
-AuthorForm.class.php
-file
-
-
-
-
-2010-04-29T21:55:03.000000Z
-6c504e300f046e352324b031b491bf0b
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-247
 
 ArticleTranslationForm.class.php
 file
@@ -128,16 +60,16 @@ has-props
 
 307
 
-BlogAuthorForm.class.php
+AuthorForm.class.php
 file
 
 
 
 
 2010-04-29T21:55:03.000000Z
-748d6fd2ba16c2bc82728d6b530cf5cb
-2009-11-07T12:51:07.550901Z
-23668
+6c504e300f046e352324b031b491bf0b
+2009-11-12T11:07:44.003356Z
+23810
 Kris.Wallsmith
 has-props
 
@@ -160,7 +92,75 @@ has-props
 
 
 
-355
+247
+
+BaseFormDoctrine.class.php
+file
+
+
+
+
+2010-04-29T21:55:03.000000Z
+0e4b3f1066bce57e6bf8a6113ccb37c6
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+254
+
+UniqueTestForm.class.php
+file
+
+
+
+
+2010-04-29T21:55:03.000000Z
+15ec59b56030be70b9f1072fe72a4263
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+267
 
 BlogArticleTranslationForm.class.php
 file
@@ -196,16 +196,16 @@ has-props
 
 345
 
-UniqueTestForm.class.php
+BlogAuthorForm.class.php
 file
 
 
 
 
 2010-04-29T21:55:03.000000Z
-15ec59b56030be70b9f1072fe72a4263
-2009-11-12T11:07:44.003356Z
-23810
+748d6fd2ba16c2bc82728d6b530cf5cb
+2009-11-07T12:51:07.550901Z
+23668
 Kris.Wallsmith
 has-props
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-267
+355
 
 FormGeneratorTestForm.class.php
 file
@@ -569,6 +569,40 @@ has-props
 
 
 922
+
+ResourceTypeForm.class.php
+file
+
+
+
+
+2010-04-29T21:56:11.000000Z
+18854d71cdbbfc9950d83b89a37030e2
+2010-02-08T15:46:35.227110Z
+27742
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+305
 
 base
 dir

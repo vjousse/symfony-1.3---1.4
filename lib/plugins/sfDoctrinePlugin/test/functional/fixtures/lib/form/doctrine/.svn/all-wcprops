@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 106
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine
 END
-AttachmentForm.class.php
+ResourceTypeForm.class.php
 K 25
 svn:wc:ra_dav:version-url
-V 131
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/AttachmentForm.class.php
+V 133
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/ResourceTypeForm.class.php
 END

@@ -1,11 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 43
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/util
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/util
 END
-sfClassManipulator.class.php
+sfBrowserBase.class.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/util/sfClassManipulator.class.php
+V 67
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/util/sfBrowserBase.class.php
+END
+sfDomCssSelector.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/util/sfDomCssSelector.class.php
 END

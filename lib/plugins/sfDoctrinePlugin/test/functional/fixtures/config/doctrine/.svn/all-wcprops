@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 104
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config/doctrine
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config/doctrine
 END
-linked_schema.yml
+schema.yml
 K 25
 svn:wc:ra_dav:version-url
-V 122
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config/doctrine/linked_schema.yml
+V 115
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config/doctrine/schema.yml
 END

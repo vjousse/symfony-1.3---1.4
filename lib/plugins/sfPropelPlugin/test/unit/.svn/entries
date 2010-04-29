@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/test/unit
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfPropelPlugin/test/unit
 http://svn.symfony-project.com
 
 
 
-2009-11-16T13:02:07.158809Z
-24011
+2010-02-12T13:31:30.838136Z
+27940
 Kris.Wallsmith
 
 
@@ -63,7 +63,13 @@ has-props
 
 5671
 
+form
+dir
+
 database
+dir
+
+validator
 dir
 
 debug

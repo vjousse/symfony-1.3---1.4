@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/lib/addon
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfPropelPlugin/lib/addon
 http://svn.symfony-project.com
 
 
 
-2009-11-25T18:35:39.321613Z
-24392
-FabianLange
+2010-02-08T18:02:19.568173Z
+27747
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-00dc1412f7f722085ba3b4bb360cd9f5
-2009-11-12T11:07:44.003356Z
-23810
+2010-04-29T21:56:11.000000Z
+8555a62c4f9ec742026b9a8d9a0f41e2
+2010-02-08T18:02:19.568173Z
+27747
 Kris.Wallsmith
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-4234
+4235
 
 sfPropel.class.php
 file

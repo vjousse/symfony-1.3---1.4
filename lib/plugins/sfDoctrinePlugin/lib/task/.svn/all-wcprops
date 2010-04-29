@@ -1,23 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib/task
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/lib/task
 END
-sfDoctrineBuildAllTask.class.php
+sfDoctrineInsertSqlTask.class.php
 K 25
 svn:wc:ra_dav:version-url
-V 105
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildAllTask.class.php
-END
-sfDoctrineBuildModelTask.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 107
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildModelTask.class.php
-END
-sfDoctrineBaseTask.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 101
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBaseTask.class.php
+V 106
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineInsertSqlTask.class.php
 END

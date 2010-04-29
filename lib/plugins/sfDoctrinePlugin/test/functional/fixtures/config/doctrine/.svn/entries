@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config/doctrine
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config/doctrine
 http://svn.symfony-project.com
 
 
 
-2009-12-05T14:28:15.157258Z
-24970
+2010-02-08T15:46:35.227110Z
+27742
 Kris.Wallsmith
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-c54c48c80fd5be4d70221ec84c7add32
-2009-12-01T01:32:29.613205Z
-24632
-Jonathan.Wage
+2010-04-29T21:56:11.000000Z
+16aaa57777573b27693ba645c2d99354
+2010-02-08T15:46:35.227110Z
+27742
+Kris.Wallsmith
 
 
 
@@ -58,7 +58,7 @@ Jonathan.Wage
 
 
 
-3524
+3654
 
 linked_schema.yml
 file

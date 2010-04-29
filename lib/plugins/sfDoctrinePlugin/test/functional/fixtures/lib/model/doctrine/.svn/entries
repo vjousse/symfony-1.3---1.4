@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine
 http://svn.symfony-project.com
 
 
 
-2009-12-05T14:28:15.157258Z
-24970
+2010-02-08T15:46:35.227110Z
+27742
 Kris.Wallsmith
 
 
@@ -672,40 +672,6 @@ has-props
 
 136
 
-BlogAuthorTable.class.php
-file
-
-
-
-
-2010-04-29T21:55:03.000000Z
-64ae923c6e4de7d4e968fa829738d158
-2009-11-07T12:51:07.550901Z
-23668
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-53
-
 UniqueTestTable.class.php
 file
 
@@ -739,6 +705,40 @@ has-props
 
 
 131
+
+BlogAuthorTable.class.php
+file
+
+
+
+
+2010-04-29T21:55:03.000000Z
+64ae923c6e4de7d4e968fa829738d158
+2009-11-07T12:51:07.550901Z
+23668
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53
 
 ModelWithNumberInColumnTable.class.php
 file
@@ -910,6 +910,40 @@ has-props
 
 127
 
+ResourceType.class.php
+file
+
+
+
+
+2010-04-29T21:56:11.000000Z
+5f0546169722650487d081b354ed84ec
+2010-02-08T15:46:35.227110Z
+27742
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+323
+
 FormGeneratorTest2.class.php
 file
 
@@ -978,40 +1012,6 @@ Jonathan.Wage
 
 320
 
-AuthorInheritanceConcrete.class.php
-file
-
-
-
-
-2010-04-29T21:55:03.000000Z
-5e4e84e2e28d938f61c2475a5e9657bb
-2009-10-02T23:19:37.930157Z
-22748
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-392
-
 BlogArticleTable.class.php
 file
 
@@ -1045,6 +1045,40 @@ has-props
 
 
 55
+
+AuthorInheritanceConcrete.class.php
+file
+
+
+
+
+2010-04-29T21:55:03.000000Z
+5e4e84e2e28d938f61c2475a5e9657bb
+2009-10-02T23:19:37.930157Z
+22748
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+392
 
 Profile.class.php
 file
@@ -1113,6 +1147,40 @@ has-props
 
 
 56
+
+ResourceTypeTable.class.php
+file
+
+
+
+
+2010-04-29T21:56:11.000000Z
+e399631c07c20697e306cf5abd9cd872
+2010-02-08T15:46:35.227110Z
+27742
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+58
 
 GroupTable.class.php
 file

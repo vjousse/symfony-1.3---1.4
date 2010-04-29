@@ -2,13 +2,13 @@
 
 dir
 1722
-http://propel.mirror.svn.symfony-project.com/tags/1.4.0/generator/classes/propel/engine/database/reverse/pgsql
+http://propel.mirror.svn.symfony-project.com/tags/1.4.1/generator/classes/propel/engine/database/reverse/pgsql
 http://propel.mirror.svn.symfony-project.com
 
 
 
-2009-10-26T20:54:39.333354Z
-1262
+2009-12-31T08:05:10.307912Z
+1397
 francois
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:19.000000Z
-b4f8cae8133dbbdf324ace0ebb712280
-2009-10-26T20:54:39.333354Z
-1262
+2010-04-29T21:56:13.000000Z
+b6d4a87bb293ed42395744c42b225a42
+2009-12-31T08:05:10.307912Z
+1397
 francois
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-17812
+18088
 

@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfCompat10Plugin/lib/util
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfCompat10Plugin/lib/util
 http://svn.symfony-project.com
 
 
 
-2008-06-15T07:15:36.730502Z
-9588
+2010-02-02T13:09:54.248684Z
+27415
 FabianLange
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:17.000000Z
-1a352e58cb4a27b3b4d2b33be96a8519
-2008-06-15T07:15:36.730502Z
-9588
+2010-04-29T21:56:11.000000Z
+11fabdc835799ae452245c44e7f8b64b
+2010-02-02T13:09:54.248684Z
+27415
 FabianLange
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-7779
+8112
 

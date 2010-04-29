@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/!svn/ver/25072/tags/RELEASE_1_3_1/test/functional
+/!svn/ver/27972/tags/RELEASE_1_3_2/test/functional
 END
-sfTestBrowserTest.php
+escapingTest.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/!svn/ver/25072/tags/RELEASE_1_3_1/test/functional/sfTestBrowserTest.php
+V 67
+/!svn/ver/27972/tags/RELEASE_1_3_2/test/functional/escapingTest.php
 END

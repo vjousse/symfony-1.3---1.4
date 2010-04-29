@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfPropelPlugin/test/unit/validator
+END
+sfValidatorPropelUniqueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfPropelPlugin/test/unit/validator/sfValidatorPropelUniqueTest.php
+END

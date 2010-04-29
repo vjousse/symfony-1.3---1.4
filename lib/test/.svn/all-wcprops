@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/test
+END
+sfTestFunctionalBase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/test/sfTestFunctionalBase.class.php
+END
+sfTesterRequest.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/test/sfTesterRequest.class.php
+END
+sfTesterResponse.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/test/sfTesterResponse.class.php
+END

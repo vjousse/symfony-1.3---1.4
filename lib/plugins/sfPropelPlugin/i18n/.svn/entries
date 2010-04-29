@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/i18n
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfPropelPlugin/i18n
 http://svn.symfony-project.com
 
 
 
-2009-12-05T21:02:29.033258Z
-24976
+2009-12-16T13:08:00.328227Z
+25458
 FabianLange
 
 
@@ -604,40 +604,6 @@ bschussek
 
 5922
 
-sf_admin.nl.xml
-file
-
-
-
-
-2010-04-29T21:55:04.000000Z
-f419ad64b3505f2bffe4d50dd40a2af1
-2008-11-27T10:53:20.077847Z
-13399
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3915
-
 sf_admin.hr.xml
 file
 
@@ -671,6 +637,40 @@ fabien
 
 
 4425
+
+sf_admin.nl.xml
+file
+
+
+
+
+2010-04-29T21:55:04.000000Z
+f419ad64b3505f2bffe4d50dd40a2af1
+2008-11-27T10:53:20.077847Z
+13399
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3915
 
 sf_admin.pl.xml
 file
@@ -706,40 +706,6 @@ FabianLange
 
 5803
 
-sf_admin.no.xml
-file
-
-
-
-
-2010-04-29T21:55:04.000000Z
-a7993b2c5a7f79cf31791a5f51d0ae89
-2008-11-27T10:53:20.077847Z
-13399
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3413
-
 sf_admin.hu.xml
 file
 
@@ -773,6 +739,40 @@ fabien
 
 
 4579
+
+sf_admin.no.xml
+file
+
+
+
+
+2010-04-29T21:55:04.000000Z
+a7993b2c5a7f79cf31791a5f51d0ae89
+2008-11-27T10:53:20.077847Z
+13399
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3413
 
 sf_admin.lt.xml
 file
@@ -876,40 +876,6 @@ fabien
 
 4448
 
-sf_admin.pt.xml
-file
-
-
-
-
-2010-04-29T21:55:04.000000Z
-fef6c702cdea97038465ad7bc27c3c31
-2008-11-27T10:53:20.077847Z
-13399
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4549
-
 sf_admin.ca.xml
 file
 
@@ -944,14 +910,14 @@ FabianLange
 
 5122
 
-sf_admin.tr.xml
+sf_admin.pt.xml
 file
 
 
 
 
-2010-04-29T21:55:16.000000Z
-c10f070ff88308ab2c787c5fe002b64c
+2010-04-29T21:55:04.000000Z
+fef6c702cdea97038465ad7bc27c3c31
 2008-11-27T10:53:20.077847Z
 13399
 fabien
@@ -976,7 +942,41 @@ fabien
 
 
 
-4504
+4549
+
+sf_admin.tr.xml
+file
+
+
+
+
+2010-04-29T21:56:11.000000Z
+89ddfc4de40ed974a7f51261cb84f8fb
+2009-12-16T13:08:00.328227Z
+25458
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5805
 
 sf_admin.ru.xml
 file

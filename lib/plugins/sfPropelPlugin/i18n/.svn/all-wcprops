@@ -1,23 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/i18n
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfPropelPlugin/i18n
 END
-sf_admin.de.xml
+sf_admin.tr.xml
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/i18n/sf_admin.de.xml
-END
-sf_admin.ja.xml
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/i18n/sf_admin.ja.xml
-END
-sf_admin.pl.xml
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/i18n/sf_admin.pl.xml
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfPropelPlugin/i18n/sf_admin.tr.xml
 END

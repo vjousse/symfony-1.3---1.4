@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib
 http://svn.symfony-project.com
 
 
 
-2009-12-08T14:00:16.454604Z
-25074
+2010-02-12T20:08:07.774993Z
+27974
 Kris.Wallsmith
 has-props
 
@@ -77,25 +77,25 @@ dir
 command
 dir
 
-test
+i18n
 dir
 
 helper
 dir
 
-i18n
-dir
-
-plugins
+test
 dir
 
 log
 dir
 
-addon
+plugins
 dir
 
 filter
+dir
+
+addon
 dir
 
 routing
@@ -113,10 +113,10 @@ dir
 config
 dir
 
-util
+action
 dir
 
-action
+util
 dir
 
 user

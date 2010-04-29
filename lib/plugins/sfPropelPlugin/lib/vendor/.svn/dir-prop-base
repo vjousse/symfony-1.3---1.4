@@ -2,7 +2,7 @@ K 13
 svn:externals
 V 247
 phing http://phing.mirror.svn.symfony-project.com/tags/2.3.3/classes/phing/
-propel http://propel.mirror.svn.symfony-project.com/tags/1.4.0/runtime/classes/propel/
-propel-generator http://propel.mirror.svn.symfony-project.com/tags/1.4.0/generator/
+propel http://propel.mirror.svn.symfony-project.com/tags/1.4.1/runtime/classes/propel/
+propel-generator http://propel.mirror.svn.symfony-project.com/tags/1.4.1/generator/
 
 END

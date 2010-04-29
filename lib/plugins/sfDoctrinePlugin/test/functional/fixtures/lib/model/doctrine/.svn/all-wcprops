@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 107
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine
 END
-ModelFromLinkedSchema.class.php
+ResourceType.class.php
 K 25
 svn:wc:ra_dav:version-url
-V 139
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/ModelFromLinkedSchema.class.php
+V 130
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/ResourceType.class.php
 END
-ModelFromLinkedSchemaTable.class.php
+ResourceTypeTable.class.php
 K 25
 svn:wc:ra_dav:version-url
-V 144
-/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/ModelFromLinkedSchemaTable.class.php
+V 135
+/!svn/ver/27972/tags/RELEASE_1_3_2/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/ResourceTypeTable.class.php
 END

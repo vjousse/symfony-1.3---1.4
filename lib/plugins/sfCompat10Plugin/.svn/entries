@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfCompat10Plugin
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/plugins/sfCompat10Plugin
 http://svn.symfony-project.com
 
 
 
-2009-11-30T22:30:46.362071Z
-24615
-Kris.Wallsmith
+2010-02-02T13:09:54.248684Z
+27415
+FabianLange
 
 
 svn:special svn:externals svn:needs-lock

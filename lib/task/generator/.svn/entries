@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/task/generator
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/task/generator
 http://svn.symfony-project.com
 
 
 
-2009-11-30T18:50:31.284109Z
-24593
+2010-02-08T19:02:44.771890Z
+27750
 Kris.Wallsmith
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-0be9e1ef681a7292b64b8344faa957c3
-2009-11-12T11:07:44.003356Z
-23810
+2010-04-29T21:56:11.000000Z
+bb3edfee4ef82dd41a1e1dc35a13a2ce
+2010-02-08T19:02:44.771890Z
+27750
 Kris.Wallsmith
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-6163
+6156
 
 skeleton
 dir
@@ -137,11 +137,11 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-288285321053b7d82518160ef4f3148b
-2009-10-25T13:11:48.154419Z
-23322
-Kris.Wallsmith
+2010-04-29T21:56:11.000000Z
+44abe84436fef35ab73befbb1c778041
+2010-01-26T20:23:26.713386Z
+27211
+FabianLange
 has-props
 
 
@@ -163,7 +163,7 @@ has-props
 
 
 
-5117
+5796
 
 sfGeneratorBaseTask.class.php
 file

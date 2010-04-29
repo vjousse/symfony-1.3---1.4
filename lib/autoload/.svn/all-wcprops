@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/!svn/ver/25073/tags/RELEASE_1_3_1/lib/autoload
+/!svn/ver/27973/tags/RELEASE_1_3_2/lib/autoload
 END
 sfCoreAutoload.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/!svn/ver/25073/tags/RELEASE_1_3_1/lib/autoload/sfCoreAutoload.class.php
+/!svn/ver/27973/tags/RELEASE_1_3_2/lib/autoload/sfCoreAutoload.class.php
 END

@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/routing
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/routing
 http://svn.symfony-project.com
 
 
 
-2009-11-30T18:34:29.884323Z
-24591
+2010-01-26T11:52:46.796661Z
+27183
 FabianLange
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:17.000000Z
-6ecdfc4b5b46be1808beed8bee754abe
-2009-11-23T21:23:48.349871Z
-24293
+2010-04-29T21:56:11.000000Z
+78133d765598717cc7e127c5ee0b0208
+2010-01-26T11:52:46.796661Z
+27183
 FabianLange
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-22288
+22594
 
 sfPathInfoRouting.class.php
 file

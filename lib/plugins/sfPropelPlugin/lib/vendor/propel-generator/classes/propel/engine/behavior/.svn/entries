@@ -2,13 +2,13 @@
 
 dir
 1722
-http://propel.mirror.svn.symfony-project.com/tags/1.4.0/generator/classes/propel/engine/behavior
+http://propel.mirror.svn.symfony-project.com/tags/1.4.1/generator/classes/propel/engine/behavior
 http://propel.mirror.svn.symfony-project.com
 
 
 
-2009-10-31T12:50:34.133480Z
-1278
+2009-12-31T14:06:43.160611Z
+1403
 francois
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:19.000000Z
-b5f1f25b62a44241e869047f13cd5064
-2009-10-26T20:54:39.333354Z
-1262
+2010-04-29T21:56:13.000000Z
+2d86ea70c5543a668cb24295c8e46569
+2009-12-31T14:06:43.160611Z
+1403
 francois
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-8096
+8093
 
 AlternativeCodingStandardsBehavior.php
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-04-29T21:55:19.000000Z
-1eee7dbba6e7be0bce8997e637c97995
-2009-10-26T20:54:39.333354Z
-1262
+2010-04-29T21:56:13.000000Z
+1efa418b1a945987fd4d927c4d7881f1
+2009-11-25T21:15:41.643653Z
+1328
 francois
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-3678
+3689
 
 TimestampableBehavior.php
 file

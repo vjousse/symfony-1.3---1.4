@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/test
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/lib/test
 http://svn.symfony-project.com
 
 
 
-2009-11-30T22:30:46.362071Z
-24615
+2010-02-10T19:46:03.288740Z
+27845
 Kris.Wallsmith
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-8abddb98950a87bf9b6cb9def8451695
-2009-10-12T12:55:22.643544Z
-22945
+2010-04-29T21:56:11.000000Z
+0a0f446b109396f1cefe1468477779d6
+2010-02-10T19:46:03.288740Z
+27845
 Kris.Wallsmith
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-16232
+16231
 
 sfTesterRequest.class.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-bb720f6f185196ff54e9d5fc7f55fb89
-2009-01-06T17:30:36.841952Z
-14497
-fabien
+2010-04-29T21:56:11.000000Z
+2ad04c272a71a85c53b455593923ba05
+2010-02-10T19:46:03.288740Z
+27845
+Kris.Wallsmith
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-3734
+3743
 
 sfTesterMailer.class.php
 file
@@ -202,11 +202,11 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-d411c2903975c13d7b07a79c6d8eddc8
-2009-11-03T13:31:13.373834Z
-23568
-Kris.Wallsmith
+2010-04-29T21:56:11.000000Z
+848959e4c4472fd799a50059190a7cfa
+2010-01-22T17:08:04.112342Z
+27061
+FabianLange
 has-props
 
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-14853
+15576
 
 sfTesterUser.class.php
 file

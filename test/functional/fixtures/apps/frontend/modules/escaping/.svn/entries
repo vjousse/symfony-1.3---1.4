@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_1/test/functional/fixtures/apps/frontend/modules/escaping
+http://svn.symfony-project.com/tags/RELEASE_1_3_2/test/functional/fixtures/apps/frontend/modules/escaping
 http://svn.symfony-project.com
 
 
 
-2009-07-28T07:13:31.660443Z
-20546
-fabien
+2010-02-08T20:51:02.851961Z
+27755
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
