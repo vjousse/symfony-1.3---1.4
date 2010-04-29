@@ -249,12 +249,12 @@ class gitMirror
     $this->run('git checkout master');
   }
 
-  public function push()
+  public function push($remote='origin')
   {
     $this->log('Push');
-    $this->run('git push origin master');
-    $this->run('git push origin edge');
-    $this->run('git push origin master --tags');
+    $this->run('git push ' . $remote . ' master');
+    $this->run('git push ' . $remote . ' edge');
+    $this->run('git push ' . $remote . ' master --tags');
   }
 }
 
