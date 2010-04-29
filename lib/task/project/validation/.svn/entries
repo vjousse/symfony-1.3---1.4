@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/task/project/validation
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/project/validation
 http://svn.symfony-project.com
 
 
 
-2009-12-01T19:38:44.140240Z
-24706
+2009-12-15T15:31:29.513442Z
+25411
 fabien
 
 
@@ -29,115 +29,13 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfDeprecatedSettingsValidation.class.php
 file
 
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/validation/sfDeprecatedSettingsValidation.class.php
 
 
-2010-04-29T21:56:57.000000Z
-fbeb41a3d6f10484ebfaafd77c5c7e5e
-2009-11-30T22:07:34.550040Z
-24610
-FabianLange
-has-props
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2155
-
-sfDeprecatedPluginsValidation.class.php
-file
-
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/validation/sfDeprecatedPluginsValidation.class.php
-
-
-2010-04-29T21:56:57.000000Z
-dc65bbc3b16c873d65d03fa569c378ff
-2009-11-30T22:07:34.550040Z
-24610
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1577
-
-sfDeprecatedHelpersValidation.class.php
-file
-
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/validation/sfDeprecatedHelpersValidation.class.php
-
-
-2010-04-29T21:56:57.000000Z
-1234d77887f6780f7cfe8e08adbb9bdb
-2009-11-30T22:07:34.550040Z
-24610
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3239
-
-sfDeprecatedMethodsValidation.class.php
-file
-
-
-
-
-2010-04-29T21:57:18.000000Z
-35fa0fa2fb8ea0776020dca14cbe2305
-2009-12-01T19:38:44.140240Z
-24706
+2010-04-29T21:57:26.000000Z
+d683fb3e9bdcf192643e3d62cc4a95ec
+2009-12-15T15:19:07.596549Z
+25410
 fabien
 has-props
 
@@ -160,7 +58,109 @@ has-props
 
 
 
-2770
+2176
+
+sfDeprecatedPluginsValidation.class.php
+file
+
+
+
+
+2010-04-29T21:57:26.000000Z
+aec69777c51ee240fde891ff0b79898a
+2009-12-15T15:19:07.596549Z
+25410
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1598
+
+sfDeprecatedHelpersValidation.class.php
+file
+
+
+
+
+2010-04-29T21:57:26.000000Z
+fdc1c81440e998e4e87448e441697fc8
+2009-12-15T15:31:29.513442Z
+25411
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3282
+
+sfDeprecatedMethodsValidation.class.php
+file
+
+
+
+
+2010-04-29T21:57:26.000000Z
+9d387377ecbff46b709a6bb1a2c30dce
+2009-12-15T15:31:29.513442Z
+25411
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2805
 
 sfDeprecatedConfigurationFilesValidation.class.php
 file
@@ -202,10 +202,10 @@ file
 
 
 
-2010-04-29T21:57:18.000000Z
-9e85b7b9c5bfab0b915cda2177640232
-2009-12-01T19:38:44.140240Z
-24706
+2010-04-29T21:57:26.000000Z
+6f1f2592f1ccc60566cffcdad93271dc
+2009-12-15T15:31:29.513442Z
+25411
 fabien
 has-props
 
@@ -228,19 +228,19 @@ has-props
 
 
 
-3386
+3432
 
 sfParameterHolderValidation.class.php
 file
 
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/validation/sfParameterHolderValidation.class.php
 
 
-2010-04-29T21:56:57.000000Z
-eb196531717f3fbab084d8b99b1ea7de
-2009-11-30T22:07:34.550040Z
-24610
-FabianLange
+
+2010-04-29T21:57:26.000000Z
+87613e74fdb30a318f24f695a8170fe5
+2009-12-15T15:31:29.513442Z
+25411
+fabien
 has-props
 
 
@@ -262,7 +262,7 @@ has-props
 
 
 
-1792
+1809
 
 sfValidation.class.php
 file

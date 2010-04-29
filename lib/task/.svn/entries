@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/task
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task
 http://svn.symfony-project.com
 
 
 
-2009-12-07T19:41:58.269680Z
-25036
-Kris.Wallsmith
+2010-02-10T15:46:46.843590Z
+27816
+FabianLange
 
 
 svn:special svn:externals svn:needs-lock
@@ -26,13 +26,10 @@ svn:special svn:externals svn:needs-lock
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
-i18n
-dir
-
 test
 dir
 
-app
+i18n
 dir
 
 sfBaseTask.class.php
@@ -69,10 +66,13 @@ has-props
 
 11585
 
-configure
+app
 dir
 
 log
+dir
+
+configure
 dir
 
 sfTask.class.php
@@ -133,11 +133,11 @@ file
 
 
 
-2010-04-29T21:57:18.000000Z
-f338a1831d76492945523a78d4785a69
-2009-12-06T20:22:52.903547Z
-24991
-Kris.Wallsmith
+2010-04-29T21:57:26.000000Z
+7ba2c399868c7d27747079f704d70d6f
+2010-02-10T15:46:46.843590Z
+27816
+FabianLange
 has-props
 
 

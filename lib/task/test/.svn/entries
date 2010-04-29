@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/task/test
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/test
 http://svn.symfony-project.com
 
 
@@ -63,7 +63,7 @@ has-props
 sfTestCoverageTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/task/test/sfTestCoverageTask.class.php
 
 
 2010-04-29T21:57:18.000000Z
@@ -97,7 +97,7 @@ has-props
 sfTestUnitTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/task/test/sfTestUnitTask.class.php
 
 
 2010-04-29T21:57:18.000000Z
@@ -131,7 +131,7 @@ has-props
 sfTestFunctionalTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/task/test/sfTestFunctionalTask.class.php
 
 
 2010-04-29T21:57:18.000000Z
@@ -199,7 +199,7 @@ has-props
 sfTestAllTask.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/task/test/sfTestAllTask.class.php
 
 
 2010-04-29T21:57:18.000000Z

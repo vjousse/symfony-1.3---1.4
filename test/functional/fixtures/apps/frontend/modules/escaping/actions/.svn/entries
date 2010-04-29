@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/functional/fixtures/apps/frontend/modules/escaping/actions
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/test/functional/fixtures/apps/frontend/modules/escaping/actions
 http://svn.symfony-project.com
 
 
 
-2009-07-28T07:13:31.660443Z
-20546
-fabien
+2010-02-08T20:51:02.851961Z
+27755
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-919a002ea491d8b50e6d6f09757d639e
-2009-07-28T07:13:31.660443Z
-20546
-fabien
+2010-04-29T21:57:26.000000Z
+62cde0583ebbca16ebe8fa6894ad5235
+2010-02-08T20:51:02.851961Z
+27755
+Kris.Wallsmith
 has-props
 
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-624
+632
 

@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/controller
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/controller
 http://svn.symfony-project.com
 
 
 
-2009-11-23T11:55:33.116089Z
-24265
-Kris.Wallsmith
+2009-12-15T12:22:30.324654Z
+25406
+FabianLange
 
 
 svn:special svn:externals svn:needs-lock
@@ -35,11 +35,11 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-fc986b529d5ac8e282a1ab27777e00b5
-2009-11-16T17:52:14.706630Z
-24039
-Kris.Wallsmith
+2010-04-29T21:57:26.000000Z
+d17e7a30e977f1a947be1d92ec48a26e
+2009-12-15T12:22:30.324654Z
+25406
+FabianLange
 has-props
 
 
@@ -61,12 +61,12 @@ has-props
 
 
 
-5384
+5355
 
 sfController.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/controller/sfController.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -100,7 +100,7 @@ has-props
 sfFrontWebController.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/controller/sfFrontWebController.class.php
 
 
 2010-04-29T21:55:00.000000Z

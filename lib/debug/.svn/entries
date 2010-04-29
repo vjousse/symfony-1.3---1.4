@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/debug
 http://svn.symfony-project.com
 
 
 
-2009-11-17T06:59:01.180671Z
-24069
+2010-01-28T18:34:57.593164Z
+27284
 Kris.Wallsmith
 
 
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfWebDebugPanelMemory.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug/sfWebDebugPanelMemory.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -63,7 +63,7 @@ has-props
 sfWebDebugPanelMailer.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug/sfWebDebugPanelMailer.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -97,7 +97,7 @@ has-props
 sfWebDebugPanelSymfonyVersion.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug/sfWebDebugPanelSymfonyVersion.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -131,7 +131,7 @@ has-props
 sfWebDebugPanelView.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug/sfWebDebugPanelView.class.php
 
 
 
@@ -165,7 +165,7 @@ has-props
 sfTimer.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug/sfTimer.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -202,10 +202,10 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-405008e3428e6790ad8cb04d5dea7005
-2009-11-12T11:07:44.003356Z
-23810
+2010-04-29T21:57:26.000000Z
+24b7feccfab38cafd060dbee4c3c938b
+2010-01-28T18:34:57.593164Z
+27284
 Kris.Wallsmith
 has-props
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-15864
+15901
 
 sfWebDebugPanel.class.php
 file
@@ -236,10 +236,10 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-2430c9d44423eb1f53ccea093008ed6e
-2009-10-12T16:44:07.854227Z
-22955
+2010-04-29T21:57:26.000000Z
+8c93d9dd58571b803c259ed8b539543e
+2010-01-28T18:34:57.593164Z
+27284
 Kris.Wallsmith
 has-props
 
@@ -267,7 +267,7 @@ has-props
 sfWebDebugPanelTimer.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug/sfWebDebugPanelTimer.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -301,7 +301,7 @@ has-props
 sfDebug.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug/sfDebug.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -335,7 +335,7 @@ has-props
 sfWebDebugPanelCache.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug/sfWebDebugPanelCache.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -369,7 +369,7 @@ has-props
 sfWebDebugPanelLogs.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug/sfWebDebugPanelLogs.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -403,7 +403,7 @@ has-props
 sfWebDebugPanelConfig.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug/sfWebDebugPanelConfig.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -437,7 +437,7 @@ has-props
 sfTimerManager.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/debug/sfTimerManager.class.php
 
 
 2010-04-29T21:55:00.000000Z

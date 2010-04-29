@@ -1,11 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/!svn/ver/25076/tags/RELEASE_1_4_1/lib/plugins/sfDoctrinePlugin/test/functional/Ticket
-END
-7774Test.php
-K 25
-svn:wc:ra_dav:version-url
-V 99
-/!svn/ver/25076/tags/RELEASE_1_4_1/lib/plugins/sfDoctrinePlugin/test/functional/Ticket/7774Test.php
+/!svn/ver/27966/tags/RELEASE_1_4_2/lib/plugins/sfDoctrinePlugin/test/functional/Ticket
 END

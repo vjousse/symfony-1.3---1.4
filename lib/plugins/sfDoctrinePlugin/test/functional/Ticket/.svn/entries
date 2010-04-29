@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/plugins/sfDoctrinePlugin/test/functional/Ticket
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/plugins/sfDoctrinePlugin/test/functional/Ticket
 http://svn.symfony-project.com
 
 
@@ -63,7 +63,7 @@ has-props
 7774Test.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_1/lib/plugins/sfDoctrinePlugin/test/functional/Ticket/7774Test.php
 
 
 2010-04-29T21:57:18.000000Z

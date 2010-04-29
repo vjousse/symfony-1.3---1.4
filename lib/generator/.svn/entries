@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/generator
 http://svn.symfony-project.com
 
 
 
-2009-11-14T14:58:38.254908Z
-23922
+2009-12-16T13:08:43.921166Z
+25459
 fabien
 
 
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfModelGeneratorConfiguration.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator/sfModelGeneratorConfiguration.class.php
 
 
 
@@ -63,7 +63,7 @@ has-props
 sfGeneratorManager.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator/sfGeneratorManager.class.php
 
 
 2010-04-29T21:56:57.000000Z
@@ -97,7 +97,7 @@ has-props
 sfModelGeneratorConfigurationField.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator/sfModelGeneratorConfigurationField.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -131,7 +131,7 @@ has-props
 sfGenerator.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator/sfGenerator.class.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -168,10 +168,10 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-6c1efbf2028b5a18dc265ac8f890f062
-2009-10-19T16:37:13.540511Z
-23194
+2010-04-29T21:57:26.000000Z
+428f97e5ade5ab52ceabb1d8fc6158b1
+2009-12-16T13:08:43.921166Z
+25459
 fabien
 has-props
 
@@ -194,12 +194,12 @@ has-props
 
 
 
-13050
+13077
 
 sfModelGeneratorHelper.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator/sfModelGeneratorHelper.class.php
 
 
 2010-04-29T21:55:00.000000Z
