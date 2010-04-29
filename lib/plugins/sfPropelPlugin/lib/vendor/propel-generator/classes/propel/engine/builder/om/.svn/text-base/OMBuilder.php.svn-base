@@ -182,7 +182,7 @@ abstract class OMBuilder extends DataModelBuilder {
 			throw $e;
 		}
 		if ($classname === null) {
-			return $this->getBuildProperty('classPrefix') . $col->getConstantName();
+			return $col->getConstantName();
 		}
 		// was it overridden in schema.xml ?
 		if ($col->getPeerName()) {

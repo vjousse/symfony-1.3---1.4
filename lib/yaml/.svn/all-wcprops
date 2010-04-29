@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/!svn/ver/29005/components/yaml/tags/RELEASE_1_0_3/lib
+/!svn/ver/24657/components/yaml/tags/RELEASE_1_0_2/lib
 END
 sfYamlInline.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/!svn/ver/29005/components/yaml/tags/RELEASE_1_0_3/lib/sfYamlInline.php
+/!svn/ver/24657/components/yaml/tags/RELEASE_1_0_2/lib/sfYamlInline.php
 END
 sfYamlParser.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/!svn/ver/29005/components/yaml/tags/RELEASE_1_0_3/lib/sfYamlParser.php
+/!svn/ver/24657/components/yaml/tags/RELEASE_1_0_2/lib/sfYamlParser.php
 END

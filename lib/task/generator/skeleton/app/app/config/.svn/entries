@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/task/generator/skeleton/app/app/config
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/generator/skeleton/app/app/config
 http://svn.symfony-project.com
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-ecde78a3d08df72b5274decd958a8070
-2009-11-23T15:11:28.124771Z
-24275
+2010-04-29T21:56:57.000000Z
+a88ede767c3029a8a089b6cefc0ec057
+2009-11-26T11:52:47.753777Z
+24434
 fabien
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-941
+810
 
 app.yml
 file

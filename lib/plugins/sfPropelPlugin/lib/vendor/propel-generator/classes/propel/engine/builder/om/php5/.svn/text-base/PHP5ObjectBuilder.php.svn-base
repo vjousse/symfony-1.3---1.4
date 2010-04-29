@@ -1505,7 +1505,7 @@ abstract class ".$this->getClassname()." extends ".ClassTools::classname($this->
 			return \$startcol + $n; // $n = ".$this->getPeerClassname()."::NUM_COLUMNS - ".$this->getPeerClassname()."::NUM_LAZY_LOAD_COLUMNS).
 
 		} catch (Exception \$e) {
-			throw new PropelException(\"Error populating ".$this->getStubObjectBuilder()->getClassname()." object\", \$e);
+			throw new PropelException(\"Error populating ".$table->getPhpName()." object\", \$e);
 		}";
 	}
 
@@ -2033,8 +2033,6 @@ abstract class ".$this->getClassname()." extends ".ClassTools::classname($this->
 			$this->applyBehaviorModifier('postDelete', $script, "				");
 			$script .= "
 				\$this->setDeleted(true);
-				\$con->commit();
-			} else {
 				\$con->commit();
 			}";
 		} else {
@@ -3589,12 +3587,10 @@ abstract class ".$this->getClassname()." extends ".ClassTools::classname($this->
 				\$this->postSave(\$con);";
 				$this->applyBehaviorModifier('postSave', $script, "				");
 				$script .= "
+				\$con->commit();
 				".$this->getPeerClassname()."::addInstanceToPool(\$this);
-			} else {
-				\$affectedRows = 0;
-			}
-			\$con->commit();
-			return \$affectedRows;";
+				return \$affectedRows;
+			}";
 		} else {
 			// save without runtime hooks
 	    $this->applyBehaviorModifier('preSave', $script, "			");

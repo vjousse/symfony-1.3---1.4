@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/!svn/ver/29010/tags/RELEASE_1_3_4/lib/response
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/response
 END
 sfWebResponse.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/!svn/ver/29010/tags/RELEASE_1_3_4/lib/response/sfWebResponse.class.php
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/response/sfWebResponse.class.php
 END

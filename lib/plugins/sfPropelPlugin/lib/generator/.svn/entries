@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/lib/generator
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/lib/generator
 http://svn.symfony-project.com
 
 
@@ -60,40 +60,6 @@ has-props
 
 15269
 
-sfPropelAdminGenerator.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-d29c3cdef854da280b8e076673ec6699
-2008-05-21T05:42:25.107636Z
-9134
-dwhittle
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1803
-
 sfPropelFormFilterGenerator.class.php
 file
 
@@ -127,40 +93,6 @@ has-props
 
 
 9342
-
-sfPropelCrudGenerator.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-acd836cbec59851885539b2abee955ca
-2009-10-08T16:50:37.503387Z
-22881
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14234
 
 sfPropelGenerator.class.php
 file

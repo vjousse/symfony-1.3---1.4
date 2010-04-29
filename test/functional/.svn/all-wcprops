@@ -1,11 +1,71 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/!svn/ver/29010/tags/RELEASE_1_3_4/test/functional
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional
+END
+escapingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/escapingTest.php
+END
+genericTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/genericTest.php
+END
+sfTestBrowserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/sfTestBrowserTest.php
+END
+i18nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/i18nTest.php
+END
+authTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/authTest.php
 END
 cacheTest.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/!svn/ver/29010/tags/RELEASE_1_3_4/test/functional/cacheTest.php
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/cacheTest.php
+END
+i18nFormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/i18nFormTest.php
+END
+prodTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/prodTest.php
+END
+filterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/filterTest.php
+END
+autoloadTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/autoloadTest.php
+END
+formatTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/functional/formatTest.php
 END

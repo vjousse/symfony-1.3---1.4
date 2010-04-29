@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/config
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/config
 http://svn.symfony-project.com
 
 
 
-2009-11-23T15:11:28.124771Z
-24275
-fabien
+2009-11-23T21:46:39.442521Z
+24295
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-df4fc41b2b68b71f303115ee180bc29d
-2009-11-12T11:07:44.003356Z
-23810
+2010-04-29T21:56:58.000000Z
+8c3fb66dfb0164c4ccac95b79133a3f0
+2009-11-23T21:46:39.442521Z
+24295
 Kris.Wallsmith
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-3834
+3500
 
 installer.php
 file

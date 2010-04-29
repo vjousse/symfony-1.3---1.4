@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/test/functional
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional
 http://svn.symfony-project.com
 
 
 
-2010-04-06T11:30:44.277471Z
-28992
-Kris.Wallsmith
+2009-12-01T01:32:29.613205Z
+24632
+Jonathan.Wage
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,10 +32,47 @@ file
 
 
 
-2010-04-29T21:56:26.000000Z
-624f380fb30fceaaad7767d365198b65
-2010-02-24T23:42:54.503877Z
-28260
+2010-04-29T21:56:58.000000Z
+49be78ea9d7d5aa9e4b9fbc8632cdfc6
+2009-11-14T14:23:18.872848Z
+23912
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6804
+
+Ticket
+dir
+
+PagerTest.php
+file
+
+
+
+
+2010-04-29T21:56:58.000000Z
+41d31d00a18ae1267c7af1ed41cc0e09
+2009-11-12T11:07:44.003356Z
+23810
 Kris.Wallsmith
 has-props
 
@@ -58,10 +95,7 @@ has-props
 
 
 
-8931
-
-Ticket
-dir
+2291
 
 RouteTest.php
 file
@@ -97,16 +131,16 @@ has-props
 
 2068
 
-PagerTest.php
+ActionRedirectTest.php
 file
 
 
 
 
-2010-04-29T21:56:11.000000Z
-8c20162bd2ec7157e2eb80b792bb5a8a
-2010-02-08T18:02:19.568173Z
-27747
+2010-04-29T21:55:03.000000Z
+8fa39c1ed211a70edff89979d0e22f1f
+2009-09-25T07:07:58.457462Z
+22404
 Kris.Wallsmith
 has-props
 
@@ -129,7 +163,7 @@ has-props
 
 
 
-2468
+654
 
 sfDoctrineRecordTest.php
 file
@@ -164,40 +198,6 @@ has-props
 
 
 2480
-
-ActionRedirectTest.php
-file
-
-
-
-
-2010-04-29T21:55:03.000000Z
-8fa39c1ed211a70edff89979d0e22f1f
-2009-09-25T07:07:58.457462Z
-22404
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-654
 
 FormTest.php
 file
@@ -273,11 +273,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-a464575a5c7e0fd5bd58a3b2c1cc2b51
-2010-02-08T15:46:35.227110Z
-27742
-Kris.Wallsmith
+2010-04-29T21:56:58.000000Z
+439071f1e714116550faaaf12b9e94b7
+2009-11-23T21:45:03.892671Z
+24294
+Jonathan.Wage
 has-props
 
 
@@ -299,7 +299,7 @@ has-props
 
 
 
-4678
+4431
 
 I18nTest.php
 file
@@ -307,11 +307,11 @@ file
 
 
 
-2010-04-29T21:56:40.000000Z
-07b7f6e456638805046b685bc714f4fd
-2010-04-06T11:30:44.277471Z
-28992
-Kris.Wallsmith
+2010-04-29T21:56:58.000000Z
+cfb1c1b27af0dcee2d8530214ee28955
+2009-11-15T13:45:31.320424Z
+23967
+FabianLange
 has-props
 
 
@@ -333,41 +333,7 @@ has-props
 
 
 
-5340
-
-SchemaMergeTest.php
-file
-
-
-
-
-2010-04-29T21:56:40.000000Z
-d136b8ae255c9420775a0e216e4c0425
-2010-04-05T00:26:03.233031Z
-28975
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-963
+5283
 
 AdminGenTest.php
 file
@@ -412,10 +378,10 @@ file
 
 
 
-2010-04-29T21:55:54.000000Z
-307f7986d0ae3948328410bbfcbfdd47
-2009-12-05T15:05:03.068673Z
-24971
+2010-04-29T21:56:58.000000Z
+b47c079c658090d23d77a7289a2f235b
+2009-11-17T06:39:35.953872Z
+24068
 Kris.Wallsmith
 has-props
 
@@ -438,7 +404,7 @@ has-props
 
 
 
-1398
+764
 
 EnvironmentSetupTest.php
 file

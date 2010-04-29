@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/test/functional/fixtures/apps/frontend/modules/escaping/templates
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/functional/fixtures/apps/frontend/modules/escaping/templates
 http://svn.symfony-project.com
 
 
 
-2010-02-08T20:51:02.851961Z
-27755
-Kris.Wallsmith
+2008-04-04T09:10:11.260918Z
+8260
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -26,85 +26,17 @@ svn:special svn:externals svn:needs-lock
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
-_partial1.php
-file
-
-
-
-
-2010-04-29T21:56:11.000000Z
-7b321298bf74211a17dcedf0a43b5454
-2010-02-08T20:51:02.851961Z
-27755
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-235
-
-_partial2.php
-file
-
-
-
-
-2010-04-29T21:56:11.000000Z
-7e195003cba4506e1b291f77f502c019
-2010-02-08T20:51:02.851961Z
-27755
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-151
-
 indexSuccess.php
 file
 
 
 
 
-2010-04-29T21:56:11.000000Z
-f23051da956f42e3dd6c89fbc1b704f1
-2010-02-08T20:51:02.851961Z
-27755
-Kris.Wallsmith
+2010-04-29T21:56:57.000000Z
+aa5f161a1056ab3cc8a359c6903bef92
+2008-04-04T09:10:11.260918Z
+8260
+fabien
 has-props
 
 
@@ -126,5 +58,5 @@ has-props
 
 
 
-159
+72
 

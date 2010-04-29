@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/!svn/ver/1453/tags/1.4.1/generator/classes/propel/engine/builder/om/php5
+/!svn/ver/1300/tags/1.4.0/generator/classes/propel/engine/builder/om/php5
 END
 PHP5ObjectBuilder.php
 K 25
 svn:wc:ra_dav:version-url
 V 95
-/!svn/ver/1453/tags/1.4.1/generator/classes/propel/engine/builder/om/php5/PHP5ObjectBuilder.php
+/!svn/ver/1300/tags/1.4.0/generator/classes/propel/engine/builder/om/php5/PHP5ObjectBuilder.php
 END
 PHP5PeerBuilder.php
 K 25
 svn:wc:ra_dav:version-url
 V 93
-/!svn/ver/1453/tags/1.4.1/generator/classes/propel/engine/builder/om/php5/PHP5PeerBuilder.php
+/!svn/ver/1300/tags/1.4.0/generator/classes/propel/engine/builder/om/php5/PHP5PeerBuilder.php
 END

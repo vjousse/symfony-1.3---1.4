@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/debug
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/lib/debug
 http://svn.symfony-project.com
 
 
 
-2010-04-06T17:42:14.813731Z
-28999
+2009-11-12T11:07:44.003356Z
+23810
 Kris.Wallsmith
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:56:40.000000Z
-8cbb946f6c96bb85968e2afa1ad8aecc
-2010-04-06T17:42:14.813731Z
-28999
+2010-04-29T21:56:58.000000Z
+cdaf14d8136b73a48044316cb5b9b3d9
+2009-11-12T11:07:44.003356Z
+23810
 Kris.Wallsmith
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-4381
+4195
 

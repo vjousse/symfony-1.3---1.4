@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/task/cache
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/cache
 http://svn.symfony-project.com
 
 
 
-2009-09-19T18:47:20.829896Z
-22180
-FabianLange
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-49f0c52fd3074052ba7e5dd5c66354cc
-2009-09-19T18:47:20.829896Z
-22180
-FabianLange
+2010-04-29T21:56:57.000000Z
+f7907a739738f7ff8b7e53a8dc3c160b
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-7868
+7848
 

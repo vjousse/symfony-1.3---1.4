@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/test/unit/config
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/config
 http://svn.symfony-project.com
 
 
 
-2009-11-16T13:30:53.084315Z
-24014
+2009-11-16T17:52:14.706630Z
+24039
 Kris.Wallsmith
 
 
@@ -309,8 +309,8 @@ file
 
 
 77c0c0deaf3f9d4bce9296941227d8b3
-2009-11-16T13:30:53.084315Z
-24014
+2009-11-16T17:52:14.706630Z
+24039
 Kris.Wallsmith
 has-props
 

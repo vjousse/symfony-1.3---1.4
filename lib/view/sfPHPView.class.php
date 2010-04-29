@@ -16,7 +16,7 @@
  * @subpackage view
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Sean Kerr <sean@code-box.org>
- * @version    SVN: $Id: sfPHPView.class.php 28713 2010-03-23 15:08:22Z fabien $
+ * @version    SVN: $Id: sfPHPView.class.php 24615 2009-11-30 22:30:46Z Kris.Wallsmith $
  */
 class sfPHPView extends sfView
 {
@@ -42,12 +42,6 @@ class sfPHPView extends sfView
     $coreHelpersLoaded = 1;
 
     $helpers = array_unique(array_merge(array('Helper', 'Url', 'Asset', 'Tag', 'Escaping'), sfConfig::get('sf_standard_helpers')));
-
-    // remove default Form helper if compat_10 is false
-    if (!sfConfig::get('sf_compat_10') && false !== $i = array_search('Form', $helpers))
-    {
-      unset($helpers[$i]);
-    }
 
     $this->context->getConfiguration()->loadHelpers($helpers);
   }
@@ -141,12 +135,6 @@ class sfPHPView extends sfView
 
     $this->attributeHolder = $this->initializeAttributeHolder(array('sf_content' => new sfOutputEscaperSafe($content)));
     $this->attributeHolder->set('sf_type', 'layout');
-
-    // check to see if the decorator template exists
-    if (!is_readable($this->getDecoratorDirectory().'/'.$this->getDecoratorTemplate()))
-    {
-      throw new sfRenderException(sprintf('The decorator template "%s" does not exist or is unreadable in "%s".', $this->decoratorTemplate, $this->decoratorDirectory));
-    }
 
     // render the decorator template and return the result
     $ret = $this->renderFile($this->getDecoratorDirectory().'/'.$this->getDecoratorTemplate());

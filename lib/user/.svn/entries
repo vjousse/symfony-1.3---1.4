@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/user
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/user
 http://svn.symfony-project.com
 
 
@@ -100,8 +100,8 @@ file
 
 
 
-2010-04-29T21:55:18.000000Z
-2d2bb72723830354830d36ebc7ce22d2
+2010-04-29T21:56:59.000000Z
+f60c72386a5f45ed24bb552166a4ad0b
 2009-11-16T18:24:48.103270Z
 24045
 Kris.Wallsmith
@@ -126,5 +126,5 @@ has-props
 
 
 
-7592
+7453
 

@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage util
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfFilesystem.class.php 27816 2010-02-10 15:46:46Z FabianLange $
+ * @version    SVN: $Id: sfFilesystem.class.php 23922 2009-11-14 14:58:38Z fabien $
  */
 class sfFilesystem
 {
@@ -182,7 +182,7 @@ class sfFilesystem
     // we check that target does not exist
     if (is_readable($target))
     {
-      throw new sfException(sprintf('Cannot rename because the target "%s" already exist.', $target));
+      throw new sfException(sprintf('Cannot rename because the target "%" already exist.', $target));
     }
 
     $this->logSection('rename', $origin.' > '.$target);
@@ -198,7 +198,7 @@ class sfFilesystem
    */
   public function symlink($originDir, $targetDir, $copyOnWindows = false)
   {
-    if ('\\' == DIRECTORY_SEPARATOR && $copyOnWindows)
+    if (!function_exists('symlink') && $copyOnWindows)
     {
       $finder = sfFinder::type('any');
       $this->mirror($originDir, $targetDir, $finder);
@@ -234,11 +234,10 @@ class sfFilesystem
    */
   public function relativeSymlink($originDir, $targetDir, $copyOnWindows = false)
   {
-    if ('\\' != DIRECTORY_SEPARATOR || !$copyOnWindows)
+    if (function_exists('symlink') || !$copyOnWindows)
     {
       $originDir = $this->calculateRelativeDir($targetDir, $originDir);
     }
-
     $this->symlink($originDir, $targetDir, $copyOnWindows);
   }
 
@@ -271,30 +270,6 @@ class sfFilesystem
         throw new sfException(sprintf('Unable to guess "%s" file type.', $file));
       }
     }
-  }
-
-  /**
-   * DEPRECATED: Executes a shell command.
-   *
-   * This method is deprecated. Use the more powerful execute() method instead.
-   *
-   * @param string $cmd  The command to execute on the shell
-   */
-  public function sh($cmd)
-  {
-    $this->logSection('exec ', $cmd);
-
-    ob_start();
-    passthru($cmd.' 2>&1', $return);
-    $content = ob_get_contents();
-    ob_end_clean();
-
-    if ($return > 0)
-    {
-      throw new sfException(sprintf('Problem executing command %s', "\n".$content));
-    }
-
-    return $content;
   }
 
   /**
@@ -419,13 +394,10 @@ class sfFilesystem
 
   /**
    * Calculates the relative path from one to another directory.
+   * If they share no common path the absolute target dir is returned
    *
-   * If the paths share no common path the absolute target dir is returned.
-   *
-   * @param string $from The directory from which to calculate the relative path
-   * @param string $to   The target directory
-   *
-   * @return string
+   * @param string $from directory from that the relative path shall be calculated
+   * @param string $to target directory
    */ 
   protected function calculateRelativeDir($from, $to)
   {
@@ -434,71 +406,45 @@ class sfFilesystem
 
     $commonLength = 0;
     $minPathLength = min(strlen($from), strlen($to));
-
     // count how many chars the strings have in common
     for ($i = 0; $i < $minPathLength; $i++)
     {
-      if ($from[$i] != $to[$i])
-      {
-        break;
-      }
-
-      if (DIRECTORY_SEPARATOR == $from[$i])
-      {
-        $commonLength = $i + 1;
-      }
+      if ($from[$i] != $to[$i]) break;
+      if ($from[$i] == DIRECTORY_SEPARATOR) $commonLength = $i + 1;
     }
 
     if ($commonLength)
     {
       $levelUp = substr_count($from, DIRECTORY_SEPARATOR, $commonLength);
-
       // up that many level
-      $relativeDir = str_repeat('..'.DIRECTORY_SEPARATOR, $levelUp);
-
+      $relativeDir  = str_repeat("..".DIRECTORY_SEPARATOR, $levelUp);
       // down the remaining $to path
       $relativeDir .= substr($to, $commonLength);
-
       return $relativeDir;
     }
 
     return $to;
   }
 
-  /**
-   * @param string A filesystem path
-   *
-   * @return string
-   */
   protected function canonicalizePath($path)
   {
-    if (empty($path))
+    if (empty($path)) return '';
+    $out=array();
+    foreach( explode(DIRECTORY_SEPARATOR, $path) as $i => $fold)
     {
-      return '';
-    }
-
-    $out = array();
-    foreach (explode(DIRECTORY_SEPARATOR, $path) as $i => $fold)
-    {
-      if ('' == $fold || '.' == $fold)
-      {
-        continue;
-      }
-
-      if ('..' == $fold && $i > 0 && '..' != end($out))
+      if ($fold=='' || $fold=='.') continue;
+      if ($fold=='..' && $i>0 && end($out)!='..')
       {
         array_pop($out);
       }
       else
       {
-        $out[] = $fold;
+        $out[]= $fold;
       }
     }
-
-    $result  = DIRECTORY_SEPARATOR == $path[0] ? DIRECTORY_SEPARATOR : '';
-    $result .= implode(DIRECTORY_SEPARATOR, $out);
-    $result .= DIRECTORY_SEPARATOR == $path[strlen($path) - 1] ? DIRECTORY_SEPARATOR : '';
-
+    $result = $path{0} == DIRECTORY_SEPARATOR ? DIRECTORY_SEPARATOR : '';
+    $result .= join(DIRECTORY_SEPARATOR, $out);
+    $result .= $path{strlen($path)-1} == DIRECTORY_SEPARATOR ? DIRECTORY_SEPARATOR : '';
     return $result;
   }
 }

@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage propel
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfPropelBaseTask.class.php 29001 2010-04-06 18:02:32Z Kris.Wallsmith $
+ * @version    SVN: $Id: sfPropelBaseTask.class.php 23739 2009-11-09 23:32:46Z Kris.Wallsmith $
  */
 abstract class sfPropelBaseTask extends sfBaseTask
 {
@@ -32,7 +32,7 @@ abstract class sfPropelBaseTask extends sfBaseTask
     if (!self::$done)
     {
       sfToolkit::addIncludePath(array(
-        sfConfig::get('sf_propel_runtime_path', realpath(dirname(__FILE__).'/../lib/vendor')),
+        realpath(dirname(__FILE__).'/../vendor'),
         dirname(__FILE__),
       ));
 

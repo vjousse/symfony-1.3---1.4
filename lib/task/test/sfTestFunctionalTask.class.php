@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfTestFunctionalTask.class.php 25036 2009-12-07 19:41:58Z Kris.Wallsmith $
+ * @version    SVN: $Id: sfTestFunctionalTask.class.php 24266 2009-11-23 12:11:51Z Kris.Wallsmith $
  */
 class sfTestFunctionalTask extends sfTestBaseTask
 {
@@ -32,7 +32,6 @@ class sfTestFunctionalTask extends sfTestBaseTask
       new sfCommandOption('xml', null, sfCommandOption::PARAMETER_REQUIRED, 'The file name for the JUnit compatible XML log file'),
     ));
 
-    $this->aliases = array('test-functional');
     $this->namespace = 'test';
     $this->name = 'functional';
     $this->briefDescription = 'Launches functional tests';
@@ -99,10 +98,7 @@ EOF;
     {
       require_once dirname(__FILE__).'/sfLimeHarness.class.php';
 
-      $h = new sfLimeHarness(array(
-        'force_colors' => isset($options['color']) && $options['color'],
-        'verbose'      => isset($options['trace']) && $options['trace'],
-      ));
+      $h = new sfLimeHarness(array('force_colors' => $options['color'], 'verbose' => $options['trace']));
       $h->addPlugins(array_map(array($this->configuration, 'getPluginConfiguration'), $this->configuration->getPlugins()));
       $h->base_dir = sfConfig::get('sf_test_dir').'/functional/'.$app;
 

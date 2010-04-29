@@ -18,7 +18,7 @@ require_once(dirname(__FILE__).'/sfDoctrineBaseTask.class.php');
  * @subpackage doctrine
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id: sfDoctrineInsertSqlTask.class.php 27942 2010-02-12 14:05:53Z Kris.Wallsmith $
+ * @version    SVN: $Id: sfDoctrineInsertSqlTask.class.php 23922 2009-11-14 14:58:38Z fabien $
  */
 class sfDoctrineInsertSqlTask extends sfDoctrineBaseTask
 {
@@ -32,7 +32,6 @@ class sfDoctrineInsertSqlTask extends sfDoctrineBaseTask
       new sfCommandOption('env', null, sfCommandOption::PARAMETER_REQUIRED, 'The environment', 'dev'),
     ));
 
-    $this->aliases = array('doctrine-insert-sql');
     $this->namespace = 'doctrine';
     $this->name = 'insert-sql';
     $this->briefDescription = 'Inserts SQL for current model';
@@ -52,14 +51,12 @@ EOF;
    */
   protected function execute($arguments = array(), $options = array())
   {
-    $this->logSection('doctrine', 'creating tables');
+    $this->logSection('doctrine', 'created tables successfully');
 
     $databaseManager = new sfDatabaseManager($this->configuration);
     $config = $this->getCliConfig();
 
     Doctrine_Core::loadModels($config['models_path'], Doctrine_Core::MODEL_LOADING_CONSERVATIVE);
     Doctrine_Core::createTablesFromArray(Doctrine_Core::getLoadedModels());
-
-    $this->logSection('doctrine', 'created tables successfully');
   }
 }

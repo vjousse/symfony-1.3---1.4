@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/test/functional/fixtures/config
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/test/functional/fixtures/config
 http://svn.symfony-project.com
 
 
@@ -168,10 +168,10 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-c831005f859e06452a82269851cb2cbd
-2008-11-29T14:26:15.713697Z
-13480
+2010-04-29T21:56:58.000000Z
+f08686a7155be4858ba5c710ac94a850
+2009-11-14T16:32:53.123081Z
+23932
 fabien
 has-props
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-2368
+2348
 
 properties.ini
 file

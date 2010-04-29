@@ -1,7 +1,7 @@
 K 13
 svn:externals
 V 172
-i18n http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/i18n
-web http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/web
+i18n http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/i18n
+web http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/web
 
 END

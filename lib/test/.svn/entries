@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/test
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/test
 http://svn.symfony-project.com
 
 
 
-2010-03-21T10:20:44.993417Z
-28641
-fabien
+2009-11-30T22:30:46.362071Z
+24615
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:56:39.000000Z
-56a61c04f527692539a1e4d8de15c0a7
-2010-03-21T10:20:44.993417Z
-28641
+2010-04-29T21:56:57.000000Z
+331fe66cbc270e1b035d56d0915973b6
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-16223
+13251
 
 sfTesterRequest.class.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-2ad04c272a71a85c53b455593923ba05
-2010-02-10T19:46:03.288740Z
-27845
-Kris.Wallsmith
+2010-04-29T21:56:57.000000Z
+bb720f6f185196ff54e9d5fc7f55fb89
+2009-01-06T17:30:36.841952Z
+14497
+fabien
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-3743
+3734
 
 sfTesterMailer.class.php
 file
@@ -134,10 +134,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-52486df30bb900ea4bfbff111e347085
-2009-06-20T11:54:04.037593Z
-19411
+2010-04-29T21:56:57.000000Z
+c97dc6422be1b82b9f3ba0c2507b2278
+2009-11-14T17:43:12.070448Z
+23937
 fabien
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-3057
+2134
 
 sfTestBrowser.class.php
 file
@@ -202,11 +202,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-848959e4c4472fd799a50059190a7cfa
-2010-01-22T17:08:04.112342Z
-27061
-FabianLange
+2010-04-29T21:56:57.000000Z
+6bbef4f51412ee17c2943d2e58cdbfdf
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-15576
+14458
 
 sfTesterUser.class.php
 file

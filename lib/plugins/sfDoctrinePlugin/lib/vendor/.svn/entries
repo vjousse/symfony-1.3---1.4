@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/vendor
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/lib/vendor
 http://svn.symfony-project.com
 
 
 
-2010-04-07T05:20:33.847151Z
-29026
-fabien
+2009-10-14T14:29:36.224476Z
+23047
+Kris.Wallsmith
 has-props
 
 svn:special svn:externals svn:needs-lock

@@ -2,14 +2,14 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Export
+http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Export
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-07T11:57:41.061595Z
+7544
+kriswallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -202,11 +202,11 @@ file
 
 
 
-2010-04-29T21:56:43.000000Z
-e1db88fffd1b3e288ba5141e7bb6c91c
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:57:05.000000Z
+925ec6a1745d516231caf4f4f64f7431
+2010-04-07T11:57:41.061595Z
+7544
+kriswallsmith
 has-props
 
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-32480
+33118
 
 Oracle.php
 file

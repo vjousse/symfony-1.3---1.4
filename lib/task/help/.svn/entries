@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/task/help
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/help
 http://svn.symfony-project.com
 
 
 
-2009-09-11T12:06:21.565437Z
-21908
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-c982a098799034587e7ddb1bd5dbca69
-2009-09-11T12:06:21.565437Z
-21908
+2010-04-29T21:56:57.000000Z
+c91ca3cbaa7c5692d54eb997c0c48822
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 has-props
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-4501
+4467
 

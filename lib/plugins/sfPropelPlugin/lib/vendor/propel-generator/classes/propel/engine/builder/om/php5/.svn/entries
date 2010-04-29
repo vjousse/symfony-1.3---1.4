@@ -2,13 +2,13 @@
 
 dir
 1722
-http://propel.mirror.svn.symfony-project.com/tags/1.4.1/generator/classes/propel/engine/builder/om/php5
+http://propel.mirror.svn.symfony-project.com/tags/1.4.0/generator/classes/propel/engine/builder/om/php5
 http://propel.mirror.svn.symfony-project.com
 
 
 
-2010-01-12T21:19:00.553581Z
-1450
+2009-11-07T23:21:49.322195Z
+1294
 francois
 
 
@@ -100,10 +100,10 @@ file
 
 
 
-2010-04-29T21:56:13.000000Z
-8c7da1482b85586bc2bc36375e496231
-2010-01-12T21:19:00.553581Z
-1450
+2010-04-29T21:57:01.000000Z
+2c54185843cbb8f187f9441ddea89836
+2009-11-07T23:21:49.322195Z
+1294
 francois
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-123671
+123579
 
 PHP5ExtensionPeerBuilder.php
 file
@@ -236,10 +236,10 @@ file
 
 
 
-2010-04-29T21:56:13.000000Z
-0ff8556640365b8bfce70f1ea04de9ea
-2010-01-12T21:19:00.553581Z
-1450
+2010-04-29T21:57:01.000000Z
+680146e22a3abac58802985153e91940
+2009-10-29T20:26:39.580203Z
+1265
 francois
 has-props
 
@@ -262,7 +262,7 @@ has-props
 
 
 
-89873
+88884
 
 PHP5ExtensionNodePeerBuilder.php
 file

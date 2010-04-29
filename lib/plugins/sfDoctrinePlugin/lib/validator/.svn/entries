@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/validator
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/lib/validator
 http://svn.symfony-project.com
 
 
 
-2010-02-08T14:50:13.380963Z
-27736
-Kris.Wallsmith
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -25,40 +25,6 @@ svn:special svn:externals svn:needs-lock
 
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
-
-sfValidatorDoctrineChoiceMany.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-bf50aa28a60c39abc8e63a36ded15cd1
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1032
 
 sfValidatorDoctrineUnique.class.php
 file
@@ -94,50 +60,16 @@ has-props
 
 4903
 
-sfDoctrineUniqueValidator.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-bc66dc76048e99d9bcf4246c7aa2dd85
-2009-11-30T12:15:42.282419Z
-24575
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3237
-
 sfValidatorDoctrineChoice.class.php
 file
 
 
 
 
-2010-04-29T21:56:11.000000Z
-4b209e74525892ae5c4e8ad1096968b1
-2010-02-08T14:50:13.380963Z
-27736
+2010-04-29T21:56:58.000000Z
+d1430732269aad96d55c628adb861b3c
+2009-11-12T11:07:44.003356Z
+23810
 Kris.Wallsmith
 has-props
 
@@ -160,5 +92,5 @@ has-props
 
 
 
-3826
+3931
 

@@ -2,7 +2,7 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Query
+http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Query
 http://doctrine.mirror.svn.symfony-project.com
 
 
@@ -165,40 +165,6 @@ has-props
 Filter
 dir
 
-From.php
-file
-
-
-
-
-2010-04-29T21:56:44.000000Z
-3d47d601826ad68f991b15239236d7d1
-2010-03-29T19:53:27.209172Z
-7490
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3017
-
 Abstract.php
 file
 
@@ -233,14 +199,14 @@ has-props
 
 66423
 
-Part.php
+From.php
 file
 
 
 
 
 2010-04-29T21:56:44.000000Z
-9756d0365ae3ccbba97d007e366d131e
+3d47d601826ad68f991b15239236d7d1
 2010-03-29T19:53:27.209172Z
 7490
 jwage
@@ -265,41 +231,7 @@ has-props
 
 
 
-2087
-
-Orderby.php
-file
-
-
-
-
-2010-04-29T21:56:44.000000Z
-91a3ad69271f9c33cf565b614fc06e92
-2010-03-29T19:53:27.209172Z
-7490
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7691
+3017
 
 JoinCondition.php
 file
@@ -335,6 +267,74 @@ has-props
 
 5880
 
+Orderby.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+91a3ad69271f9c33cf565b614fc06e92
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7691
+
+Part.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+9756d0365ae3ccbba97d007e366d131e
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2087
+
 Registry.php
 file
 
@@ -369,40 +369,6 @@ has-props
 
 2771
 
-Tokenizer.php
-file
-
-
-
-
-2010-04-29T21:56:44.000000Z
-1f327e90a77599392fc9e5abc8a56292
-2010-03-29T19:53:27.209172Z
-7490
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16392
-
 Where.php
 file
 
@@ -436,6 +402,40 @@ has-props
 
 
 6006
+
+Tokenizer.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+1f327e90a77599392fc9e5abc8a56292
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16392
 
 Having.php
 file

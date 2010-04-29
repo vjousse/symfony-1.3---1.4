@@ -2,13 +2,13 @@
 
 dir
 1722
-http://propel.mirror.svn.symfony-project.com/tags/1.4.1/generator/classes/propel/engine/database/model
+http://propel.mirror.svn.symfony-project.com/tags/1.4.0/generator/classes/propel/engine/database/model
 http://propel.mirror.svn.symfony-project.com
 
 
 
-2010-01-12T18:02:08.715207Z
-1448
+2009-11-07T23:22:15.532680Z
+1295
 francois
 
 
@@ -94,6 +94,40 @@ has-props
 
 2828
 
+Column.php
+file
+
+
+
+
+2010-04-29T21:57:01.000000Z
+f3753fdf709907ea6975ec2656975596
+2009-11-07T23:22:15.532680Z
+1295
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32440
+
 IDMethod.php
 file
 
@@ -127,40 +161,6 @@ has-props
 
 
 1635
-
-Column.php
-file
-
-
-
-
-2010-04-29T21:56:13.000000Z
-8bd4ea20dc0726aea2660b068fcd7f35
-2010-01-12T16:45:56.039275Z
-1447
-francois
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-32597
 
 IdMethodParameter.php
 file
@@ -196,14 +196,14 @@ has-props
 
 2976
 
-PhpNameGenerator.php
+Behavior.php
 file
 
 
 
 
-2010-04-29T21:55:19.000000Z
-7803971e154238695a6ab5b6c0c04ee4
+2010-04-29T21:55:08.000000Z
+35a8d93800cba8c4076c4c93f9c5ebed
 2009-10-26T20:54:39.333354Z
 1262
 francois
@@ -228,7 +228,7 @@ has-props
 
 
 
-5727
+4788
 
 ColumnDefaultValue.php
 file
@@ -264,14 +264,14 @@ has-props
 
 2889
 
-Behavior.php
+PhpNameGenerator.php
 file
 
 
 
 
-2010-04-29T21:55:08.000000Z
-35a8d93800cba8c4076c4c93f9c5ebed
+2010-04-29T21:55:19.000000Z
+7803971e154238695a6ab5b6c0c04ee4
 2009-10-26T20:54:39.333354Z
 1262
 francois
@@ -296,7 +296,7 @@ has-props
 
 
 
-4788
+5727
 
 ForeignKey.php
 file
@@ -304,10 +304,10 @@ file
 
 
 
-2010-04-29T21:56:13.000000Z
-b5d80aa461264c90f2a8bdf1860e91e9
-2010-01-12T18:02:08.715207Z
-1448
+2010-04-29T21:57:01.000000Z
+c58cd84c2fea5db7470d6cf51f75d810
+2009-10-26T20:54:39.333354Z
+1262
 francois
 has-props
 
@@ -330,7 +330,7 @@ has-props
 
 
 
-10794
+10730
 
 Database.php
 file
@@ -400,14 +400,14 @@ has-props
 
 2382
 
-Index.php
+Rule.php
 file
 
 
 
 
 2010-04-29T21:55:08.000000Z
-0a705834f86dc9990887db5aa617144e
+cecde0c3f52ca6f7d7d2b7b07547f54e
 2009-10-26T20:54:39.333354Z
 1262
 francois
@@ -432,7 +432,7 @@ has-props
 
 
 
-6773
+6017
 
 Domain.php
 file
@@ -468,14 +468,14 @@ has-props
 
 9237
 
-Rule.php
+Index.php
 file
 
 
 
 
 2010-04-29T21:55:08.000000Z
-cecde0c3f52ca6f7d7d2b7b07547f54e
+0a705834f86dc9990887db5aa617144e
 2009-10-26T20:54:39.333354Z
 1262
 francois
@@ -500,7 +500,7 @@ has-props
 
 
 
-6017
+6773
 
 NameFactory.php
 file

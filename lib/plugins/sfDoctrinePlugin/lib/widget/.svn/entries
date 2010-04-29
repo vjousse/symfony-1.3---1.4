@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/widget
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/lib/widget
 http://svn.symfony-project.com
 
 
 
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -25,108 +25,6 @@ svn:special svn:externals svn:needs-lock
 
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
-
-sfWidgetFormDoctrineChoiceMany.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-851d0a2ca498f3432a745c7f91ce4ca5
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-975
-
-sfWidgetFormDoctrineSelect.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-6a2301045bcda467531758041a500649
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3273
-
-sfWidgetFormDoctrineSelectMany.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-64bdff0fed9e9584d87eed3a0e1179a3
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1017
 
 sfWidgetFormDoctrineChoice.class.php
 file

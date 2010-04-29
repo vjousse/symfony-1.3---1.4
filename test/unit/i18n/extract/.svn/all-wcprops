@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/!svn/ver/29010/tags/RELEASE_1_3_4/test/unit/i18n/extract
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/i18n/extract
 END
 sfI18nPhpExtractorTest.php
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/!svn/ver/29010/tags/RELEASE_1_3_4/test/unit/i18n/extract/sfI18nPhpExtractorTest.php
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/i18n/extract/sfI18nPhpExtractorTest.php
 END
 sfI18nYamlGeneratorExtractorTest.php
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/!svn/ver/29010/tags/RELEASE_1_3_4/test/unit/i18n/extract/sfI18nYamlGeneratorExtractorTest.php
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/i18n/extract/sfI18nYamlGeneratorExtractorTest.php
 END

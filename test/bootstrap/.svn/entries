@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/test/bootstrap
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/bootstrap
 http://svn.symfony-project.com
 
 
 
-2009-11-16T13:18:59.039040Z
-24013
+2009-11-16T17:52:14.706630Z
+24039
 Kris.Wallsmith
 
 
@@ -68,8 +68,8 @@ file
 
 
 b47734c813c689dfd472412feeca5913
-2009-11-16T13:18:59.039040Z
-24013
+2009-11-16T17:52:14.706630Z
+24039
 Kris.Wallsmith
 has-props
 

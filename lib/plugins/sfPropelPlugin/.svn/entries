@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin
 http://svn.symfony-project.com
 
 
 
-2010-04-06T18:02:32.299628Z
-29001
+2009-11-30T23:42:50.590596Z
+24621
 Kris.Wallsmith
 
 
@@ -176,40 +176,6 @@ dwhittle
 
 data
 dir
-
-LICENSE.famfamfam
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-74fb54e458d630a0b41e8461ac2c0484
-2007-09-16T00:53:55.343643Z
-5125
-dwhittle
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-107
 
 web
 dir

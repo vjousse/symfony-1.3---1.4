@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/!svn/ver/29010/tags/RELEASE_1_3_4/test/unit/i18n
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/i18n
 END
 sfI18NTest.php
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/!svn/ver/29010/tags/RELEASE_1_3_4/test/unit/i18n/sfI18NTest.php
+/!svn/ver/24666/tags/RELEASE_1_4_0/test/unit/i18n/sfI18NTest.php
 END

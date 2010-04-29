@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/validator
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/validator
 http://svn.symfony-project.com
 
 
 
-2010-04-01T14:10:24.788356Z
-28959
-fabien
+2009-12-01T00:19:33.871860Z
+24628
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -28,40 +28,6 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 i18n
 dir
-
-sfValidatedFile.class.php
-file
-
-
-
-
-2010-04-29T21:56:11.000000Z
-10d4d17740013e394413338e4f1b4627
-2010-01-06T07:47:56.703611Z
-26264
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-23910
 
 sfValidatorEmail.class.php
 file
@@ -97,17 +63,17 @@ has-props
 
 855
 
-sfValidatorSchemaForEach.class.php
+sfValidatedFile.class.php
 file
 
 
 
 
-2010-04-29T21:55:00.000000Z
-24cf641fdd904443716d13ed15ee0af2
-2008-05-19T09:11:23.320825Z
-9048
-FabianLange
+2010-04-29T21:56:57.000000Z
+4e37b197aadad7f2f280dcae05ebc31c
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
 has-props
 
 
@@ -129,7 +95,7 @@ has-props
 
 
 
-1417
+23846
 
 sfValidatorNumber.class.php
 file
@@ -165,6 +131,40 @@ has-props
 
 1967
 
+sfValidatorSchemaForEach.class.php
+file
+
+
+
+
+2010-04-29T21:55:00.000000Z
+24cf641fdd904443716d13ed15ee0af2
+2008-05-19T09:11:23.320825Z
+9048
+FabianLange
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1417
+
 sfValidatorError.class.php
 file
 
@@ -198,40 +198,6 @@ has-props
 
 
 3988
-
-sfValidatorChoice.class.php
-file
-
-
-
-
-2010-04-29T21:55:00.000000Z
-1be9017476f04951fcc4249a521e28f3
-2009-09-23T05:54:32.004262Z
-22264
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3545
 
 sfValidatorDateRange.class.php
 file
@@ -267,17 +233,17 @@ has-props
 
 2167
 
-sfValidatorCallback.class.php
+sfValidatorChoice.class.php
 file
 
 
 
 
 2010-04-29T21:55:00.000000Z
-4d186510559ae8954ae51d8e5429c61f
-2008-05-19T09:11:23.320825Z
-9048
-FabianLange
+1be9017476f04951fcc4249a521e28f3
+2009-09-23T05:54:32.004262Z
+22264
+fabien
 has-props
 
 
@@ -299,7 +265,7 @@ has-props
 
 
 
-1376
+3545
 
 sfValidatorDateTime.class.php
 file
@@ -335,6 +301,40 @@ has-props
 
 833
 
+sfValidatorCallback.class.php
+file
+
+
+
+
+2010-04-29T21:55:00.000000Z
+4d186510559ae8954ae51d8e5429c61f
+2008-05-19T09:11:23.320825Z
+9048
+FabianLange
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1376
+
 sfValidatorInteger.class.php
 file
 
@@ -369,40 +369,6 @@ has-props
 
 1961
 
-sfValidatorTime.class.php
-file
-
-
-
-
-2010-04-29T21:55:00.000000Z
-d61c733a6362809cd767af20c1cdd49a
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4440
-
 sfValidatorCSRFToken.class.php
 file
 
@@ -436,6 +402,40 @@ has-props
 
 
 1064
+
+sfValidatorTime.class.php
+file
+
+
+
+
+2010-04-29T21:55:00.000000Z
+d61c733a6362809cd767af20c1cdd49a
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4440
 
 sfValidatorSchema.class.php
 file
@@ -647,10 +647,10 @@ file
 
 
 
-2010-04-29T21:56:39.000000Z
-55cfedfa4d6d9d6338a5d13c8db41bf5
-2010-03-23T11:57:16.636981Z
-28700
+2010-04-29T21:56:57.000000Z
+01d9eb73886d68b6922b1373e8e13d1c
+2009-09-11T12:06:21.565437Z
+21908
 fabien
 has-props
 
@@ -673,7 +673,7 @@ has-props
 
 
 
-9945
+9894
 
 sfValidatorSchemaCompare.class.php
 file
@@ -749,10 +749,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-913b3121142697878a7cc1b0df8f2d42
-2009-09-26T07:55:47.710993Z
-22446
+2010-04-29T21:56:57.000000Z
+0d2a39f6b7ac6c37d229ad9722afc0f3
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 has-props
 
@@ -775,7 +775,7 @@ has-props
 
 
 
-12836
+12335
 
 sfValidatorRegex.class.php
 file
@@ -817,11 +817,11 @@ file
 
 
 
-2010-04-29T21:56:39.000000Z
-5aec369a6cb2b564cae2ea5771a813e6
-2010-04-01T14:10:24.788356Z
-28959
-fabien
+2010-04-29T21:56:57.000000Z
+00d14b769e1b5f56e8e0996b8514cfbc
+2009-12-01T00:19:33.871860Z
+24628
+Kris.Wallsmith
 has-props
 
 
@@ -843,7 +843,7 @@ has-props
 
 
 
-8125
+7927
 
 sfValidatorFile.class.php
 file
@@ -912,40 +912,6 @@ has-props
 
 
 1622
-
-sfValidatorChoiceMany.class.php
-file
-
-
-
-
-2010-04-29T21:55:15.000000Z
-8999e5715102cc11ea16b903004f9f3a
-2009-09-18T11:28:09.984290Z
-22140
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-882
 
 sfValidatorOr.class.php
 file

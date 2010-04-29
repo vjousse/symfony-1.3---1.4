@@ -117,14 +117,14 @@ class sfWebDebugPanelPropel extends sfWebDebugPanel
       $query = join($outerGlue, $parts);
 
       $query = $this->formatSql(htmlspecialchars($query, ENT_QUOTES, sfConfig::get('sf_charset')));
-      $backtrace = isset($log['debug_backtrace']) && count($log['debug_backtrace']) ? '&nbsp;'.$this->getToggleableDebugStack($log['debug_backtrace']) : '';
+      $backtrace = isset($log['debug_backtrace']) ? '&nbsp;'.$this->getToggleableDebugStack($log['debug_backtrace']) : '';
 
       $html[] = sprintf('
-        <li%s>
+        <li class="%s">
           <p class="sfWebDebugDatabaseQuery">%s</p>
           <div class="sfWebDebugDatabaseLogInfo">%s%s</div>
         </li>',
-        $slowQuery ? ' class="sfWebDebugWarning"' : '',
+        $slowQuery ? 'sfWebDebugWarning' : '',
         $query,
         implode(', ', $details),
         $backtrace

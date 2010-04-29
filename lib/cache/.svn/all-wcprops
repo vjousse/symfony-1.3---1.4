@@ -1,11 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/!svn/ver/29010/tags/RELEASE_1_3_4/lib/cache
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/cache
 END
 sfCache.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/!svn/ver/29010/tags/RELEASE_1_3_4/lib/cache/sfCache.class.php
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/cache/sfCache.class.php
+END
+sfMemcacheCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/cache/sfMemcacheCache.class.php
+END
+sfFunctionCache.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/cache/sfFunctionCache.class.php
 END

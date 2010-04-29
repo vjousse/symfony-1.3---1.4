@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/test/functional
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/functional
 http://svn.symfony-project.com
 
 
 
-2010-03-19T19:00:53.490685Z
-28625
+2009-11-30T22:30:46.362071Z
+24615
 Kris.Wallsmith
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-7ae6df75453a193d500e2e802e299e50
-2010-02-08T20:51:02.851961Z
-27755
-Kris.Wallsmith
+2010-04-29T21:56:57.000000Z
+e917f4f139a9f551b432fbda54e2a0a9
+2009-11-14T13:44:52.794445Z
+23902
+fabien
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-1467
+1120
 
 genericTest.php
 file
@@ -100,11 +100,11 @@ file
 
 
 
-2010-04-29T21:55:54.000000Z
-eb37cc5780855748e48d83d405949e95
-2009-12-06T20:48:52.154761Z
-24992
-Kris.Wallsmith
+2010-04-29T21:56:57.000000Z
+18eedc4dee78eedb1938b2a5d5a5b255
+2009-11-14T13:44:52.794445Z
+23902
+fabien
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-6431
+5944
 
 i18nTest.php
 file
@@ -205,10 +205,10 @@ file
 
 
 
-2010-04-29T21:56:39.000000Z
-f352a62cb9a3a6da081b7c44cf75aa7f
-2010-03-19T19:00:53.490685Z
-28625
+2010-04-29T21:56:57.000000Z
+8d83ea861a866ee6c7ce640e24be8274
+2009-11-30T22:30:46.362071Z
+24615
 Kris.Wallsmith
 has-props
 
@@ -231,7 +231,7 @@ has-props
 
 
 
-20220
+19878
 
 httpcacheTest.php
 file

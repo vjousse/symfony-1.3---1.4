@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/lib/behavior
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/lib/behavior
 http://svn.symfony-project.com
 
 
 
-2010-04-01T13:56:17.567518Z
-28958
-fabien
+2009-11-30T19:53:50.069045Z
+24597
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -134,11 +134,11 @@ file
 
 
 
-2010-04-29T21:56:40.000000Z
-16291cfd9a8ed144411e057d58398c87
-2010-04-01T13:56:17.567518Z
-28958
-fabien
+2010-04-29T21:56:58.000000Z
+65634f48543dad8e632573b3a29b2ae9
+2009-10-27T18:09:12.450517Z
+23394
+Kris.Wallsmith
 has-props
 
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-7531
+7503
 
 SfPropelBehaviorTimestampable.php
 file

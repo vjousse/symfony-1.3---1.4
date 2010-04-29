@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/data/bin
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/data/bin
 http://svn.symfony-project.com
 
 
 
-2010-03-23T14:54:43.581999Z
-28712
-fabien
+2009-11-17T07:59:41.043952Z
+24079
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -171,10 +171,10 @@ file
 
 
 
-2010-04-29T21:56:40.000000Z
-bb76abcec6ad32dcd5837023ed41f96b
-2010-03-23T14:54:43.581999Z
-28712
+2010-04-29T21:56:59.000000Z
+df6c52d5a4c4871b5d517c929cfa12b3
+2009-08-24T11:30:01.795889Z
+21386
 fabien
 has-props
 
@@ -197,7 +197,7 @@ has-props
 
 
 
-4007
+3779
 
 create_sandbox.sh
 file

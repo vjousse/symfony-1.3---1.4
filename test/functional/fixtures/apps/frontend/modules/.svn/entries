@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/test/functional/fixtures/apps/frontend/modules
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/functional/fixtures/apps/frontend/modules
 http://svn.symfony-project.com
 
 
 
-2010-02-08T20:51:02.851961Z
-27755
-Kris.Wallsmith
+2009-09-11T07:38:24.815935Z
+21884
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -47,10 +47,10 @@ dir
 notfound
 dir
 
-configSecurityIsSecureAction
+exception
 dir
 
-exception
+configSecurityIsSecureAction
 dir
 
 configSecurityIsSecure
@@ -59,10 +59,10 @@ dir
 auth
 dir
 
-assetInclusion
+configModuleDisabled
 dir
 
-configModuleDisabled
+assetInclusion
 dir
 
 configSettingsMaxForwards

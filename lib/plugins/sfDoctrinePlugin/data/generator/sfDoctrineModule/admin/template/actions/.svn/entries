@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/actions
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/actions
 http://svn.symfony-project.com
 
 
 
-2009-11-16T21:08:08.565384Z
-24051
+2009-11-19T16:37:50.587682Z
+24171
 Kris.Wallsmith
 
 
@@ -34,8 +34,8 @@ file
 
 
 78afdec4f3829024652b458abaae59dc
-2009-11-16T21:08:08.565384Z
-24051
+2009-11-19T16:37:50.587682Z
+24171
 Kris.Wallsmith
 has-props
 

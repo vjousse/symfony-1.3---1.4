@@ -1,17 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/!svn/ver/29010/tags/RELEASE_1_3_4/lib/helper
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/helper
+END
+PartialHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/helper/PartialHelper.php
+END
+JavascriptBaseHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/helper/JavascriptBaseHelper.php
 END
 UrlHelper.php
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/!svn/ver/29010/tags/RELEASE_1_3_4/lib/helper/UrlHelper.php
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/helper/UrlHelper.php
 END
-FormHelper.php
+AssetHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/helper/AssetHelper.php
+END
+TextHelper.php
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/!svn/ver/29010/tags/RELEASE_1_3_4/lib/helper/FormHelper.php
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/helper/TextHelper.php
+END
+DebugHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/helper/DebugHelper.php
 END

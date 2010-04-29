@@ -73,11 +73,6 @@ $content = <<<EOF
 foo
 EOD
 );
-
-  echo __(<<<EOD
-bar
-EOD
-);
 EOF;
 
-$t->is(fix_linebreaks($e->extract($content)), array("foo\n", "bar\n"), '->extract() extracts strings from HEREDOC quoted strings');
+$t->is(fix_linebreaks($e->extract($content)), array('foo'."\n"), '->extract() extracts strings from HEREDOC quoted strings');

@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/lib/vendor
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/lib/vendor
 http://svn.symfony-project.com
 
 
 
-2010-01-19T09:56:54.766028Z
-26865
-fabien
+2009-11-14T20:02:28.092537Z
+23947
+FabianLange
 has-props
 
 svn:special svn:externals svn:needs-lock

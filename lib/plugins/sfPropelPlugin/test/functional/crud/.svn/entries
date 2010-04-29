@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/test/functional/crud
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/test/functional/crud
 http://svn.symfony-project.com
 
 
 
-2009-11-14T16:29:55.428306Z
-23931
+2009-11-14T20:02:28.092537Z
+23947
 FabianLange
 
 
@@ -272,8 +272,8 @@ file
 
 
 ca6ed947edc7f5b40ba41e8879c8bee4
-2009-11-14T16:29:55.428306Z
-23931
+2009-11-14T20:02:28.092537Z
+23947
 FabianLange
 has-props
 

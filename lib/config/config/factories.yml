@@ -90,7 +90,7 @@ default:
           param:
             level: debug
             condition:       %SF_WEB_DEBUG%
-            xdebug_logging:  false
+            xdebug_logging:  true
             web_debug_class: sfWebDebug
         sf_file_debug:
           class: sfFileLogger

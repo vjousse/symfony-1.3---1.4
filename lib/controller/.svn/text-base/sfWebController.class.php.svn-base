@@ -47,7 +47,7 @@ abstract class sfWebController extends sfController
         return $parameters;
       }
 
-      if ($parameters == '#')
+      if (is_string($parameters) && $parameters == '#')
       {
         return $parameters;
       }
@@ -178,11 +178,9 @@ abstract class sfWebController extends sfController
     if (empty($url))
     {
       throw new InvalidArgumentException('Cannot redirect to an empty URL.'); 
-    }
+    } 
 
     $url = $this->genUrl($url, true);
-    // see #8083
-    $url = str_replace('&amp;', '&', $url);
 
     if (sfConfig::get('sf_logging_enabled'))
     {

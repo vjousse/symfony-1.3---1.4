@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/validator/i18n
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/validator/i18n
 http://svn.symfony-project.com
 
 
 
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2009-11-14T17:58:19.127435Z
+23940
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-3f8183acb92226c143f6df64573f3150
-2009-09-23T06:24:28.254719Z
-22268
+2010-04-29T21:56:57.000000Z
+7a1b8360e5bc092f69da3fc9ade70687
+2009-11-14T17:58:19.127435Z
+23940
 fabien
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-1645
+1583
 
 sfValidatorI18nChoiceLanguage.class.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-3daa3ff363657bc886e7f70ea4fecfb2
-2009-11-09T22:50:08.095567Z
-23734
-FabianLange
+2010-04-29T21:56:57.000000Z
+ff513bd15ba5c2844af446b4c90a1d1f
+2009-11-14T17:58:19.127435Z
+23940
+fabien
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-1644
+1577
 
 sfValidatorI18nChoiceTimezone.class.php
 file

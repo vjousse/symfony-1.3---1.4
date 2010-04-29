@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/widget/i18n
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget/i18n
 http://svn.symfony-project.com
 
 
 
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -93,40 +93,6 @@ has-props
 
 
 1766
-
-sfWidgetFormI18nSelectCurrency.class.php
-file
-
-
-
-
-2010-04-29T21:55:15.000000Z
-a3b2e1881b994b24568c1516aaf976b4
-2009-03-12T08:37:50.461673Z
-16232
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1926
 
 sfWidgetFormI18nDateTime.class.php
 file
@@ -297,72 +263,4 @@ has-props
 
 
 2251
-
-sfWidgetFormI18nSelectCountry.class.php
-file
-
-
-
-
-2010-04-29T21:55:15.000000Z
-e7fb6209bfc5996b888816b8cd8a5b6e
-2008-09-29T10:53:28.863479Z
-11842
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1908
-
-sfWidgetFormI18nSelectLanguage.class.php
-file
-
-
-
-
-2010-04-29T21:55:15.000000Z
-a78a9c43a844736fed8bc013fe105e4c
-2009-11-09T22:50:08.095567Z
-23734
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1907
 

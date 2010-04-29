@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/addon
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/addon
 http://svn.symfony-project.com
 
 
 
-2010-02-08T18:02:19.568173Z
-27747
+2009-11-29T15:58:01.774223Z
+24533
 Kris.Wallsmith
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-c39193ad19f5149b365ededa41e46142
-2010-02-08T18:02:19.568173Z
-27747
+2010-04-29T21:56:58.000000Z
+6c217cbe5881513e9560fa623910e17b
+2009-11-29T15:58:01.774223Z
+24533
 Kris.Wallsmith
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-10821
+10430
 
 sfData.class.php
 file

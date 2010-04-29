@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/lib/task
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/lib/task
 http://svn.symfony-project.com
 
 
 
-2010-04-06T18:02:32.299628Z
-29001
+2009-11-30T23:42:50.590596Z
+24621
 Kris.Wallsmith
 
 
@@ -25,74 +25,6 @@ svn:special svn:externals svn:needs-lock
 
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
-
-sfPropelBuildAllLoadTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-f78648af59598c53bf36445d6b87849e
-2009-11-13T13:11:06.167515Z
-23849
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3621
-
-sfPropelBuildAllTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-984993334339210508d924d8b5b21e12
-2009-08-06T21:43:11.097481Z
-20867
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5041
 
 sfPropelBuildFiltersTask.class.php
 file
@@ -128,6 +60,74 @@ has-props
 
 3379
 
+sfPropelBuildAllTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:58.000000Z
+192cb77d0e10fee70cc0ff663c13f4d3
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4985
+
+sfPropelBuildAllLoadTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:58.000000Z
+ec6bccc86cf00d2becbfe152334493b7
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3560
+
 sfPropelGraphvizTask.class.php
 file
 
@@ -161,6 +161,40 @@ has-props
 
 
 1609
+
+sfPropelDataDumpTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:58.000000Z
+eac5535c19df30ef1aa5a16534fc8002
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3465
 
 sfPropelBuildTask.class.php
 file
@@ -196,74 +230,6 @@ has-props
 
 8037
 
-sfPropelDataDumpTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-08832a5246e9aca36dcd63f47c6b66c0
-2009-09-11T12:06:21.565437Z
-21908
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3513
-
-sfPropelGenerateModuleTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-388be62e78c47cef1832d9209ed87f4f
-2009-11-14T16:18:20.042105Z
-23930
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10174
-
 sfPhing.class.php
 file
 
@@ -272,8 +238,8 @@ file
 
 
 27b382cf90b8548a35acfda7647318a3
-2009-11-16T13:02:07.158809Z
-24011
+2009-11-16T17:52:14.706630Z
+24039
 Kris.Wallsmith
 has-props
 
@@ -297,6 +263,40 @@ has-props
 
 
 1100
+
+sfPropelGenerateModuleTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:58.000000Z
+b3d1440cdca376ee748cb9f1e3ec6ccd
+2009-11-14T20:02:28.092537Z
+23947
+FabianLange
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10098
 
 sfPhingListener.php
 file
@@ -338,11 +338,11 @@ file
 
 
 
-2010-04-29T21:56:40.000000Z
-a8970a1534f32b5774da46e1ce70a57f
-2010-03-26T17:19:58.593546Z
-28809
-Jonathan.Wage
+2010-04-29T21:56:58.000000Z
+fb699ea90e1f2109b0deb1a29f52da48
+2009-11-30T23:42:50.590596Z
+24621
+Kris.Wallsmith
 has-props
 
 
@@ -364,41 +364,7 @@ has-props
 
 
 
-7567
-
-sfPropelBuildFormsTask.class.php
-file
-
-
-
-
-
-d1c895d6e55137581a33927a42511471
-2009-11-14T16:10:57.377925Z
-23927
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3692
+7448
 
 sfPropelConfigureDatabaseTask.class.php
 file
@@ -434,155 +400,16 @@ has-props
 
 4770
 
-sfPropelDataLoadTask.class.php
+sfPropelBuildFormsTask.class.php
 file
 
 
 
 
-2010-04-29T21:55:16.000000Z
-126bf2427defefd8331da3692f318927
-2009-09-25T16:53:39.258506Z
-22422
-Kris.Wallsmith
-has-props
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3351
-
-sfPropelBaseTask.class.php
-file
-
-
-
-
-2010-04-29T21:56:40.000000Z
-f250453c01a3b7f82201a49225a11cb5
-2010-04-06T18:02:32.299628Z
-29001
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10810
-
-sfPropelInitAdminTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-1bde7e5ed6aef644f412c7ca9e9fc97b
-2008-07-30T23:50:54.559650Z
-10527
-dwhittle
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3310
-
-phing
-dir
-
-sfPropelBuildSqlTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-e25eb83fdc976b9289e9ebecf3d01120
-2008-12-24T04:57:47.686859Z
-14299
-dwhittle
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1759
-
-sfPropelBuildSchemaTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-a8bf3e4d33189732d75350530330c380
-2009-09-23T08:04:37.254564Z
-22278
+d1c895d6e55137581a33927a42511471
+2009-11-14T16:10:57.377925Z
+23927
 fabien
 has-props
 
@@ -605,18 +432,52 @@ has-props
 
 
 
-3529
+3692
 
-sfPropelBuildModelTask.class.php
+sfPropelDataLoadTask.class.php
 file
 
 
 
 
-2010-04-29T21:55:16.000000Z
-aff7658b22e0f3ad50abe1cf76a229ec
-2009-08-06T21:43:11.097481Z
-20867
+2010-04-29T21:56:58.000000Z
+0ce9007e98a011332902939dfd4b8678
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3295
+
+sfPropelBaseTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:58.000000Z
+8f7d6afa3ac6d968215104dc2b5e16fa
+2009-11-09T23:32:46.492714Z
+23739
 Kris.Wallsmith
 has-props
 
@@ -639,7 +500,112 @@ has-props
 
 
 
-2069
+10765
+
+phing
+dir
+
+sfPropelBuildSqlTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:58.000000Z
+0cc390ea18f1979067164ed942269182
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1709
+
+sfPropelBuildSchemaTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:58.000000Z
+bea3a54fe52476106b702e037649afb1
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3478
+
+sfPropelBuildModelTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:58.000000Z
+fdbc13596ec154f0b3809415ac5da81f
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2011
 
 sfPropelInsertSqlTask.class.php
 file
@@ -647,11 +613,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-1e0ad726e9dcd20e0400861257faca02
-2009-10-01T16:53:31.302784Z
-22691
-FabianLange
+2010-04-29T21:56:58.000000Z
+70777b9ba6c8ae2e6156085025238a48
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -673,7 +639,7 @@ has-props
 
 
 
-4533
+4479
 
 sfPropelSchemaToXmlTask.class.php
 file
@@ -681,11 +647,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-03bb0c29271e5085103747bfe8a76134
-2009-01-26T21:39:14.776275Z
-14972
-FabianLange
+2010-04-29T21:56:58.000000Z
+9d25aeb597bd9c2d69df3397081950df
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -707,7 +673,7 @@ has-props
 
 
 
-1221
+1159
 
 sfPropelSchemaToYmlTask.class.php
 file
@@ -715,11 +681,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-882813e2e8cdc6cef129a005b76cfb53
-2009-01-26T21:39:14.776275Z
-14972
-FabianLange
+2010-04-29T21:56:58.000000Z
+65c092baae9981803b82d6cfc573a03f
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -741,7 +707,7 @@ has-props
 
 
 
-1221
+1159
 
 sfPropelGenerateModuleForRouteTask.class.php
 file

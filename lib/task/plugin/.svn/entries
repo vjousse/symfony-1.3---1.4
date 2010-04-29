@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/task/plugin
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/plugin
 http://svn.symfony-project.com
 
 
 
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-65c47f314ce34593d22b006b0a2f0d45
-2008-02-28T09:52:40.607753Z
-7655
+2010-04-29T21:56:57.000000Z
+27d27f102aba0bba8bcee3e5b3ad918e
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-1711
+1669
 
 sfPluginAddChannelTask.class.php
 file
@@ -134,10 +134,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-7cd71e512ba1eeb9eddcf6e9e92f6c61
-2009-09-11T12:06:21.565437Z
-21908
+2010-04-29T21:56:57.000000Z
+ba577ce03fd1154344f8f4804a357985
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-4370
+4324
 
 sfPluginUpgradeTask.class.php
 file
@@ -168,10 +168,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-c2f129112b471a79a325bf82e2ced6dd
-2008-04-15T22:47:27.833447Z
-8474
+2010-04-29T21:56:57.000000Z
+e507f6daca2259b323d7ceea934ff053
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 has-props
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-2091
+2046
 
 sfPluginPublishAssetsTask.class.php
 file
@@ -202,44 +202,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-d096a4d042c0c18e1d5d7ef0109eb9c9
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3100
-
-sfPluginUninstallTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:15.000000Z
-07f8181ccfe2ee6601b74420eca8458c
-2008-04-15T22:47:27.833447Z
-8474
+2010-04-29T21:56:57.000000Z
+cf28184f4521d94e41cebdcf9bd5dad3
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 has-props
 
@@ -262,5 +228,39 @@ has-props
 
 
 
-2337
+3062
+
+sfPluginUninstallTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:57.000000Z
+aed6f7362256d5166da2e41b49dc7816
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2290
 

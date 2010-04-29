@@ -16,7 +16,7 @@ require_once(dirname(__FILE__).'/sfGeneratorBaseTask.class.php');
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfGenerateProjectTask.class.php 27211 2010-01-26 20:23:26Z FabianLange $
+ * @version    SVN: $Id: sfGenerateProjectTask.class.php 23922 2009-11-14 14:58:38Z fabien $
  */
 class sfGenerateProjectTask extends sfGeneratorBaseTask
 {
@@ -45,7 +45,6 @@ class sfGenerateProjectTask extends sfGeneratorBaseTask
       new sfCommandOption('installer', null, sfCommandOption::PARAMETER_REQUIRED, 'An installer script to execute', null),
     ));
 
-    $this->aliases = array('init-project');
     $this->namespace = 'generate';
     $this->name = 'project';
 
@@ -135,11 +134,9 @@ EOF;
     // execute a custom installer
     if ($options['installer'] && $this->commandApplication)
     {
-      if ($this->canRunInstaller($options['installer']))
-      {
-        $this->reloadTasks();
-        include $options['installer'];
-      }
+      $this->reloadTasks();
+
+      include $options['installer'];
     }
 
     // fix permission for common directories
@@ -149,22 +146,5 @@ EOF;
     $fixPerms->run();
 
     $this->replaceTokens();
-  }
-
-  protected function canRunInstaller($installer)
-  {
-    if (preg_match('#^(https?|ftps?)://#', $installer))
-    {
-      if (ini_get('allow_url_fopen') === false)
-      {
-        $this->logSection('generate', sprintf('Cannot run remote installer "%s" because "allow_url_fopen" is off', $installer));
-      }
-      if (ini_get('allow_url_include') === false)
-      {
-        $this->logSection('generate', sprintf('Cannot run remote installer "%s" because "allow_url_include" is off', $installer));
-      }
-      return ini_get('allow_url_fopen') && ini_get('allow_url_include');
-    }
-    return true;
   }
 }

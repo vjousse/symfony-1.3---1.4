@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib
 http://svn.symfony-project.com
 
 
 
-2010-04-07T05:20:33.847151Z
-29026
-fabien
+2009-12-01T11:17:14.346561Z
+24670
+Kris.Wallsmith
 has-props
 
 svn:special svn:externals svn:needs-lock
@@ -77,25 +77,25 @@ dir
 command
 dir
 
-i18n
+test
 dir
 
 helper
 dir
 
-test
-dir
-
-log
+i18n
 dir
 
 plugins
 dir
 
-filter
+log
 dir
 
 addon
+dir
+
+filter
 dir
 
 routing
@@ -113,10 +113,10 @@ dir
 config
 dir
 
-action
+util
 dir
 
-util
+action
 dir
 
 user

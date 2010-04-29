@@ -5,11 +5,6 @@
       return;
     }
 
-    if (!in_array(strtolower($sort[1]), array('asc', 'desc')))
-    {
-      $sort[1] = 'asc';
-    }
-
     $query->addOrderBy($sort[0] . ' ' . $sort[1]);
   }
 

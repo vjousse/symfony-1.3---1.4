@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/task/log
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/log
 http://svn.symfony-project.com
 
 
@@ -32,8 +32,8 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-c94b9418ce5fafee540f7fe872b87f0f
+2010-04-29T21:56:57.000000Z
+0108c5ffd060fc043609ed88b7222dc0
 2009-11-24T13:15:01.918761Z
 24331
 Kris.Wallsmith
@@ -58,7 +58,7 @@ has-props
 
 
 
-5025
+4983
 
 sfLogClearTask.class.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-d20b5c517d37f2034fb7af894757f19b
-2008-03-29T07:58:59.355617Z
-8148
+2010-04-29T21:56:57.000000Z
+c804155d2f1357cf40b0a1f283fea609
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 has-props
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-1110
+1070
 

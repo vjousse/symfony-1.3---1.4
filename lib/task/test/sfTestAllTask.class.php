@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfTestAllTask.class.php 25036 2009-12-07 19:41:58Z Kris.Wallsmith $
+ * @version    SVN: $Id: sfTestAllTask.class.php 24266 2009-11-23 12:11:51Z Kris.Wallsmith $
  */
 class sfTestAllTask extends sfTestBaseTask
 {
@@ -28,7 +28,6 @@ class sfTestAllTask extends sfTestBaseTask
       new sfCommandOption('xml', null, sfCommandOption::PARAMETER_REQUIRED, 'The file name for the JUnit compatible XML log file'),
     ));
 
-    $this->aliases = array('test-all');
     $this->namespace = 'test';
     $this->name = 'all';
     $this->briefDescription = 'Launches all tests';
@@ -73,10 +72,7 @@ EOF;
   {
     require_once dirname(__FILE__).'/sfLimeHarness.class.php';
 
-    $h = new sfLimeHarness(array(
-      'force_colors' => isset($options['color']) && $options['color'],
-      'verbose'      => isset($options['trace']) && $options['trace'],
-    ));
+    $h = new sfLimeHarness(array('force_colors' => $options['color'], 'verbose' => $options['trace']));
     $h->addPlugins(array_map(array($this->configuration, 'getPluginConfiguration'), $this->configuration->getPlugins()));
     $h->base_dir = sfConfig::get('sf_test_dir');
 

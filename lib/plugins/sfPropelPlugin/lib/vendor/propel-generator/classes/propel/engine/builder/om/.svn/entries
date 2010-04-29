@@ -2,13 +2,13 @@
 
 dir
 1722
-http://propel.mirror.svn.symfony-project.com/tags/1.4.1/generator/classes/propel/engine/builder/om
+http://propel.mirror.svn.symfony-project.com/tags/1.4.0/generator/classes/propel/engine/builder/om
 http://propel.mirror.svn.symfony-project.com
 
 
 
-2010-01-12T21:19:00.553581Z
-1450
+2009-11-07T23:21:49.322195Z
+1294
 francois
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:56:13.000000Z
-cb7bd36e5762433d348cc91e0486340b
-2010-01-12T21:19:00.553581Z
-1450
+2010-04-29T21:57:01.000000Z
+d457396b707958dfc66ec64a97cb4c42
+2009-10-26T20:54:39.333354Z
+1262
 francois
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-12259
+12218
 
 PeerBuilder.php
 file

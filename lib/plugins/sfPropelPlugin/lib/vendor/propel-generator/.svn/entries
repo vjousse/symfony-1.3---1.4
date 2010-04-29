@@ -2,13 +2,13 @@
 
 dir
 1722
-http://propel.mirror.svn.symfony-project.com/tags/1.4.1/generator
+http://propel.mirror.svn.symfony-project.com/tags/1.4.0/generator
 http://propel.mirror.svn.symfony-project.com
 
 
 
-2010-01-12T22:39:15.688693Z
-1452
+2009-11-08T13:39:31.174976Z
+1299
 francois
 has-props
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:56:13.000000Z
-3a4d6052c569c17b2cf1fc5babb3612c
-2010-01-12T22:39:15.688693Z
-1452
+2010-04-29T21:57:01.000000Z
+19a5eaee1a6171e9bfc42f727d532556
+2009-11-08T13:39:31.174976Z
+1299
 francois
 has-props
 

@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/!svn/ver/1453/tags/1.4.1/runtime/classes/propel/util
+/!svn/ver/1300/tags/1.4.0/runtime/classes/propel/util
 END
 DebugPDO.php
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/!svn/ver/1453/tags/1.4.1/runtime/classes/propel/util/DebugPDO.php
+/!svn/ver/1300/tags/1.4.0/runtime/classes/propel/util/DebugPDO.php
 END
 DebugPDOStatement.php
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/!svn/ver/1453/tags/1.4.1/runtime/classes/propel/util/DebugPDOStatement.php
+/!svn/ver/1300/tags/1.4.0/runtime/classes/propel/util/DebugPDOStatement.php
 END

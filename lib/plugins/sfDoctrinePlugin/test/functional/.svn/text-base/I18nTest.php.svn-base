@@ -94,7 +94,6 @@ $values = array(
   ),
   'id' => null,
   'type' => null,
-  'views' => null,
   'created_at' => $data['created_at'],
   'updated_at' => $data['updated_at'],
 );
@@ -108,7 +107,6 @@ $expected = array(
   'author_id' => $article->Author->id,
   'is_on_homepage' => true,
   'type' => null,
-  'views' => null,
   'created_at' => $article->created_at,
   'updated_at' => $article->updated_at,
   'Translation' => 
@@ -149,7 +147,6 @@ $expected = array(
   'author_id' => $article->author_id,
   'is_on_homepage' => true,
   'type' => null,
-  'views' => null,
   'created_at' => $article->created_at,
   'updated_at' => $article->updated_at,
   'en' => 

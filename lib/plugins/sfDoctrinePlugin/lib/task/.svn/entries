@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib/task
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/lib/task
 http://svn.symfony-project.com
 
 
 
-2010-04-05T00:27:39.820236Z
-28976
+2009-12-01T05:06:21.176096Z
+24637
 Kris.Wallsmith
 
 
@@ -94,16 +94,16 @@ has-props
 
 3924
 
-sfDoctrineBuildAllTask.class.php
+sfDoctrineGenerateMigrationsModelsTask.class.php
 file
 
 
 
 
-2010-04-29T21:55:54.000000Z
-5f302c9252ddc7fea8545e819b3c07d7
-2009-12-03T08:34:47.149246Z
-24849
+2010-04-29T21:56:58.000000Z
+257a2b42d77e13aa0f674afeadc64576
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 has-props
 
@@ -126,41 +126,7 @@ has-props
 
 
 
-3242
-
-sfDoctrineGenerateMigrationsModelsTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-4bbef52f30bdbc04c7d7f3b45c17a841
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2069
+1955
 
 sfDoctrineDataDumpTask.class.php
 file
@@ -168,11 +134,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-aff84d9d045782ed62ab5f60377addd9
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-04-29T21:56:58.000000Z
+c92741cf12bdc327fb27eb33876e2874
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -194,7 +160,7 @@ has-props
 
 
 
-2651
+2593
 
 sfDoctrineBuildTask.class.php
 file
@@ -230,48 +196,14 @@ has-props
 
 9515
 
-sfDoctrineReloadDataTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-700919df8434179bc1696caf60a9954e
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2837
-
 sfDoctrineGenerateMigrationTask.class.php
 file
 
 
 
 
-2010-04-29T21:55:16.000000Z
-f60345d15580da09e0a28f600345ebf5
+2010-04-29T21:56:58.000000Z
+3e6ec528a542b756287f29e7f89a7b1b
 2009-11-25T18:21:06.178364Z
 24390
 Kris.Wallsmith
@@ -296,7 +228,7 @@ has-props
 
 
 
-3034
+2975
 
 sfDoctrineConfigureDatabaseTask.class.php
 file
@@ -338,11 +270,11 @@ file
 
 
 
-2010-04-29T21:55:54.000000Z
-cb65f980e5ecac332d30aa1f065806ea
-2009-12-02T02:14:05.006946Z
-24745
-Kris.Wallsmith
+2010-04-29T21:56:58.000000Z
+abc1b3f3270dca5e6aa47ab69383275b
+2009-11-30T22:46:57.005504Z
+24617
+Jonathan.Wage
 has-props
 
 
@@ -364,7 +296,7 @@ has-props
 
 
 
-5529
+5096
 
 sfDoctrineBuildSchemaTask.class.php
 file
@@ -372,11 +304,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-eb50b2a66efbabdc63a51b854a1bd9d5
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-04-29T21:56:58.000000Z
+362e255ddb0af60a48f190f286ba909e
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -398,7 +330,7 @@ has-props
 
 
 
-1814
+1753
 
 sfDoctrineInsertSqlTask.class.php
 file
@@ -406,11 +338,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-510cdd1aec6fd863f791ed634c259a48
-2010-02-12T14:05:53.685842Z
-27942
-Kris.Wallsmith
+2010-04-29T21:56:58.000000Z
+332869112a3d8214f33be2cefbeeda31
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -432,41 +364,7 @@ has-props
 
 
 
-2021
-
-sfDoctrineBuildAllLoadTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-13f725581a93571d81ef50de648a34d5
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3615
+1907
 
 sfDoctrineBuildFiltersTask.class.php
 file
@@ -508,11 +406,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-cf6048f3d18863fbc352a54d449b9b98
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-04-29T21:56:58.000000Z
+e7b6dfdd406c2258a401950a4daa2521
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -534,41 +432,7 @@ has-props
 
 
 
-3986
-
-sfDoctrineRebuildDbTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-f20120b8ba582f379d9689151f4ea2af
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2459
+3930
 
 sfDoctrineGenerateMigrationsDbTask.class.php
 file
@@ -576,11 +440,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-6e84d02bab56c55ad5d270b1c09837dc
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-04-29T21:56:58.000000Z
+2eb2e51e2ddfd9863533c65d36c1052b
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -602,7 +466,7 @@ has-props
 
 
 
-2146
+2040
 
 sfDoctrineGenerateModuleTask.class.php
 file
@@ -610,8 +474,8 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-799654ce8ad54c7243613ccd43779a27
+2010-04-29T21:56:58.000000Z
+45b963a60ce5796a8591139e19060c62
 2009-12-01T05:06:21.176096Z
 24637
 Kris.Wallsmith
@@ -636,7 +500,7 @@ has-props
 
 
 
-10037
+9957
 
 sfDoctrineGenerateAdminTask.class.php
 file
@@ -644,11 +508,11 @@ file
 
 
 
-2010-04-29T21:56:40.000000Z
-313210ef55f836e64d0d62df9bde757e
-2010-03-26T17:19:58.593546Z
-28809
-Jonathan.Wage
+2010-04-29T21:56:58.000000Z
+3db969407fc612ad42410bde53e5eb8f
+2009-11-30T23:38:19.248147Z
+24620
+Kris.Wallsmith
 has-props
 
 
@@ -670,7 +534,7 @@ has-props
 
 
 
-7168
+7043
 
 sfDoctrineBuildDbTask.class.php
 file
@@ -678,8 +542,8 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-7a9ce54994f05e0e718af773d3f680ca
+2010-04-29T21:56:58.000000Z
+e8d19aaa6729249752f88fad29cd1c27
 2009-11-24T15:01:58.408035Z
 24341
 Kris.Wallsmith
@@ -704,41 +568,7 @@ has-props
 
 
 
-2568
-
-sfDoctrineDeleteModelFilesTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-bd8c44d25d008587b9737ffb43b29640
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3096
+2547
 
 sfDoctrineBuildFormsTask.class.php
 file
@@ -774,17 +604,17 @@ has-props
 
 3418
 
-sfDoctrineBuildAllReloadTestAllTask.class.php
+sfDoctrineDeleteModelFilesTask.class.php
 file
 
 
 
 
-2010-04-29T21:55:16.000000Z
-675a1bfec2afa50e2a01b38afbae1398
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-04-29T21:56:58.000000Z
+23438e80b3308c10087dc51cef83f766
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -806,7 +636,7 @@ has-props
 
 
 
-3855
+3058
 
 sfDoctrineDataLoadTask.class.php
 file
@@ -814,11 +644,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-b6c8225f8d1e83dccba83a3da0b7cfa1
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-04-29T21:56:58.000000Z
+e875001b7da698cc855c3ae6001c8bd6
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -840,41 +670,7 @@ has-props
 
 
 
-2834
-
-sfDoctrineBaseTask.class.php
-file
-
-
-
-
-2010-04-29T21:56:40.000000Z
-15088ae9e84ce7c56ff5dac71613e55c
-2010-04-05T00:27:39.820236Z
-28976
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8430
+2776
 
 sfDoctrineDropDbTask.class.php
 file
@@ -882,8 +678,8 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-93c64b54ba8405f1240c7e984639e934
+2010-04-29T21:56:58.000000Z
+b4bb78578fb0ba7df2c0249754091885
 2009-11-24T15:01:58.408035Z
 24341
 Kris.Wallsmith
@@ -908,18 +704,18 @@ has-props
 
 
 
-3297
+3249
 
-sfDoctrineBuildAllReloadTask.class.php
+sfDoctrineBaseTask.class.php
 file
 
 
 
 
-2010-04-29T21:55:16.000000Z
-a3a2538fca01c31c879d0c32b270b012
-2009-11-12T11:07:44.003356Z
-23810
+2010-04-29T21:56:58.000000Z
+f263ce730fc3a730f4c764b6b4640ec9
+2009-11-16T22:17:53.376014Z
+24060
 Kris.Wallsmith
 has-props
 
@@ -942,41 +738,7 @@ has-props
 
 
 
-3487
-
-sfDoctrineBuildSqlTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-49f3e32035b707b6f0ae31467cc3aca3
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1958
+6365
 
 sfDoctrineCreateModelTablesTask.class.php
 file
@@ -984,11 +746,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-51e5be60c8358a680d9eb5a55e394569
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-04-29T21:56:58.000000Z
+0c24c3fa29cea2bb0f5ef2642f9862dc
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -1010,19 +772,19 @@ has-props
 
 
 
-2948
+2910
 
-sfDoctrineGenerateMigrationsDiffTask.class.php
+sfDoctrineBuildSqlTask.class.php
 file
 
 
 
 
-2010-04-29T21:56:40.000000Z
-b69cf3d4386caf74745ee73c15fc755d
-2010-03-29T17:28:03.044510Z
-28871
-Jonathan.Wage
+2010-04-29T21:56:58.000000Z
+6c238cbca1c9d749fd0eddc64d1742b4
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -1044,7 +806,7 @@ has-props
 
 
 
-2224
+1900
 
 sfDoctrineDqlTask.class.php
 file
@@ -1052,8 +814,8 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-e3b2293ad7df75d417e0dbee4bce02fa
+2010-04-29T21:56:58.000000Z
+d230e7578e6fe1dd2db8a736cf1bdb1c
 2009-12-01T00:05:40.910242Z
 24625
 Kris.Wallsmith
@@ -1078,5 +840,39 @@ has-props
 
 
 
-4979
+4935
+
+sfDoctrineGenerateMigrationsDiffTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:58.000000Z
+7f315adaef4f2ec68dae5ec6e1dac5d7
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2117
 

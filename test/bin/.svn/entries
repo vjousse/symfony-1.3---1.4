@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/test/bin
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/bin
 http://svn.symfony-project.com
 
 
 
-2009-06-30T16:53:57.744449Z
-19717
+2009-11-14T16:32:53.123081Z
+23932
 fabien
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-95f1019eee37058ae43cccd974a4cbfe
-2009-05-11T12:29:54.538334Z
-18138
+2010-04-29T21:56:57.000000Z
+bc322a064873598b26c1e552f154eabc
+2009-11-14T16:32:53.123081Z
+23932
 fabien
 has-props
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-1666
+1550
 

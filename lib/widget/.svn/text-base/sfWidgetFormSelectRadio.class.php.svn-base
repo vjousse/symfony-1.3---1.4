@@ -23,6 +23,7 @@ class sfWidgetFormSelectRadio extends sfWidgetFormChoiceBase
    *
    * Available options:
    *
+   *  * choices:         An array of possible choices (required)
    *  * label_separator: The separator to use between the input radio and the label
    *  * separator:       The separator to use between each input radio
    *  * class:           The class to use for the main <ul> tag
@@ -101,7 +102,7 @@ class sfWidgetFormSelectRadio extends sfWidgetFormChoiceBase
 
       $inputs[$id] = array(
         'input' => $this->renderTag('input', array_merge($baseAttributes, $attributes)),
-        'label' => $this->renderContentTag('label', self::escapeOnce($option), array('for' => $id)),
+        'label' => $this->renderContentTag('label', $option, array('for' => $id)),
       );
     }
 

@@ -15,7 +15,7 @@
  * @package    sfDoctrinePlugin
  * @subpackage pager
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id: sfDoctrinePager.class.php 28897 2010-03-30 20:30:24Z Jonathan.Wage $
+ * @version    SVN: $Id: sfDoctrinePager.class.php 23810 2009-11-12 11:07:44Z Kris.Wallsmith $
  */
 class sfDoctrinePager extends sfPager implements Serializable
 {
@@ -70,8 +70,6 @@ class sfDoctrinePager extends sfPager implements Serializable
     {
       $this->$name = $values;
     }
-
-    $this->tableMethodCalled = false; 
   }
 
   /**
@@ -95,7 +93,7 @@ class sfDoctrinePager extends sfPager implements Serializable
    */
   public function init()
   {
-    $this->resetIterator();
+    $this->results = null;
 
     $countQuery = $this->getCountQuery();
     $count = $countQuery->count();
@@ -186,18 +184,5 @@ class sfDoctrinePager extends sfPager implements Serializable
   public function getResults($hydrationMode = null)
   {
     return $this->getQuery()->execute(array(), $hydrationMode);
-  }
-
-  /**
-   * @see sfPager
-   */
-  protected function initializeIterator()
-  {
-    parent::initializeIterator();
-
-    if ($this->results instanceof Doctrine_Collection)
-    {
-      $this->results = $this->results->getData();
-    }
   }
 }

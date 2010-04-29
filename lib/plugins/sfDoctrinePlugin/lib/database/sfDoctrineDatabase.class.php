@@ -16,7 +16,7 @@
  * @subpackage doctrine
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id: sfDoctrineDatabase.class.php 28902 2010-03-30 20:57:27Z Jonathan.Wage $
+ * @version    SVN: $Id: sfDoctrineDatabase.class.php 24598 2009-11-30 19:59:04Z Jonathan.Wage $
  */
 class sfDoctrineDatabase extends sfDatabase
 {
@@ -159,10 +159,7 @@ class sfDoctrineDatabase extends sfDatabase
     if ($this->connection !== null)
     {
       $this->connection = null;
-    }
-    if ($this->_doctrineConnection !== null) 
-    { 
-      $this->_doctrineConnection->getManager()->closeConnection($this->_doctrineConnection); 
+      $this->_doctrineConnection = null;
     }
   }
 }

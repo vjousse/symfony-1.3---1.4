@@ -2,7 +2,7 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Validator
+http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Validator
 http://doctrine.mirror.svn.symfony-project.com
 
 
@@ -60,40 +60,6 @@ has-props
 
 2140
 
-Notnull.php
-file
-
-
-
-
-2010-04-29T21:56:44.000000Z
-b961f2279c25e598a6b67e66eca0b3ef
-2010-03-29T19:53:27.209172Z
-7490
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1623
-
 Driver.php
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 3498
+
+Notnull.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+b961f2279c25e598a6b67e66eca0b3ef
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1623
 
 Range.php
 file
@@ -162,40 +162,6 @@ has-props
 
 1873
 
-Exception.php
-file
-
-
-
-
-2010-04-29T21:56:44.000000Z
-1159717723ef11d25976ab9eae996cd2
-2010-03-29T19:53:27.209172Z
-7490
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2784
-
 Time.php
 file
 
@@ -230,14 +196,14 @@ has-props
 
 2395
 
-Htmlcolor.php
+Exception.php
 file
 
 
 
 
 2010-04-29T21:56:44.000000Z
-3fec94e032b0253b4ab13acf6c24e330
+1159717723ef11d25976ab9eae996cd2
 2010-03-29T19:53:27.209172Z
 7490
 jwage
@@ -262,7 +228,41 @@ has-props
 
 
 
-1797
+2784
+
+Timestamp.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+79fd22c831e7dff610f702548e6c7564
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2171
 
 Country.php
 file
@@ -298,14 +298,14 @@ has-props
 
 10038
 
-Timestamp.php
+Htmlcolor.php
 file
 
 
 
 
 2010-04-29T21:56:44.000000Z
-79fd22c831e7dff610f702548e6c7564
+3fec94e032b0253b4ab13acf6c24e330
 2010-03-29T19:53:27.209172Z
 7490
 jwage
@@ -330,7 +330,7 @@ has-props
 
 
 
-2171
+1797
 
 Creditcard.php
 file
@@ -434,40 +434,6 @@ has-props
 
 2561
 
-Notblank.php
-file
-
-
-
-
-2010-04-29T21:56:44.000000Z
-0941bdcc5ec64ac53fbee1a8636594f0
-2010-03-29T19:53:27.209172Z
-7490
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1723
-
 Ip.php
 file
 
@@ -501,6 +467,40 @@ has-props
 
 
 1668
+
+Notblank.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+0941bdcc5ec64ac53fbee1a8636594f0
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1723
 
 Future.php
 file

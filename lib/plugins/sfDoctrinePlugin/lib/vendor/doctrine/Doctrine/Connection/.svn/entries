@@ -2,7 +2,7 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/tags/1.2.2/lib/Doctrine/Connection
+http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Connection
 http://doctrine.mirror.svn.symfony-project.com
 
 
@@ -202,40 +202,6 @@ has-props
 
 20121
 
-Oracle.php
-file
-
-
-
-
-2010-04-29T21:56:44.000000Z
-e41c4883a1a24df1c4d50bb2ac1c6ef9
-2010-03-29T19:53:27.209172Z
-7490
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6023
-
 Mysql.php
 file
 
@@ -270,14 +236,14 @@ has-props
 
 8669
 
-Db2.php
+Oracle.php
 file
 
 
 
 
 2010-04-29T21:56:44.000000Z
-ba5988d1a6a899bcba5bb8a2edc59901
+e41c4883a1a24df1c4d50bb2ac1c6ef9
 2010-03-29T19:53:27.209172Z
 7490
 jwage
@@ -302,7 +268,7 @@ has-props
 
 
 
-2506
+6023
 
 UnitOfWork.php
 file
@@ -338,16 +304,50 @@ has-props
 
 34845
 
+Db2.php
+file
+
+
+
+
+2010-04-29T21:56:44.000000Z
+ba5988d1a6a899bcba5bb8a2edc59901
+2010-03-29T19:53:27.209172Z
+7490
+jwage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2506
+
 Mssql
 dir
 
 Sqlite
 dir
 
-Oracle
+Mysql
 dir
 
-Mysql
+Oracle
 dir
 
 Profiler.php

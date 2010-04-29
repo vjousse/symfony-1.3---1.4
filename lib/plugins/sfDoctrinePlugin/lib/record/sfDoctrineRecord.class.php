@@ -17,7 +17,7 @@
  * @subpackage doctrine
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id: sfDoctrineRecord.class.php 28898 2010-03-30 20:35:08Z Jonathan.Wage $
+ * @version    SVN: $Id: sfDoctrineRecord.class.php 24632 2009-12-01 01:32:29Z Jonathan.Wage $
  */
 abstract class sfDoctrineRecord extends Doctrine_Record
 {
@@ -188,7 +188,9 @@ abstract class sfDoctrineRecord extends Doctrine_Record
         }
         else
         {
-          $underScored = $table->getFieldName(sfInflector::underscore($name));
+          $underScored = sfInflector::underscore($name);
+          $underScored = preg_replace('/[0-9]/', "_$0", $underScored);
+          $underScored = $table->getFieldName($underScored);
           if ($table->hasField($underScored) || $table->hasRelation($underScored))
           {
             $entityName = $underScored;
@@ -223,10 +225,10 @@ abstract class sfDoctrineRecord extends Doctrine_Record
         return parent::__call($method, $arguments);
       } catch (Doctrine_Record_UnknownPropertyException $e2) {}
 
-      if (isset($e) && $e)
+      if ($e)
       {
         throw $e;
-      } else if (isset($e2) && $e2) {
+      } else if ($e2) {
         throw $e2;
       }
     }
@@ -241,7 +243,7 @@ abstract class sfDoctrineRecord extends Doctrine_Record
   public function getDateTimeObject($dateFieldName)
   {
     $type = $this->getTable()->getTypeOf($dateFieldName);
-    if ($type == 'date' || $type == 'timestamp' || $type == 'datetime')
+    if ($type == 'date' || $type == 'timestamp')
     {
       return new DateTime($this->get($dateFieldName));
     }
@@ -261,7 +263,7 @@ abstract class sfDoctrineRecord extends Doctrine_Record
   public function setDateTimeObject($dateFieldName, DateTime $dateTimeObject)
   {
     $type = $this->getTable()->getTypeOf($dateFieldName);
-    if ($type == 'date' || $type == 'timestamp' || $type == 'datetime')
+    if ($type == 'date' || $type == 'timestamp')
     {
       return $this->set($dateFieldName, $dateTimeObject->format('Y-m-d H:i:s'));
     }

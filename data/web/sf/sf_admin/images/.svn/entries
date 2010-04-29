@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/data/web/sf/sf_admin/images
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/data/web/sf/sf_admin/images
 http://svn.symfony-project.com
 
 
 
-2006-09-08T10:14:41.899351Z
-2009
+2009-11-14T18:09:42.880832Z
+23944
 fabien
 
 
@@ -59,40 +59,6 @@ has-props
 
 
 501
-
-edit_icon.png
-file
-
-
-
-
-2010-04-29T21:55:18.000000Z
-0e97a5e3e1aab4a75f795c1839f82d71
-2006-09-08T10:14:41.899351Z
-2009
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-728
 
 save.png
 file
@@ -230,40 +196,6 @@ has-props
 
 917
 
-delete_icon.png
-file
-
-
-
-
-2010-04-29T21:55:18.000000Z
-6b873c503db9135149dda43535941cbc
-2006-09-08T10:14:41.899351Z
-2009
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-649
-
 list.png
 file
 
@@ -331,40 +263,6 @@ has-props
 
 
 466
-
-date.png
-file
-
-
-
-
-2010-04-29T21:55:18.000000Z
-9999f2fd203d4967210aa51f6348a68a
-2006-09-08T10:14:41.899351Z
-2009
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-775
 
 next.png
 file
@@ -434,14 +332,14 @@ has-props
 
 691
 
-cancel.png
+filter.png
 file
 
 
 
 
 2010-04-29T21:55:06.000000Z
-67dc33984fc49e54ed9b594be5748ff4
+e8c2a2681ef728021c87a9b8ccbb8453
 2006-09-08T10:14:41.899351Z
 2009
 fabien
@@ -466,7 +364,7 @@ has-props
 
 
 
-853
+703
 
 edit.png
 file
@@ -502,14 +400,14 @@ has-props
 
 728
 
-filter.png
+cancel.png
 file
 
 
 
 
 2010-04-29T21:55:06.000000Z
-e8c2a2681ef728021c87a9b8ccbb8453
+67dc33984fc49e54ed9b594be5748ff4
 2006-09-08T10:14:41.899351Z
 2009
 fabien
@@ -534,7 +432,7 @@ has-props
 
 
 
-703
+853
 
 first.png
 file
@@ -603,40 +501,6 @@ has-props
 
 
 847
-
-help.png
-file
-
-
-
-
-2010-04-29T21:55:18.000000Z
-f9851465908fc66923af12f04248b37a
-2006-09-08T10:14:41.899351Z
-2009
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-900
 
 error.png
 file

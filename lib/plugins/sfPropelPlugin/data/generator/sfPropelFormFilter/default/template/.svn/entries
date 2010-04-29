@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/data/generator/sfPropelFormFilter/default/template
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/data/generator/sfPropelFormFilter/default/template
 http://svn.symfony-project.com
 
 
 
-2010-02-03T09:22:49.917680Z
-27479
-FabianLange
+2009-11-19T16:37:50.587682Z
+24171
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-c5c2f293aa399556baf7d1160d84be11
-2010-02-03T09:22:49.917680Z
-27479
-FabianLange
+2010-04-29T21:56:58.000000Z
+80ec39d27c460a7f126554611858426c
+2008-09-19T15:21:38.915543Z
+11675
+fabien
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-239
+335
 
 sfPropelFormFilterGeneratedTemplate.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-1b0aa978958ece5dafcfd5450939de06
-2010-02-03T09:22:49.917680Z
-27479
-FabianLange
+2010-04-29T21:56:58.000000Z
+403e32c7a1583b4041eac894dc06d50a
+2009-11-19T16:37:50.587682Z
+24171
+Kris.Wallsmith
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-4036
+4145
 
 sfPropelFormFilterTemplate.php
 file
@@ -100,11 +100,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-ba6f634f9ef877a76620b2742395b747
-2010-02-03T09:22:49.917680Z
-27479
-FabianLange
+2010-04-29T21:56:58.000000Z
+6441b4a74a4c8510df044c92dfb06b78
+2008-09-19T15:21:38.915543Z
+11675
+fabien
 has-props
 
 
@@ -126,5 +126,5 @@ has-props
 
 
 
-328
+420
 

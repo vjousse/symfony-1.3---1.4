@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugin
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugin
 http://svn.symfony-project.com
 
 
 
-2009-12-10T20:06:45.978882Z
-25218
-Jonathan.Wage
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -168,11 +168,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-f7b3ad61b18ce1ec531e32fada85095b
-2009-12-10T20:06:45.978882Z
-25218
-Jonathan.Wage
+2010-04-29T21:56:57.000000Z
+02bc92f68c0a1c8e767a95828bdbcff1
+2009-08-06T06:05:00.979469Z
+20837
+fabien
 has-props
 
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-7790
+7858
 
 sfPearRestPlugin.class.php
 file

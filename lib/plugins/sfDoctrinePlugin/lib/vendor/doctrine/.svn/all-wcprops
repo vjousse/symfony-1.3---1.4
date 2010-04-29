@@ -1,11 +1,5 @@
 K 25
 svn:wc:ra_dav:version-url
-V 29
-/!svn/ver/7492/tags/1.2.2/lib
-END
-Doctrine.php
-K 25
-svn:wc:ra_dav:version-url
-V 42
-/!svn/ver/7492/tags/1.2.2/lib/Doctrine.php
+V 31
+/!svn/ver/7578/branches/1.2/lib
 END

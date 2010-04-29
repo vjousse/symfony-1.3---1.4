@@ -1,7 +1,7 @@
 K 13
 svn:externals
 V 174
-yaml http://svn.symfony-project.com/components/yaml/tags/RELEASE_1_0_3/lib
+yaml http://svn.symfony-project.com/components/yaml/tags/RELEASE_1_0_2/lib
 event_dispatcher http://svn.symfony-project.com/components/event_dispatcher/tags/RELEASE_1_0_0/lib
 
 END

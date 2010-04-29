@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins
 http://svn.symfony-project.com
 
 
 
-2010-04-07T05:20:33.847151Z
-29026
-fabien
+2009-12-01T11:17:14.346561Z
+24670
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -29,12 +29,6 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfDoctrinePlugin
 dir
 
-sfProtoculousPlugin
-dir
-
 sfPropelPlugin
-dir
-
-sfCompat10Plugin
 dir
 

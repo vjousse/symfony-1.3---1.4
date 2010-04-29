@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfDeprecatedHelpersValidation.class.php 25411 2009-12-15 15:31:29Z fabien $
+ * @version    SVN: $Id: sfDeprecatedHelpersValidation.class.php 24610 2009-11-30 22:07:34Z FabianLange $
  */
 class sfDeprecatedHelpersValidation extends sfValidation
 {
@@ -66,12 +66,12 @@ class sfDeprecatedHelpersValidation extends sfValidation
     ));
     foreach ($files as $file)
     {
-      $content = sfToolkit::stripComments(file_get_contents($file));
+      $content = file_get_contents($file);
 
       $matches = array();
       foreach ($helpers as $helper)
       {
-        if (preg_match('#\b'.preg_quote($helper, '#').'\b#', $content))
+        if (false !== stripos($content, $helper))
         {
           $matches[] = $helper;
         }

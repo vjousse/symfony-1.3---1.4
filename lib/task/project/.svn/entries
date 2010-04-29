@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/task/project
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project
 http://svn.symfony-project.com
 
 
 
-2010-04-06T04:49:08.537559Z
-28988
-Kris.Wallsmith
+2009-11-30T22:07:34.550040Z
+24610
+FabianLange
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-a66c2bcd95db67d763824db629522798
-2009-08-06T18:37:28.352175Z
-20862
-Kris.Wallsmith
+2010-04-29T21:56:57.000000Z
+9ba4a5d6ff5d46ae70f8833fdb8bd759
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-2361
+2314
 
 sfProjectSendEmailsTask.class.php
 file
@@ -100,11 +100,11 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-c65884e849ee1c7509c06d53a792e2cd
-2009-08-06T18:37:28.352175Z
-20862
-Kris.Wallsmith
+2010-04-29T21:56:57.000000Z
+ba417317e3428bd48971ae07011b18e5
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -126,41 +126,7 @@ has-props
 
 
 
-2653
-
-sfUpgradeTo13Task.class.php
-file
-
-
-
-
-2010-04-29T21:55:15.000000Z
-4ae5d855e04f732c9dd05a35cb7b7fcb
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2047
+2607
 
 sfProjectValidateTask.class.php
 file
@@ -202,10 +168,115 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-fd3deb910baf9451d30d6b25582d6d91
-2009-10-06T12:09:34.947808Z
-22820
+2010-04-29T21:56:57.000000Z
+963a654f5ffb2def7d6a90d5d60e4551
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2873
+
+sfProjectDeployTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:57.000000Z
+d2eb8158fe9e1ca5e1417cee3f26fbc9
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5800
+
+validation
+dir
+
+sfProjectClearControllersTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:57.000000Z
+834949074f6cbb8b27b6ed297ed1d4fc
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2221
+
+sfProjectOptimizeTask.class.php
+file
+
+
+
+
+2010-04-29T21:56:57.000000Z
+aa803fbd7b628ce4b6b00323f5d26005
+2009-11-16T17:52:14.706630Z
+24039
 Kris.Wallsmith
 has-props
 
@@ -228,113 +299,5 @@ has-props
 
 
 
-2937
-
-sfProjectDeployTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:15.000000Z
-07fc8cb93a5d56d34f4ec75ba93afbcd
-2009-11-09T10:51:36.469764Z
-23718
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5836
-
-upgrade1.3
-dir
-
-validation
-dir
-
-sfProjectClearControllersTask.class.php
-file
-
-
-
-
-2010-04-29T21:55:15.000000Z
-27e0af4a27d0ece91f85c007dcad999d
-2008-08-01T14:45:42.670747Z
-10582
-nicolas
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2271
-
-sfProjectOptimizeTask.class.php
-file
-
-
-
-
-2010-04-29T21:56:39.000000Z
-6c0d2566b83b1bdecb82e834a7c2e135
-2010-03-23T15:28:37.478941Z
-28715
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5281
+4961
 

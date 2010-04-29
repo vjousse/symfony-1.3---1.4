@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/lib
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/lib
 http://svn.symfony-project.com
 
 
 
-2010-04-06T18:02:32.299628Z
-29001
+2009-11-30T23:42:50.590596Z
+24621
 Kris.Wallsmith
 
 
@@ -35,19 +35,16 @@ dir
 widget
 dir
 
-validator
-dir
-
 addon
 dir
 
-builder
-dir
-
-generator
+validator
 dir
 
 debug
+dir
+
+generator
 dir
 
 routing

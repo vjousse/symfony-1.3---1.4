@@ -2,13 +2,13 @@
 
 dir
 1722
-http://propel.mirror.svn.symfony-project.com/tags/1.4.1/runtime/classes/propel
+http://propel.mirror.svn.symfony-project.com/tags/1.4.0/runtime/classes/propel
 http://propel.mirror.svn.symfony-project.com
 
 
 
-2010-01-12T22:39:15.688693Z
-1452
+2009-11-08T13:39:31.174976Z
+1299
 francois
 
 
@@ -75,10 +75,10 @@ file
 
 
 
-2010-04-29T21:56:12.000000Z
-feb89d0edb89dc66cde90aaf5117e6fb
-2010-01-12T22:39:15.688693Z
-1452
+2010-04-29T21:57:00.000000Z
+d254686f3031fabc260acda1653afe26
+2009-11-08T13:39:31.174976Z
+1299
 francois
 has-props
 
@@ -101,7 +101,7 @@ has-props
 
 
 
-27256
+27272
 
 om
 dir

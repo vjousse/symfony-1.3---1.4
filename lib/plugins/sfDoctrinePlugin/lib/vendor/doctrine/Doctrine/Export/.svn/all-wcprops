@@ -1,53 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 45
-/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Export
-END
-Exception.php
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Export/Exception.php
-END
-Mssql.php
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Export/Mssql.php
-END
-Schema.php
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Export/Schema.php
-END
-Sqlite.php
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Export/Sqlite.php
-END
-Reporter.php
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Export/Reporter.php
+V 47
+/!svn/ver/7544/branches/1.2/lib/Doctrine/Export
 END
 Mysql.php
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Export/Mysql.php
-END
-Oracle.php
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Export/Oracle.php
-END
-Pgsql.php
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/!svn/ver/7492/tags/1.2.2/lib/Doctrine/Export/Pgsql.php
+V 57
+/!svn/ver/7544/branches/1.2/lib/Doctrine/Export/Mysql.php
 END

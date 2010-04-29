@@ -26,6 +26,7 @@ if (!defined('PREG_BAD_UTF8_OFFSET_ERROR'))
 class sfYamlParser
 {
   protected
+    $value         = '',
     $offset        = 0,
     $lines         = array(),
     $currentLineNb = -1,
@@ -53,15 +54,10 @@ class sfYamlParser
    */
   public function parse($value)
   {
+    $this->value = $this->cleanup($value);
     $this->currentLineNb = -1;
     $this->currentLine = '';
-    $this->lines = explode("\n", $this->cleanup($value));
-
-    if (function_exists('mb_internal_encoding') && ((int) ini_get('mbstring.func_overload')) & 2)
-    {
-      $mbEncoding = mb_internal_encoding();
-      mb_internal_encoding('ASCII');
-    }
+    $this->lines = explode("\n", $this->value);
 
     $data = array();
     while ($this->moveToNextLine())
@@ -202,8 +198,8 @@ class sfYamlParser
       }
       else
       {
-        // 1-liner followed by newline
-        if (2 == count($this->lines) && empty($this->lines[1]))
+        // one liner?
+        if (1 == count(explode("\n", rtrim($this->value, "\n"))))
         {
           $value = sfYamlInline::load($this->lines[0]);
           if (is_array($value))
@@ -218,11 +214,6 @@ class sfYamlParser
               }
               $value = $data;
             }
-          }
-
-          if (isset($mbEncoding))
-          {
-            mb_internal_encoding($mbEncoding);
           }
 
           return $value;
@@ -256,11 +247,6 @@ class sfYamlParser
       {
         $this->refs[$isRef] = end($data);
       }
-    }
-
-    if (isset($mbEncoding))
-    {
-      mb_internal_encoding($mbEncoding);
     }
 
     return empty($data) ? null : $data;
@@ -570,18 +556,10 @@ class sfYamlParser
     }
 
     // strip YAML header
-    $count = 0;
-    $value = preg_replace('#^\%YAML[: ][\d\.]+.*\n#s', '', $value, -1, $count);
-    $this->offset += $count;
+    preg_replace('#^\%YAML[: ][\d\.]+.*\n#s', '', $value);
 
-    // remove leading comments and/or ---
-    $trimmedValue = preg_replace('#^((\#.*?\n)|(\-\-\-.*?\n))*#s', '', $value, -1, $count);
-    if ($count == 1)
-    {
-      // items have been removed, update the offset
-      $this->offset += substr_count($value, "\n") - substr_count($trimmedValue, "\n");
-      $value = $trimmedValue;
-    }
+    // remove ---
+    $value = preg_replace('#^\-\-\-.*?\n#s', '', $value);
 
     return $value;
   }

@@ -70,8 +70,6 @@ class sfDoctrinePager extends sfPager implements Serializable
     {
       $this->$name = $values;
     }
-
-    $this->tableMethodCalled = false; 
   }
 
   /**
@@ -95,7 +93,7 @@ class sfDoctrinePager extends sfPager implements Serializable
    */
   public function init()
   {
-    $this->resetIterator();
+    $this->results = null;
 
     $countQuery = $this->getCountQuery();
     $count = $countQuery->count();
@@ -186,18 +184,5 @@ class sfDoctrinePager extends sfPager implements Serializable
   public function getResults($hydrationMode = null)
   {
     return $this->getQuery()->execute(array(), $hydrationMode);
-  }
-
-  /**
-   * @see sfPager
-   */
-  protected function initializeIterator()
-  {
-    parent::initializeIterator();
-
-    if ($this->results instanceof Doctrine_Collection)
-    {
-      $this->results = $this->results->getData();
-    }
   }
 }

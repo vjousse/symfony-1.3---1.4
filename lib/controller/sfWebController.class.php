@@ -16,7 +16,7 @@
  * @subpackage controller
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Sean Kerr <sean@code-box.org>
- * @version    SVN: $Id: sfWebController.class.php 28961 2010-04-01 14:17:52Z fabien $
+ * @version    SVN: $Id: sfWebController.class.php 24039 2009-11-16 17:52:14Z Kris.Wallsmith $
  */
 abstract class sfWebController extends sfController
 {
@@ -47,7 +47,7 @@ abstract class sfWebController extends sfController
         return $parameters;
       }
 
-      if ($parameters == '#')
+      if (is_string($parameters) && $parameters == '#')
       {
         return $parameters;
       }
@@ -178,11 +178,9 @@ abstract class sfWebController extends sfController
     if (empty($url))
     {
       throw new InvalidArgumentException('Cannot redirect to an empty URL.'); 
-    }
+    } 
 
     $url = $this->genUrl($url, true);
-    // see #8083
-    $url = str_replace('&amp;', '&', $url);
 
     if (sfConfig::get('sf_logging_enabled'))
     {

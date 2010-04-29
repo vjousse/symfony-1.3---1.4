@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/lib
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/lib
 http://svn.symfony-project.com
 
 
 
-2010-04-07T05:20:33.847151Z
-29026
-fabien
+2009-12-01T05:06:21.176096Z
+24637
+Kris.Wallsmith
 has-props
 
 svn:special svn:externals svn:needs-lock
@@ -29,22 +29,16 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 test
 dir
 
-helper
-dir
-
-log
-dir
-
 widget
 dir
 
 validator
 dir
 
-debug
+generator
 dir
 
-generator
+debug
 dir
 
 routing

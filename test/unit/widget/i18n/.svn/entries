@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/test/unit/widget/i18n
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/i18n
 http://svn.symfony-project.com
 
 
 
-2010-02-16T11:59:27.137933Z
-28051
-FabianLange
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -25,40 +25,6 @@ svn:special svn:externals svn:needs-lock
 
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
-
-sfWidgetFormI18nSelectCurrencyTest.php
-file
-
-
-
-
-2010-04-29T21:55:14.000000Z
-69f4451be91094f0a926c4efe3695b0b
-2009-10-08T16:38:24.591141Z
-22880
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2156
 
 sfWidgetFormI18nDateTimeTest.php
 file
@@ -134,11 +100,11 @@ file
 
 
 
-2010-04-29T21:56:26.000000Z
-ced7638733c3409b2fae4a37d7e7c1c0
-2010-02-16T11:59:27.137933Z
-28051
-FabianLange
+2010-04-29T21:56:57.000000Z
+a195c3eff7c8e7c98ea17a8b42fa595d
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
 has-props
 
 
@@ -160,7 +126,7 @@ has-props
 
 
 
-2471
+2129
 
 sfWidgetFormI18nChoiceLanguageTest.php
 file
@@ -230,85 +196,17 @@ has-props
 
 1139
 
-sfWidgetFormI18nSelectCountryTest.php
-file
-
-
-
-
-2010-04-29T21:55:14.000000Z
-b44a13547514e56e41dcc60379cb1505
-2009-06-25T06:35:13.766150Z
-19531
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2129
-
-sfWidgetFormI18nSelectLanguageTest.php
-file
-
-
-
-
-2010-04-29T21:55:14.000000Z
-be60fab2d25d4e95ede27bca7d6cda27
-2009-06-25T06:35:13.766150Z
-19531
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2144
-
 sfWidgetFormI18nChoiceCurrencyTest.php
 file
 
 
 
 
-2010-04-29T21:56:26.000000Z
-b3b6e11182cb1b8f52f10808e741a5e9
-2010-02-16T11:59:27.137933Z
-28051
-FabianLange
+2010-04-29T21:56:57.000000Z
+3285a1bc00f809f37df363aa1aa75f39
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
 has-props
 
 
@@ -330,7 +228,7 @@ has-props
 
 
 
-2376
+2156
 
 sfWidgetFormI18nChoiceTimezoneTest.php
 file

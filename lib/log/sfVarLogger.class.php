@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage log
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfVarLogger.class.php 26989 2010-01-21 12:43:21Z FabianLange $
+ * @version    SVN: $Id: sfVarLogger.class.php 23922 2009-11-14 14:58:38Z fabien $
  */
 class sfVarLogger extends sfLogger
 {
@@ -96,7 +96,7 @@ class sfVarLogger extends sfLogger
     $priorities = array();
     foreach ($this->logs as $log)
     {
-      if (!in_array($log['priority'], $priorities))
+      if (!in_array($log['priority'], $types))
       {
         $priorities[] = $log['priority'];
       }
@@ -149,9 +149,6 @@ class sfVarLogger extends sfLogger
       'message'         => $message,
       'type'            => $type,
       'debug_backtrace' => $this->getDebugBacktrace(),
-
-      // deprecated - will be removed in symfony 1.4
-      'debug_stack'     => $this->getXDebugStack(),
     );
   }
 
@@ -189,41 +186,5 @@ class sfVarLogger extends sfLogger
     }
 
     return $traces;
-  }
-
-  /**
-   * Returns the xdebug stack.
-   *
-   * @return array The xdebug stack as an array
-   * 
-   * @deprecated Use {@link getDebugBacktrace()} instead. Will be removed in symfony 1.4.
-   */
-  protected function getXDebugStack()
-  {
-    // if we have xdebug and dev has not disabled the feature, add some stack information
-    if (!$this->xdebugLogging || !function_exists('xdebug_get_function_stack'))
-    {
-      return array();
-    }
-
-    $debugStack = array();
-    foreach (xdebug_get_function_stack() as $i => $stack)
-    {
-      if (
-        (isset($stack['function']) && !in_array($stack['function'], array('emerg', 'alert', 'crit', 'err', 'warning', 'notice', 'info', 'debug', 'log')))
-        || !isset($stack['function'])
-      )
-      {
-        $tmp = '';
-        if (isset($stack['function']))
-        {
-          $tmp .= sprintf('in "%s" ', $stack['function']);
-        }
-        $tmp .= sprintf('from "%s" line %s', $stack['file'], $stack['line']);
-        $debugStack[] = $tmp;
-      }
-    }
-
-    return $debugStack;
   }
 }

@@ -1,11 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/!svn/ver/29010/tags/RELEASE_1_3_4/lib/routing
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/routing
+END
+sfRoute.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/routing/sfRoute.class.php
+END
+sfObjectRouteCollection.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/routing/sfObjectRouteCollection.class.php
 END
 sfPatternRouting.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/!svn/ver/29010/tags/RELEASE_1_3_4/lib/routing/sfPatternRouting.class.php
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/routing/sfPatternRouting.class.php
 END

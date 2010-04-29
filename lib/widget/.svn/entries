@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/widget
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/widget
 http://svn.symfony-project.com
 
 
 
-2010-03-23T13:57:27.892836Z
-28709
-Kris.Wallsmith
+2009-11-30T21:20:19.002184Z
+24605
+FabianLange
 
 
 svn:special svn:externals svn:needs-lock
@@ -26,8 +26,39 @@ svn:special svn:externals svn:needs-lock
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
-i18n
-dir
+sfWidgetFormInputText.class.php
+file
+
+
+
+
+2010-04-29T21:55:00.000000Z
+007d5c28935e5829d8ed7506eff293e9
+2009-08-08T14:11:51.348239Z
+20941
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+921
 
 sfWidgetFormSelectMany.class.php
 file
@@ -63,39 +94,8 @@ has-props
 
 965
 
-sfWidgetFormInputText.class.php
-file
-
-
-
-
-2010-04-29T21:55:00.000000Z
-007d5c28935e5829d8ed7506eff293e9
-2009-08-08T14:11:51.348239Z
-20941
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-921
+i18n
+dir
 
 sfWidgetFormFilterInput.class.php
 file
@@ -199,40 +199,6 @@ has-props
 
 976
 
-sfWidgetFormTextarea.class.php
-file
-
-
-
-
-2010-04-29T21:55:00.000000Z
-522df23cfb46f0439205421b361506ae
-2008-05-19T08:13:51.050591Z
-9046
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1495
-
 sfWidgetFormDate.class.php
 file
 
@@ -267,17 +233,17 @@ has-props
 
 4905
 
-sfWidgetFormSelect.class.php
+sfWidgetFormTextarea.class.php
 file
 
 
 
 
-
-33632912b0f61d3c1e1c1a897607482d
-2009-11-15T22:55:24.460319Z
-23994
-bschussek
+2010-04-29T21:55:00.000000Z
+522df23cfb46f0439205421b361506ae
+2008-05-19T08:13:51.050591Z
+9046
+FabianLange
 has-props
 
 
@@ -299,7 +265,7 @@ has-props
 
 
 
-3137
+1495
 
 sfWidgetForm.class.php
 file
@@ -335,17 +301,17 @@ has-props
 
 9130
 
-sfWidgetFormChoiceMany.class.php
+sfWidgetFormSelect.class.php
 file
 
 
 
 
-2010-04-29T21:55:15.000000Z
-b83ff8f1fe3d33df8f7026875679009f
-2008-09-14T15:23:48.226053Z
-11539
-fabien
+
+33632912b0f61d3c1e1c1a897607482d
+2009-11-15T22:55:24.460319Z
+23994
+bschussek
 has-props
 
 
@@ -367,7 +333,7 @@ has-props
 
 
 
-955
+3137
 
 sfWidgetFormSchemaFormatterList.class.php
 file
@@ -511,10 +477,44 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
+2010-04-29T21:56:57.000000Z
 9ca60974f0ef5b174cb9a34af05ce229
 2009-11-16T13:06:31.897444Z
 24012
+bschussek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1915
+
+sfWidgetFormSelectCheckbox.class.php
+file
+
+
+
+
+2010-04-29T21:56:57.000000Z
+4e6bd52387b4aa827a99bd0f8431272c
+2009-11-15T22:55:24.460319Z
+23994
 bschussek
 has-props
 
@@ -537,41 +537,7 @@ has-props
 
 
 
-1987
-
-sfWidgetFormSelectCheckbox.class.php
-file
-
-
-
-
-2010-04-29T21:56:11.000000Z
-e2d300b5833d6cbfb93d479e204b1b87
-2010-02-08T15:07:33.327734Z
-27738
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4055
+4097
 
 sfWidgetFormSchemaForEach.class.php
 file
@@ -613,11 +579,11 @@ file
 
 
 
-2010-04-29T21:56:39.000000Z
-c5f10dcf99d8038134c9ed741587dc51
-2010-03-23T13:57:27.892836Z
-28709
-Kris.Wallsmith
+2010-04-29T21:56:57.000000Z
+252bd17d654545e09c79739a9acc2788
+2009-11-16T13:33:34.994617Z
+24015
+bschussek
 has-props
 
 
@@ -639,7 +605,7 @@ has-props
 
 
 
-4027
+3996
 
 sfWidgetFormDateRange.class.php
 file
@@ -681,8 +647,8 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-7998b444ece99d1cb5e7bc6db8519baa
+2010-04-29T21:56:57.000000Z
+828141a2dbbb89ccc02fb461863c16da
 2009-11-15T22:55:24.460319Z
 23994
 bschussek
@@ -707,7 +673,7 @@ has-props
 
 
 
-4213
+4279
 
 sfWidget.class.php
 file
@@ -817,11 +783,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-50549e74444daf9d1cc70615bf07f8b2
-2010-02-08T15:07:33.327734Z
-27738
-Kris.Wallsmith
+2010-04-29T21:56:57.000000Z
+e94cde4fcc1f23f6dbb8f3759dd817ba
+2009-11-15T22:55:24.460319Z
+23994
+bschussek
 has-props
 
 
@@ -843,7 +809,7 @@ has-props
 
 
 
-3941
+3983
 
 sfWidgetFormTime.class.php
 file
@@ -953,11 +919,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-4e97fa4456c008a94dae89feae0c79a0
-2010-01-19T10:34:52.388422Z
-26870
-fabien
+2010-04-29T21:56:57.000000Z
+c3302054ee74fcf86e78c8f2b76880c6
+2009-11-23T15:16:24.078762Z
+24277
+Kris.Wallsmith
 has-props
 
 
@@ -979,7 +945,7 @@ has-props
 
 
 
-22962
+22992
 
 sfWidgetFormSchemaDecorator.class.php
 file

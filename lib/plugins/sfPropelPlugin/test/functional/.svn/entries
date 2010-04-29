@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/test/functional
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/test/functional
 http://svn.symfony-project.com
 
 
@@ -105,8 +105,8 @@ file
 
 
 6133d9cb13f0b98877c26c41494b3083
-2009-11-14T14:57:40.214934Z
-23920
+2009-11-14T14:57:50.000337Z
+23921
 fabien
 has-props
 
@@ -130,9 +130,6 @@ has-props
 
 
 8477
-
-admin_compat
-dir
 
 crud
 dir

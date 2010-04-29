@@ -15,7 +15,7 @@
  * @package    symfony
  * @subpackage view
  * @author     Mike Squire <mike@somosis.co.uk>
- * @version    SVN: $Id: sfOutputEscaperArrayDecorator.class.php 27752 2010-02-08 19:21:22Z Kris.Wallsmith $
+ * @version    SVN: $Id: sfOutputEscaperArrayDecorator.class.php 9158 2008-05-21 20:32:00Z FabianLange $
  */
 class sfOutputEscaperArrayDecorator extends sfOutputEscaperGetterDecorator implements Iterator, ArrayAccess, Countable
 {
@@ -25,18 +25,6 @@ class sfOutputEscaperArrayDecorator extends sfOutputEscaperGetterDecorator imple
    * @var int
    */
   private $count;
-
-  /**
-   * Constructor.
-   *
-   * @see sfOutputEscaper
-   */
-  public function __construct($escapingMethod, $value)
-  {
-    parent::__construct($escapingMethod, $value);
-
-    $this->count = count($this->value);
-  }
 
   /**
    * Reset the array to the beginning (as required for the Iterator interface).
@@ -78,7 +66,7 @@ class sfOutputEscaperArrayDecorator extends sfOutputEscaperGetterDecorator imple
   {
     next($this->value);
 
-    $this->count--;
+    $this->count --;
   }
 
   /**

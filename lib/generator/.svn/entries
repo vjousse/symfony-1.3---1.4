@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/generator
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator
 http://svn.symfony-project.com
 
 
 
-2009-12-16T13:08:43.921166Z
-25459
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 
 
@@ -34,8 +34,8 @@ file
 
 
 342c51d860a2cf3d0edb80ca85d8534b
-2009-11-14T13:14:07.670372Z
-23900
+2009-11-14T13:14:04.423192Z
+23898
 bschussek
 has-props
 
@@ -60,16 +60,16 @@ has-props
 
 17582
 
-sfAdminGenerator.class.php
+sfGeneratorManager.class.php
 file
 
 
 
 
-2010-04-29T21:55:15.000000Z
-a0862c34133851e823199b6b8a38d807
-2009-09-11T12:06:21.565437Z
-21908
+2010-04-29T21:56:57.000000Z
+b28d277187f3b6a74ab5943d884b807a
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 has-props
 
@@ -92,41 +92,7 @@ has-props
 
 
 
-26148
-
-sfGeneratorManager.class.php
-file
-
-
-
-
-2010-04-29T21:55:15.000000Z
-27f89c3a6adbfeaf9b66d5e60a5ed398
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3184
+2885
 
 sfModelGeneratorConfigurationField.class.php
 file
@@ -161,40 +127,6 @@ has-props
 
 
 5646
-
-sfCrudGenerator.class.php
-file
-
-
-
-
-2010-04-29T21:55:15.000000Z
-114abb1b5eaa2d9ec3ca2d4407fd4399
-2009-05-02T09:23:55.077081Z
-17865
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12842
 
 sfGenerator.class.php
 file
@@ -236,10 +168,10 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-428f97e5ade5ab52ceabb1d8fc6158b1
-2009-12-16T13:08:43.921166Z
-25459
+2010-04-29T21:56:57.000000Z
+6c1efbf2028b5a18dc265ac8f890f062
+2009-10-19T16:37:13.540511Z
+23194
 fabien
 has-props
 
@@ -262,7 +194,7 @@ has-props
 
 
 
-13077
+13050
 
 sfModelGeneratorHelper.class.php
 file

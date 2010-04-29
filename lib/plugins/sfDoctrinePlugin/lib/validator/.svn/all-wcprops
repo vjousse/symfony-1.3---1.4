@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/lib/validator
+END
+sfValidatorDoctrineChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/24666/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/lib/validator/sfValidatorDoctrineChoice.class.php
+END

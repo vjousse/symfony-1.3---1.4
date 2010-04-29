@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/form
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/form
 http://svn.symfony-project.com
 
 
 
-2010-04-06T13:59:11.532259Z
-28996
+2009-11-23T15:21:09.305504Z
+24278
 Kris.Wallsmith
 
 
@@ -35,10 +35,10 @@ file
 
 
 
-2010-04-29T21:56:40.000000Z
-d23c5fac547b0085f19379e11b7677f7
-2010-04-06T13:59:11.532259Z
-28996
+2010-04-29T21:56:58.000000Z
+a732a072ed7e8a3a7196e8635b2f4638
+2009-11-23T15:21:09.305504Z
+24278
 Kris.Wallsmith
 has-props
 
@@ -61,7 +61,7 @@ has-props
 
 
 
-34094
+34004
 
 sfFormField.class.php
 file

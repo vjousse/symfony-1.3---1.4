@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/config/config
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/config/config
 http://svn.symfony-project.com
 
 
 
-2010-01-19T10:14:08.746646Z
-26867
-fabien
+2009-11-16T17:22:19.943601Z
+24034
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:56:12.000000Z
-26d0bf8d716da09e596e4828b202364f
-2010-01-19T10:14:08.746646Z
-26867
+2010-04-29T21:56:58.000000Z
+b6503901883430a35271f290f906fc8c
+2009-09-22T07:53:42.551586Z
+22235
 fabien
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-3091
+3090
 
 core_compile.yml
 file
@@ -100,8 +100,8 @@ file
 
 
 
-2010-04-29T21:55:17.000000Z
-f03f24e6ea123859bb7b44f52df8c257
+2010-04-29T21:56:58.000000Z
+e4eb66852066a46adbe037725f9383c6
 2009-11-16T17:22:19.943601Z
 24034
 Kris.Wallsmith
@@ -126,7 +126,7 @@ has-props
 
 
 
-3590
+3059
 
 config_handlers.yml
 file
@@ -168,10 +168,10 @@ file
 
 
 
-2010-04-29T21:55:17.000000Z
-6c7438be1f6b5cfde76d0138f9a004fd
-2009-09-11T07:38:24.815935Z
-21884
+2010-04-29T21:56:58.000000Z
+7da9d09632ba3c9775489930912a69f1
+2009-11-14T14:58:38.254908Z
+23922
 fabien
 has-props
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-86
+60
 
 security.yml
 file

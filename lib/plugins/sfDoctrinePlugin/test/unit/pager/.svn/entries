@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfDoctrinePlugin/test/unit/pager
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/unit/pager
 http://svn.symfony-project.com
 
 
 
-2010-03-30T20:30:24.904675Z
-28897
-Jonathan.Wage
+2009-11-29T15:58:01.774223Z
+24533
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:56:39.000000Z
-e0078c7b0d77bd26b3da77115f27ea0a
-2010-03-30T20:30:24.904675Z
-28897
-Jonathan.Wage
+2010-04-29T21:56:58.000000Z
+8c25e7b19754c8817900e5c6217d164a
+2009-11-29T15:58:01.774223Z
+24533
+Kris.Wallsmith
 has-props
 
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-1902
+1339
 

@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/config
 http://svn.symfony-project.com
 
 
 
-2009-09-11T07:38:24.815935Z
-21884
+2009-11-26T11:52:47.753777Z
+24434
 fabien
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-71477f164b7ac0932161801eee7c87d1
-2009-09-11T07:38:24.815935Z
-21884
+2010-04-29T21:56:58.000000Z
+a66e8e26cd1d4950fd440da104aedab8
+2009-11-26T11:52:47.753777Z
+24434
 fabien
 
 
@@ -58,7 +58,7 @@ fabien
 
 
 
-408
+277
 
 app.yml
 file

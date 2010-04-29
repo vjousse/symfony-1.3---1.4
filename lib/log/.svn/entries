@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_4/lib/log
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/log
 http://svn.symfony-project.com
 
 
 
-2010-01-21T12:43:21.025563Z
-26989
-FabianLange
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -304,11 +304,11 @@ file
 
 
 
-2010-04-29T21:56:11.000000Z
-93974b7bfe8d0cb017f8200f73c68ee0
-2010-01-21T12:43:21.025563Z
-26989
-FabianLange
+2010-04-29T21:56:57.000000Z
+e71b4ac75c59c90ae001ad79b9c84973
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -330,7 +330,7 @@ has-props
 
 
 
-5570
+4416
 
 sfStreamLogger.class.php
 file
