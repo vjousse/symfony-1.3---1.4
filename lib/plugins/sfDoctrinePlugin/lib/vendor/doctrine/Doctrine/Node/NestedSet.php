@@ -1,6 +1,6 @@
 <?php
 /*
- *    $Id: NestedSet.php 7490 2010-03-29 19:53:27Z jwage $
+ *    $Id: NestedSet.php 6840 2009-12-01 20:28:58Z jkaziukenas $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -25,9 +25,9 @@
  * @package    Doctrine
  * @subpackage Node
  * @license    http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @link       www.doctrine-project.org
+ * @link       www.phpdoctrine.org
  * @since      1.0
- * @version    $Revision: 7490 $
+ * @version    $Revision: 6840 $
  * @author     Joe Simms <joe.simms@websites4.com>
  * @author     Roman Borschel <roman@code-factory.org>     
  */
@@ -610,6 +610,11 @@ class Doctrine_Node_NestedSet extends Doctrine_Node implements Doctrine_Node_Int
             $this->setRootValue($newRoot);
             $this->record->save();
 
+            // Close gap in old tree
+            $first = $oldRgt + 1;
+            $delta = $oldLft - $oldRgt - 1;
+            $this->shiftRLValues($first, $delta, $oldRoot);
+
             // Insert this node as a new node
             $this->setRightValue(0);
             $this->setLeftValue(0);
@@ -654,11 +659,6 @@ class Doctrine_Node_NestedSet extends Doctrine_Node implements Doctrine_Node_Int
                 ->where($componentName . '.lft > ? AND ' . $componentName . '.rgt < ?', array($oldLft, $oldRgt));
             $q = $this->_tree->returnQueryWithRootId($q, $oldRoot);
             $q->execute();
-
-            // Close gap in old tree
-            $first = $oldRgt + 1;
-            $delta = $oldLft - $oldRgt - 1;
-            $this->shiftRLValues($first, $delta, $oldRoot);
 
             $conn->commit();
      
@@ -734,10 +734,10 @@ class Doctrine_Node_NestedSet extends Doctrine_Node implements Doctrine_Node_Int
     public function moveAsFirstChildOf(Doctrine_Record $dest)
     {
         if (
-		    $dest === $this->record || $this->isAncestorOf($dest) ||
+		    $dest === $this->record ||
 			($dest->exists() && $this->record->exists() && $dest->identifier() === $this->record->identifier())
 		) {
-            throw new Doctrine_Tree_Exception("Cannot move node as first child of itself or into a descendant");
+            throw new Doctrine_Tree_Exception("Cannot move node as first child of itself");
 
 			return false;
 		}
@@ -762,10 +762,10 @@ class Doctrine_Node_NestedSet extends Doctrine_Node implements Doctrine_Node_Int
     public function moveAsLastChildOf(Doctrine_Record $dest)
     {
         if (
-		    $dest === $this->record || $this->isAncestorOf($dest) ||
+		    $dest === $this->record ||
 			($dest->exists() && $this->record->exists() && $dest->identifier() === $this->record->identifier())
 		) {
-            throw new Doctrine_Tree_Exception("Cannot move node as last child of itself or into a descendant");
+            throw new Doctrine_Tree_Exception("Cannot move node as last child of itself");
 
 			return false;
 		}
@@ -908,18 +908,6 @@ class Doctrine_Node_NestedSet extends Doctrine_Node implements Doctrine_Node_Int
         return (($this->getLeftValue() >= $subj->getNode()->getLeftValue()) &&
                 ($this->getRightValue() <= $subj->getNode()->getRightValue()) &&
                 ($this->getRootValue() == $subj->getNode()->getRootValue()));
-    }
-
-    /**
-     * determines if node is ancestor of subject node
-     *
-     * @return bool            
-     */
-    public function isAncestorOf(Doctrine_Record $subj)
-    {
-        return (($subj->getNode()->getLeftValue() > $this->getLeftValue()) &&
-                ($subj->getNode()->getRightValue() < $this->getRightValue()) &&
-                ($subj->getNode()->getRootValue() == $this->getRootValue()));
     }
 
     /**
@@ -1070,18 +1058,18 @@ class Doctrine_Node_NestedSet extends Doctrine_Node implements Doctrine_Node_Int
 
         $qLeft  = Doctrine_Core::getTable($componentName)
             ->createQuery()
-            ->update($componentName);
+            ->update();
 
         $qRight = Doctrine_Core::getTable($componentName)
             ->createQuery()
-            ->update($componentName);
+            ->update();
 
         $qLeft = $qLeft->set($componentName . '.lft', $componentName.'.lft + ?', $delta)
                        ->where($componentName . '.lft >= ?', $first);
         $qLeft = $this->_tree->returnQueryWithRootId($qLeft, $rootId);
 
         $resultLeft = $qLeft->execute();
-
+        
         // shift right columns
         $qRight = $qRight->set($componentName . '.rgt', $componentName.'.rgt + ?', $delta)
                          ->where($componentName . '.rgt >= ?', $first);

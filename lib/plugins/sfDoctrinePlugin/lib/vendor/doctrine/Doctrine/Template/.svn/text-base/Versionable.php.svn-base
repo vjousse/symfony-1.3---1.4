@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -27,7 +27,7 @@
  * @package     Doctrine
  * @subpackage  Template
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
  * @version     $Revision$
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
@@ -48,8 +48,7 @@ class Doctrine_Template_Versionable extends Doctrine_Template
                                 'tableName'         => false,
                                 'generateFiles'     => false,
                                 'auditLog'          => true,
-                                'deleteVersions'    => true,
-                                'listener'          => 'Doctrine_AuditLog_Listener');
+                                'deleteVersions'    => true);
 
     /**
      * __construct
@@ -78,8 +77,7 @@ class Doctrine_Template_Versionable extends Doctrine_Template
         $name = $version['name'] . (isset($version['alias']) ? ' as ' . $version['alias'] : '');
         $this->hasColumn($name, $version['type'], $version['length'], $version['options']);
 
-        $listener = $this->_options['listener'];
-        $this->addListener(new $listener($this->_plugin));
+        $this->addListener(new Doctrine_AuditLog_Listener($this->_plugin));
     }
 
     /**

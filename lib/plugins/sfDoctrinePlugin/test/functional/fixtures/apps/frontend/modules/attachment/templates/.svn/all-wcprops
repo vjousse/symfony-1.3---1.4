@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 131
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates
 END
-indexSuccess.php
+editableInput.php
 K 25
 svn:wc:ra_dav:version-url
-V 148
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates/indexSuccess.php
+V 149
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates/editableInput.php
 END
-indexInput.php
+editableSuccess.php
 K 25
 svn:wc:ra_dav:version-url
-V 146
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates/indexInput.php
+V 151
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates/editableSuccess.php
 END

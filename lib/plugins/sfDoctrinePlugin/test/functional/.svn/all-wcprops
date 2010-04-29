@@ -1,41 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional
-END
-AdminGenBrowser.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 105
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenBrowser.class.php
-END
-FormGeneratorTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 101
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/FormGeneratorTest.php
-END
-PagerTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/PagerTest.php
-END
-RouteTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/RouteTest.php
-END
-I18nTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 92
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/I18nTest.php
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional
 END
 UploadTest.php
 K 25
 svn:wc:ra_dav:version-url
 V 94
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/UploadTest.php
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/UploadTest.php
 END

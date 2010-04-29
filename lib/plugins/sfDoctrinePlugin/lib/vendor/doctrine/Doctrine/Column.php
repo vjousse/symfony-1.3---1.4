@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Column.php 7490 2010-03-29 19:53:27Z jwage $
+ *  $Id: Column.php 5876 2009-06-10 18:43:12Z piccoloprincipe $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -27,8 +27,8 @@
  * @package     Doctrine
  * @subpackage  Column
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @version     $Revision: 7490 $
- * @link        www.doctrine-project.org
+ * @version     $Revision: 5876 $
+ * @link        www.phpdoctrine.org
  * @since       1.0
  */
 class Doctrine_Column extends Doctrine_Access implements IteratorAggregate, Countable

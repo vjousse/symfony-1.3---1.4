@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -29,7 +29,7 @@
  * @author      Lukas Smith <smith@pooteeweet.org> (PEAR MDB2 library)
  * @since       1.0
  * @version     $Revision$
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  */
 class Doctrine_Connection_Sqlite_Exception extends Doctrine_Connection_Exception
 {

@@ -43,7 +43,7 @@ class sfDoctrineBuildAllTask extends sfDoctrineBaseTask
     $this->briefDescription = 'Generates Doctrine model, SQL and initializes the database';
 
     $this->detailedDescription = <<<EOF
-The [doctrine:build-all|INFO] task is a shortcut for three other tasks:
+The [doctrine:build-all|INFO] task is a shortcut for four other tasks:
 
   [./symfony doctrine:build-all|INFO]
 
@@ -54,7 +54,7 @@ The task is equivalent to:
   [./symfony doctrine:build-forms|INFO]
   [./symfony doctrine:insert-sql|INFO]
 
-See those three tasks help page for more information.
+See those four tasks help page for more information.
 
 To bypass the confirmation, you can pass the [no-confirmation|COMMENT]
 option:

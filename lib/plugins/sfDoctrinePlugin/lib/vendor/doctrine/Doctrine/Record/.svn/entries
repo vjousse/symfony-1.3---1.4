@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Record
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Record
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
+2009-12-07T18:26:03.570405Z
+6883
 jwage
 has-props
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-d5804a86288617cc78ade5d3f6e55339
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+7a36ee789f9bc10518a3fc9397fca2e7
+2009-06-10T18:43:12.496460Z
+5876
+piccoloprincipe
 has-props
 
 
@@ -69,11 +69,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-2a5248ff5460f15bed353c888f382a98
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+0bad5e41d0475eb59cff7d2af795edd9
+2009-06-01T08:25:24.917482Z
+5790
+piccoloprincipe
 has-props
 
 
@@ -109,10 +109,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-6a14836a5a0d2e2b99698b322b47e9ba
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+ebdc08f977c0eb75f46037878af2da7a
+2009-11-12T20:47:47.440634Z
+6721
 jwage
 has-props
 
@@ -135,7 +135,7 @@ has-props
 
 
 
-12249
+12495
 
 UnknownPropertyException.php
 file
@@ -143,11 +143,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-6b4e8d25af41726c3973dcec7d6328bc
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+8b6cf5cd412c72543dbbff138a0835c6
+2009-06-01T08:25:24.917482Z
+5790
+piccoloprincipe
 has-props
 
 
@@ -169,7 +169,7 @@ has-props
 
 
 
-1452
+1442
 
 Filter.php
 file
@@ -177,10 +177,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-2806de337e237b4db87c6ad08359e558
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+a37a4185247380ac8222fd7e4b5dc7b9
+2009-12-07T18:26:03.570405Z
+6883
 jwage
 has-props
 
@@ -203,7 +203,7 @@ has-props
 
 
 
-2243
+2233
 
 Listener.php
 file
@@ -211,11 +211,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-95cb05b172bc3bd29e0a436cd1c5fc54
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+49165dccda532ad7f617a36d820e45aa
+2009-09-15T14:59:36.865230Z
+6362
+guilhermeblanco
 has-props
 
 
@@ -237,7 +237,7 @@ has-props
 
 
 
-3840
+3830
 
 Generator.php
 file
@@ -245,10 +245,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-5fbe7d012e1c66449a058a5691e50bb8
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+95e0f2d2e26b497f587bcd481db76ad8
+2009-11-19T19:02:41.822453Z
+6775
 jwage
 has-props
 
@@ -271,5 +271,5 @@ has-props
 
 
 
-14573
+13960
 

@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/DataDict
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/DataDict
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
+2009-11-24T21:14:51.290141Z
+6805
 jwage
 has-props
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-6892d68965daa277a40df8016efc4c86
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+3f1569e596a67bf5a5ea1ace3e4a8840
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-ddbfc9991b4b6780dd00b6c6b6b41a02
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+0c6af36345b9ab5555d0c0d4f2d1a003
+2009-11-18T17:24:27.492074Z
+6759
 jwage
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-10381
+10371
 
 Sqlite.php
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-d5a721afe453852698fe59ce5a13475e
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+4f1d330ff0e4055263e483d56481902f
+2009-11-16T18:09:27.428838Z
+6731
 jwage
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-12256
+12246
 
 Mysql.php
 file
@@ -134,10 +134,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-db76f0e9aaf13edffc22b8ed117500e6
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+80aac3401ceed87acaa0a9708a422e20
+2009-11-24T21:14:51.290141Z
+6805
 jwage
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-21344
+21334
 
 Oracle.php
 file
@@ -168,10 +168,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-87b95f4999f08c606ef05b2a58a499fd
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+efcf514099667fdead4e2960baaf2dce
+2009-11-23T22:46:06.645936Z
+6793
 jwage
 has-props
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-9038
+9028
 
 Pgsql.php
 file
@@ -202,10 +202,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-34aaf00deb354d3fdd1969f34818a799
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+b63fafa993ee1ad66e46df7bd7fa11bd
+2009-11-16T18:09:27.428838Z
+6731
 jwage
 has-props
 
@@ -228,5 +228,5 @@ has-props
 
 
 
-27464
+27454
 

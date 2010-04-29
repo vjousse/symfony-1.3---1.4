@@ -2,14 +2,14 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/View
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/View
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-8d0031e4248b61ac53832a990c05dc86
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+c75d56482d1b5e3612ee6868effde3aa
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-1409
+1414
 

@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Record/Filter
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Record/Filter
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
+2009-06-22T15:44:45.962479Z
+5901
 jwage
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-7c9be28aeb43d3219a03f0392a4a7887
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+1deb966c12f219c4bf07070ac7349579
+2009-06-01T08:25:24.917482Z
+5790
+piccoloprincipe
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-2364
+2354
 
 Compound.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-318220b9470b0607776fd29537f78c88
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+f80081e074c165685f8609ee480caa01
+2009-06-22T15:44:45.962479Z
+5901
 jwage
 has-props
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-3474
+3464
 

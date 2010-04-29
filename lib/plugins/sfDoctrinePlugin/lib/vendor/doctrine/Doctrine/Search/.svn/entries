@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Search
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Search
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
+2009-11-24T19:24:33.315330Z
+6799
 jwage
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-488263b2eff6b7bed52adb8d6f1311d7
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+fd49ef891d1ddc2343b95344c153dc2e
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-1499
+1489
 
 Exception.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-fd2f6c59798027765df95ad30615ded1
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+a2818c4b007c6bbf9c765e54c488a910
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-1360
+1350
 
 Indexer.php
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-fa550c9b75ac50169a8b88a9916fe93f
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+56bef8347f92d1b6e3adf9638dce4266
+2009-11-24T19:24:33.315330Z
+6799
 jwage
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-2394
+2384
 
 Record.php
 file
@@ -134,10 +134,10 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-f201bb4091d572435305d54c6c5ed089
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+b66c966c576c7efc826bf3d7142a90e0
+2009-06-22T15:44:45.962479Z
+5901
 jwage
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-1847
+1837
 
 Analyzer
 dir
@@ -171,10 +171,10 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-e2eb0dd692887fe600293213567d7b9f
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+c789285007a4bfca171294041eaf5905
+2009-10-12T17:40:41.504876Z
+6484
 jwage
 has-props
 
@@ -197,7 +197,7 @@ has-props
 
 
 
-2811
+2801
 
 Analyzer.php
 file
@@ -205,11 +205,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-1c21bff05addd559dcd07b9a58a6b132
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+efe8b060807f10abcac6357e117106e1
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -231,7 +231,7 @@ has-props
 
 
 
-1601
+1591
 
 Listener.php
 file
@@ -239,11 +239,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-e7d88b7e77b35b5cae5d75a4e2a2c1eb
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+046444de98514d395eb658d5ff4e5277
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -265,7 +265,7 @@ has-props
 
 
 
-1899
+1889
 
 Query.php
 file
@@ -273,10 +273,10 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-2197c68be6db6b01d851b31e35ef7190
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+c9aed74d18b96a9506cb8c0a453e72ef
+2009-10-12T17:40:41.504876Z
+6484
 jwage
 has-props
 
@@ -299,7 +299,7 @@ has-props
 
 
 
-7502
+7491
 
 Indexer
 dir

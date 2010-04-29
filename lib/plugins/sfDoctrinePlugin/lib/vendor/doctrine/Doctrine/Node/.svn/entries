@@ -2,14 +2,14 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Node
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Node
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2009-12-01T20:28:58.990956Z
+6840
+jkaziukenas
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:09.000000Z
-479c1a57432f20844d05b2bbefab0c7c
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+d7f1cec7f372a9d9b3342e582a4488f9
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:09.000000Z
-43e88a32e3dc1bb985da36efea48c037
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+3b0225372c4771b8c87791ce5d2d6bc6
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -100,11 +100,11 @@ file
 
 
 
-2010-04-29T21:55:09.000000Z
-c474b0d9b13738b12cb2b0dfd1800261
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+feb9de18fef8a936303469ab91f9ecd9
+2009-12-01T20:28:58.990956Z
+6840
+jkaziukenas
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-39890
+39350
 
 Interface.php
 file
@@ -134,11 +134,11 @@ file
 
 
 
-2010-04-29T21:55:09.000000Z
-669597a439b8a85666d9bef96c1a33ca
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+2b0a8b9af1f7f756033c477675d7c0d1
+2009-06-10T18:43:12.496460Z
+5876
+piccoloprincipe
 has-props
 
 
@@ -174,11 +174,11 @@ file
 
 
 
-2010-04-29T21:55:09.000000Z
-fc9f9ccdf6fee39929611ad6977ea17c
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+2d2fe19767908f25e142336a8d651af1
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 

@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/EventListener
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/EventListener
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
+2009-11-17T20:12:43.278513Z
+6744
 jwage
 has-props
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-d029b3a2082409dd912fedba0b3054cf
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+1da797b570764a60cffd442dde5bf191
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-1435
+1425
 
 Interface.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-3d129275cd1224b97b6314940c06026a
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+b85e803d46249a7c865a562bf213cd48
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -100,10 +100,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-05881b99dba205794d81816ac38515b4
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+f0572adcdbf6391adf7b30459f52a044
+2009-11-17T20:12:43.278513Z
+6744
 jwage
 has-props
 
@@ -126,5 +126,5 @@ has-props
 
 
 
-13547
+13537
 

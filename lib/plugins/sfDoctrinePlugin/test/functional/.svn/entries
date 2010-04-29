@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional
+http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional
 http://svn.symfony-project.com
 
 
 
-2009-12-01T01:32:29.613205Z
-24632
-Jonathan.Wage
+2009-12-05T15:51:25.741235Z
+24972
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -59,6 +59,40 @@ has-props
 
 
 6804
+
+FormGeneratorTest.php
+file
+
+
+
+
+2010-04-29T21:55:16.000000Z
+439071f1e714116550faaaf12b9e94b7
+2009-11-23T21:45:03.892671Z
+24294
+Jonathan.Wage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4431
 
 Ticket
 dir
@@ -199,108 +233,6 @@ has-props
 
 2480
 
-FormTest.php
-file
-
-
-
-
-2010-04-29T21:55:03.000000Z
-aa321a052be9477c83cb731db0e4c408
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3173
-
-UniqueTest.php
-file
-
-
-
-
-2010-04-29T21:55:03.000000Z
-d6ef375db4cf7748f0e60e61bbad5ccb
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-972
-
-FormGeneratorTest.php
-file
-
-
-
-
-2010-04-29T21:55:16.000000Z
-439071f1e714116550faaaf12b9e94b7
-2009-11-23T21:45:03.892671Z
-24294
-Jonathan.Wage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4431
-
 I18nTest.php
 file
 
@@ -369,19 +301,16 @@ has-props
 
 476
 
-fixtures
-dir
-
-UploadTest.php
+FormTest.php
 file
 
 
 
 
-2010-04-29T21:55:16.000000Z
-b47c079c658090d23d77a7289a2f235b
-2009-11-17T06:39:35.953872Z
-24068
+2010-04-29T21:55:03.000000Z
+aa321a052be9477c83cb731db0e4c408
+2009-11-12T11:07:44.003356Z
+23810
 Kris.Wallsmith
 has-props
 
@@ -404,7 +333,44 @@ has-props
 
 
 
-764
+3173
+
+fixtures
+dir
+
+UploadTest.php
+file
+
+
+
+
+2010-04-29T21:55:54.000000Z
+307f7986d0ae3948328410bbfcbfdd47
+2009-12-05T15:05:03.068673Z
+24971
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1398
 
 EnvironmentSetupTest.php
 file
@@ -439,4 +405,38 @@ has-props
 
 
 2178
+
+UniqueTest.php
+file
+
+
+
+
+2010-04-29T21:55:03.000000Z
+d6ef375db4cf7748f0e60e61bbad5ccb
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+972
 

@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Relation.php 7490 2010-03-29 19:53:27Z jwage $
+ *  $Id: Relation.php 6743 2009-11-17 20:07:47Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -26,9 +26,9 @@
  * @package     Doctrine
  * @subpackage  Relation
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
- * @version     $Revision: 7490 $
+ * @version     $Revision: 6743 $
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  */
 abstract class Doctrine_Relation implements ArrayAccess
@@ -73,8 +73,6 @@ abstract class Doctrine_Relation implements ArrayAccess
                                   'foreignKeyName' => null,
                                   'orderBy' => null
                                   );
-
-    protected $_isRefClass = null;
 
     /**
      * constructor
@@ -416,24 +414,6 @@ abstract class Doctrine_Relation implements ArrayAccess
         } else {
             return $table->getOrderByStatement($alias, $columnNames);
         }
-    }
-
-    public function isRefClass()
-    {
-        if ($this->_isRefClass === null) {
-            $this->_isRefClass = false;
-            $table = $this->getTable();
-            foreach ($table->getRelations() as $name => $relation) {
-                foreach ($relation['table']->getRelations() as $relation) {
-                    if (isset($relation['refTable']) && $relation['refTable'] === $table) {
-                        $this->_isRefClass = true;
-                        break(2);
-                    }
-                }
-            }
-        }
-
-        return $this->_isRefClass;
     }
 
     /**

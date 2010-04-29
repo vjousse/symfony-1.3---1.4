@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Relation/Association
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Relation/Association
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
+2009-10-14T06:28:49.301456Z
+6508
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-15634cb2455648313c39266e495d4fce
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+1a766a052824a5284761b5643206c975
+2009-10-14T06:28:49.301456Z
+6508
 jwage
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-5086
+5076
 

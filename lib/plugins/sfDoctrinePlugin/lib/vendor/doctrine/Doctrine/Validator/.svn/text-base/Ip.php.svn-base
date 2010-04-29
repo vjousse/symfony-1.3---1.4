@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -25,7 +25,7 @@
  * @package     Doctrine
  * @subpackage  Validator
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
  * @version     $Revision$
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
@@ -40,6 +40,9 @@ class Doctrine_Validator_Ip extends Doctrine_Validator_Driver
      */
     public function validate($value)
     {
-        return is_null($value) ? true : (bool) filter_var($value, FILTER_VALIDATE_IP);
+        if (is_null($value)) {
+            return true;
+        }
+        return (bool) ip2long(str_replace("\0", '', $value));
     }
 }

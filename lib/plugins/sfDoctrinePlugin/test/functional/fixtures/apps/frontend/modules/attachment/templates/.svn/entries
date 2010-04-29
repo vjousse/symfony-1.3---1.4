@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates
+http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates
 http://svn.symfony-project.com
 
 
 
-2009-11-17T06:39:35.953872Z
-24068
+2009-12-05T15:05:03.068673Z
+24971
 Kris.Wallsmith
 
 
@@ -26,6 +26,40 @@ svn:special svn:externals svn:needs-lock
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
+editableInput.php
+file
+
+
+
+
+2010-04-29T21:55:54.000000Z
+efd918eb64da3608341c19927a729014
+2009-12-05T15:05:03.068673Z
+24971
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+202
+
 indexSuccess.php
 file
 
@@ -36,6 +70,40 @@ file
 5a8aaa744da94c97524fe6cc51d46d6b
 2009-11-17T06:39:35.953872Z
 24068
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+editableSuccess.php
+file
+
+
+
+
+2010-04-29T21:55:54.000000Z
+5a8aaa744da94c97524fe6cc51d46d6b
+2009-12-05T15:05:03.068673Z
+24971
 Kris.Wallsmith
 has-props
 

@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: UnitOfWork.php 7490 2010-03-29 19:53:27Z jwage $
+ *  $Id: UnitOfWork.php 6690 2009-11-10 16:34:23Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -31,9 +31,9 @@
  * @package     Doctrine
  * @subpackage  Connection
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
- * @version     $Revision: 7490 $
+ * @version     $Revision: 6690 $
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @author      Roman Borschel <roman@code-factory.org>
  */
@@ -381,9 +381,6 @@ class Doctrine_Connection_UnitOfWork extends Doctrine_Connection_Module
      */
     public function saveRelatedLocalKeys(Doctrine_Record $record)
     {
-        $state = $record->state();
-        $record->state($record->exists() ? Doctrine_Record::STATE_LOCKED : Doctrine_Record::STATE_TLOCKED);
-
         foreach ($record->getReferences() as $k => $v) {
             $rel = $record->getTable()->getRelation($k);
             
@@ -412,7 +409,6 @@ class Doctrine_Connection_UnitOfWork extends Doctrine_Connection_Module
                 }
             }
         }
-        $record->state($state);
     }
 
     /**
@@ -443,8 +439,8 @@ class Doctrine_Connection_UnitOfWork extends Doctrine_Connection_Module
                 $assocTable = $rel->getAssociationTable();
                 foreach ($v->getDeleteDiff() as $r) {
                     $query = 'DELETE FROM ' . $assocTable->getTableName()
-                           . ' WHERE ' . $rel->getForeignRefColumnName() . ' = ?'
-                           . ' AND ' . $rel->getLocalRefColumnName() . ' = ?';
+                           . ' WHERE ' . $rel->getForeign() . ' = ?'
+                           . ' AND ' . $rel->getLocal() . ' = ?';
 
                     $this->conn->execute($query, array($r->getIncremented(), $record->getIncremented()));
                 }
@@ -919,23 +915,18 @@ class Doctrine_Connection_UnitOfWork extends Doctrine_Connection_Module
     protected function _assignIdentifier(Doctrine_Record $record)
     {
         $table = $record->getTable();
-        $identifier = $table->getIdentifier();
+        $identifier = (array) $table->getIdentifier();
         $seq = $table->sequenceName;
 
-        if (empty($seq) && !is_array($identifier) &&
+        if (empty($seq) && count($identifier) == 1 && $identifier[0] == $table->getIdentifier() &&
             $table->getIdentifierType() != Doctrine_Core::IDENTIFIER_NATURAL) {
-            $id = false;
-            if ($record->$identifier == null) { 
-                if (($driver = strtolower($this->conn->getDriverName())) == 'pgsql') {
-                    $seq = $table->getTableName() . '_' . $identifier;
-                } elseif ($driver == 'oracle' || $driver == 'mssql') {
-                    $seq = $table->getTableName();
-                }
-    
-                $id = $this->conn->sequence->lastInsertId($seq);
-            } else {
-                $id = $record->$identifier;
+            if (($driver = strtolower($this->conn->getDriverName())) == 'pgsql') {
+                $seq = $table->getTableName() . '_' . $identifier[0];
+            } elseif ($driver == 'oracle') {
+                $seq = $table->getTableName();
             }
+
+            $id = $this->conn->sequence->lastInsertId($seq);
 
             if ( ! $id) {
                 throw new Doctrine_Connection_Exception("Couldn't get last insert identifier.");

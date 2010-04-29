@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Pager/Range
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Pager/Range
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
+2009-06-22T15:44:45.962479Z
+5901
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-8d30228c1684a7d3a78dc2cd3c134346
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+00beb9e509fa1c53294a337bb31828b3
+2009-06-22T15:44:45.962479Z
+5901
 jwage
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-3384
+3374
 
 Sliding.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-eeee2525446e8ca488bc57395d99fd03
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+883d6fbe31eadfbbeffd62d5d09d0991
+2009-06-22T15:44:45.962479Z
+5901
 jwage
 has-props
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-3724
+3714
 

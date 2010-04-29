@@ -2,14 +2,14 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Import
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Import
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-04-07T11:57:41.061595Z
-7544
-kriswallsmith
+2009-11-30T17:27:49.820518Z
+6820
+jwage
 has-props
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:09.000000Z
-dbe3e290a37485192119e79dd100a754
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+0be25e4a97aab9a4c7e81de366249c4f
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:09.000000Z
-72bc6000e0fde89fe5525f2ac9bcf8c2
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+40c281fe751a3ec552380bd84c172811
+2009-10-12T17:40:41.504876Z
+6484
 jwage
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-8467
+8457
 
 Builder
 dir
@@ -103,11 +103,11 @@ file
 
 
 
-2010-04-29T21:55:09.000000Z
-97fee37cf4894a90e8ba0d4f5f55fc45
-2010-04-07T11:57:41.061595Z
-7544
-kriswallsmith
+2010-04-29T21:55:58.000000Z
+f7c6673084d38f608eb28454b3d93080
+2009-11-12T20:14:33.941387Z
+6719
+jwage
 has-props
 
 
@@ -129,7 +129,7 @@ has-props
 
 
 
-34437
+33972
 
 Sqlite.php
 file
@@ -137,10 +137,10 @@ file
 
 
 
-2010-04-29T21:55:09.000000Z
-52b7637dd963cf126304519a10d8d00d
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+82a50537a0c4a6a2dbcfce1de34a025e
+2009-10-12T17:40:41.504876Z
+6484
 jwage
 has-props
 
@@ -163,7 +163,7 @@ has-props
 
 
 
-7305
+7153
 
 Mysql.php
 file
@@ -171,10 +171,10 @@ file
 
 
 
-2010-04-29T21:55:09.000000Z
-4b2d1e547f9927e4d39bdecb5d1b6689
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+ffd1b729da6e66a440c215c7e7022861
+2009-10-12T17:40:41.504876Z
+6484
 jwage
 has-props
 
@@ -197,7 +197,7 @@ has-props
 
 
 
-8645
+8635
 
 Oracle.php
 file
@@ -205,10 +205,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-55cd950b147df8032806fb2d2fe0b08b
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+6aade1596643902d05e4d04282a0d68d
+2009-10-12T17:40:41.504876Z
+6484
 jwage
 has-props
 
@@ -231,7 +231,7 @@ has-props
 
 
 
-8043
+7977
 
 Builder.php
 file
@@ -239,10 +239,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-99cb0148aecb75dc071e1d63402726c3
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+ba289e7aa5ea02be361368c1b7f80c8e
+2009-11-30T17:27:49.820518Z
+6820
 jwage
 has-props
 
@@ -265,7 +265,7 @@ has-props
 
 
 
-43731
+40169
 
 Pgsql.php
 file
@@ -273,10 +273,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-a4d8df620ec3c08649b3195a7f3329cc
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+219935baee04e281fd8d32243227a6b0
+2009-11-19T19:39:02.309513Z
+6777
 jwage
 has-props
 
@@ -299,5 +299,5 @@ has-props
 
 
 
-13575
+13536
 

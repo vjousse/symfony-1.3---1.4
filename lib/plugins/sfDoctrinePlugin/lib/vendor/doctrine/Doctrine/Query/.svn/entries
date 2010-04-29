@@ -2,14 +2,14 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Query
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Query
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2009-12-05T00:12:51.523379Z
+6859
+kriswallsmith
 has-props
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-7e5d5689fb2d1246fce27f3e7e0ec370
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+72a4dd65fcb645181994beb87850fce4
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-1493
+1483
 
 Set.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-db47fc31b8dd95673b57b7e127412d8c
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+931bebbe2f9cf9627fd60407f50ca226
+2009-06-22T15:44:45.962479Z
+5901
 jwage
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-3998
+3988
 
 Parser.php
 file
@@ -100,11 +100,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-506fca387f584407422293c5036c2c32
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+abeff773b6cd2a35ea8243bd0add01ee
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-1279
+1269
 
 Exception.php
 file
@@ -134,11 +134,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-b51b7f053e7484c9342ff5c31700fbe4
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+9d1dd307de791890fd99299bc15e8515
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -165,50 +165,16 @@ has-props
 Filter
 dir
 
-From.php
-file
-
-
-
-
-2010-04-29T21:55:12.000000Z
-3d47d601826ad68f991b15239236d7d1
-2010-03-29T19:53:27.209172Z
-7490
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3017
-
 Abstract.php
 file
 
 
 
 
-2010-04-29T21:55:12.000000Z
-b2d97a37cde73e42a7494748316b9cea
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+f6bf281a4dbad7cd798af8e14de7444f
+2009-11-24T19:41:23.400013Z
+6801
 jwage
 has-props
 
@@ -231,19 +197,19 @@ has-props
 
 
 
-66423
+66446
 
-Part.php
+From.php
 file
 
 
 
 
-2010-04-29T21:55:12.000000Z
-9756d0365ae3ccbba97d007e366d131e
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+dfcffae160b61a70ee2c9bb07e24cefb
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -265,7 +231,41 @@ has-props
 
 
 
-2087
+3016
+
+JoinCondition.php
+file
+
+
+
+
+2010-04-29T21:55:59.000000Z
+d57cce8dfc01e621d10230d7f3f28e1e
+2009-12-05T00:12:51.523379Z
+6859
+kriswallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5984
 
 Orderby.php
 file
@@ -273,11 +273,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-91a3ad69271f9c33cf565b614fc06e92
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+59c85a80accbef2bea38502f4fe967bf
+2009-07-01T03:50:26.005112Z
+5975
+guilhermeblanco
 has-props
 
 
@@ -301,17 +301,17 @@ has-props
 
 7691
 
-JoinCondition.php
+Part.php
 file
 
 
 
 
-2010-04-29T21:55:12.000000Z
-4e0b01012c9dca72c149e94d6ffe665d
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+bda8628bf916a05934989fcaa83f75b5
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -333,7 +333,7 @@ has-props
 
 
 
-5880
+2087
 
 Registry.php
 file
@@ -341,10 +341,10 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-2c0569378c9f2d151a511a563c37f19c
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+4957235411c4b73690e8108a9f9b30c3
+2009-06-22T15:44:45.962479Z
+5901
 jwage
 has-props
 
@@ -367,41 +367,7 @@ has-props
 
 
 
-2771
-
-Tokenizer.php
-file
-
-
-
-
-2010-04-29T21:55:12.000000Z
-1f327e90a77599392fc9e5abc8a56292
-2010-03-29T19:53:27.209172Z
-7490
-jwage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16392
+2761
 
 Where.php
 file
@@ -409,10 +375,10 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-d66ac58d72d5be6326e2a8e45194b5c2
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+ecbdc600516b30303748894bc7ec69e3
+2009-09-15T19:44:05.940726Z
+6366
 jwage
 has-props
 
@@ -435,7 +401,41 @@ has-props
 
 
 
-6006
+5996
+
+Tokenizer.php
+file
+
+
+
+
+2010-04-29T21:55:59.000000Z
+4ccfec488e85f9365f621192316ae01f
+2009-07-14T13:04:49.442618Z
+6075
+romanb
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16150
 
 Having.php
 file
@@ -443,10 +443,10 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-d7e67c7ad6a42cc0ed7bd57dde73c1a7
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+33ac3184d9186227ace49a1344d80af8
+2009-11-23T22:27:26.909484Z
+6792
 jwage
 has-props
 
@@ -469,7 +469,7 @@ has-props
 
 
 
-3668
+3658
 
 Check.php
 file
@@ -477,10 +477,10 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-95527e0df009cc7932d9f8275f6e2761
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+191240152b6a0da199f8f2b6504abe5c
+2009-06-22T15:44:45.962479Z
+5901
 jwage
 has-props
 
@@ -503,7 +503,7 @@ has-props
 
 
 
-4801
+4791
 
 Limit.php
 file
@@ -511,11 +511,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-5de9abdb2ae2a08caaeacd84a491413a
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+f2783322c511bd503d323b86a216f67b
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -537,7 +537,7 @@ has-props
 
 
 
-1476
+1466
 
 Select.php
 file
@@ -545,11 +545,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-c88ba008d558b6ee46fa52c23512763e
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+f10dafa6e16b96e25a2fd05b5e855895
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -571,7 +571,7 @@ has-props
 
 
 
-1492
+1482
 
 Registry
 dir
@@ -585,11 +585,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-bc625f4fa4e874d583bd39cd7fae5d8c
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+3795d1138fb82488e8f2a04759d0f1f6
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -611,7 +611,7 @@ has-props
 
 
 
-2105
+2095
 
 Offset.php
 file
@@ -619,11 +619,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-3cf07c04c720bf99841c6ff25ce363f0
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+ceb3e01c7657fc8f4ae965b1002e3088
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -645,7 +645,7 @@ has-props
 
 
 
-1479
+1469
 
 Condition.php
 file
@@ -653,10 +653,10 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-f928fedf70b24cd86d8e32ce9abc3c38
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+4676676a60a7725bcc98e1f23352808d
+2009-09-15T19:44:05.940726Z
+6366
 jwage
 has-props
 
@@ -679,7 +679,7 @@ has-props
 
 
 
-4979
+4969
 
 Groupby.php
 file
@@ -687,11 +687,11 @@ file
 
 
 
-2010-04-29T21:55:12.000000Z
-f377d634336dcf1838efbf33d0fd6d72
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+2970314806acfa7959c156fdfb4d21c2
+2009-07-01T03:50:26.005112Z
+5975
+guilhermeblanco
 has-props
 
 

@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_0/lib/task/test
+http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/task/test
 http://svn.symfony-project.com
 
 
 
-2009-11-18T17:16:34.736928Z
-24148
+2009-12-07T19:41:58.269680Z
+25036
 Kris.Wallsmith
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-1cee56378b6c2e5b97423c106374f3eb
-2009-11-18T17:16:34.736928Z
-24148
+2010-04-29T21:55:54.000000Z
+49e954d8e65c91889b900c060743f5e9
+2009-12-07T19:41:58.269680Z
+25036
 Kris.Wallsmith
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-3336
+3364
 
 sfTestUnitTask.class.php
 file
@@ -100,11 +100,11 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-db2e10a3e430dad6d3b612dd15b324ca
-2009-11-09T23:48:16.253812Z
-23740
-FabianLange
+2010-04-29T21:55:54.000000Z
+e5ab501ec94e2715e7b7fed510d9a790
+2009-12-07T19:41:58.269680Z
+25036
+Kris.Wallsmith
 has-props
 
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-3178
+3267
 
 sfTestFunctionalTask.class.php
 file
@@ -134,11 +134,11 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-91a73b5f01adf3ca5601691b82a27427
-2009-11-09T23:48:16.253812Z
-23740
-FabianLange
+2010-04-29T21:55:54.000000Z
+c7b54dd4316aedd4b5d8217a899f1ca9
+2009-12-07T19:41:58.269680Z
+25036
+Kris.Wallsmith
 has-props
 
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-3609
+3698
 
 sfLimeHarness.class.php
 file
@@ -202,10 +202,10 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-847f842e90852e6a294fec286019094f
-2009-10-19T21:29:50.393342Z
-23200
+2010-04-29T21:55:54.000000Z
+870ce0318980aa3c9d96beef27252f3f
+2009-12-07T19:41:58.269680Z
+25036
 Kris.Wallsmith
 has-props
 
@@ -228,5 +228,5 @@ has-props
 
 
 
-3379
+3459
 

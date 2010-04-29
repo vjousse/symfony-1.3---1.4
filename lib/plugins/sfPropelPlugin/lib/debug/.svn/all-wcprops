@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/debug
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/lib/debug
 END
 sfWebDebugPanelPropel.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 103
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/debug/sfWebDebugPanelPropel.class.php
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/lib/debug/sfWebDebugPanelPropel.class.php
 END

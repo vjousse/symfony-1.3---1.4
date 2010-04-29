@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -28,7 +28,7 @@
  * @package     Doctrine
  * @subpackage  Query
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
  * @version     $Revision$
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
@@ -279,10 +279,6 @@ class Doctrine_Query extends Doctrine_Query_Abstract implements Countable
     public function fetchOne($params = array(), $hydrationMode = null)
     {
         $collection = $this->execute($params, $hydrationMode);
-
-        if (is_scalar($collection)) {
-            return $collection;
-        }
 
         if (count($collection) === 0) {
             return false;
@@ -1397,7 +1393,7 @@ class Doctrine_Query extends Doctrine_Query_Abstract implements Countable
                 $e = $this->_tokenizer->bracketExplode($part, ' ');
                 foreach ($e as $f) {
                     if ($f == 0 || $f % 2 == 0) {
-                        $partOriginal = str_replace(',', '', trim($f));
+                        $partOriginal = trim($f);
                         $callback = create_function('$e', 'return trim($e, \'[]`"\');');
                         $part = trim(implode('.', array_map($callback, explode('.', $partOriginal))));
                 
@@ -1441,12 +1437,6 @@ class Doctrine_Query extends Doctrine_Query_Abstract implements Countable
                     }
                 }
             }
-        }
-
-        // Add having fields that got stripped out of select
-        preg_match_all('/`[a-z0-9_]+`\.`[a-z0-9_]+`/i', implode(' ', $having), $matches, PREG_PATTERN_ORDER);
-        if (count($matches[0]) > 0) {
-            $subquery .= ', ' . implode(', ', array_unique($matches[0]));
         }
 
         $subquery .= ' FROM';
@@ -2060,11 +2050,6 @@ class Doctrine_Query extends Doctrine_Query_Abstract implements Countable
                     if (strpos($field, '(') !== false) {
                         $selectFields .= ', ' . $field;
                     }
-                }
-                // Add having fields that got stripped out of select
-                preg_match_all('/`[a-z0-9_]+`\.`[a-z0-9_]+`/i', $having, $matches, PREG_PATTERN_ORDER);
-                if (count($matches[0]) > 0) {
-                    $selectFields .= ', ' . implode(', ', array_unique($matches[0]));
                 }
             }
 

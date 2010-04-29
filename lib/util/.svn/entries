@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_0/lib/util
+http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/util
 http://svn.symfony-project.com
 
 
 
-2009-11-14T13:33:03.194761Z
-23901
-bschussek
+2009-12-08T06:02:07.780556Z
+25063
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -168,10 +168,10 @@ file
 
 
 
-2010-04-29T21:55:17.000000Z
-e4b8ddf0c3cdfd5dae160cedb4bb5318
-2009-11-12T11:07:44.003356Z
-23810
+2010-04-29T21:55:54.000000Z
+8b77682b5d5a8ed07e94a6a6d2df96fd
+2009-12-08T06:02:07.780556Z
+25063
 Kris.Wallsmith
 has-props
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-5234
+6825
 
 sfBrowser.class.php
 file

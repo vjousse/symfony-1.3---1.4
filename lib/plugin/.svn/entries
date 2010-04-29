@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_0/lib/plugin
+http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugin
 http://svn.symfony-project.com
 
 
 
-2009-11-12T11:07:44.003356Z
-23810
+2009-12-07T22:00:55.846514Z
+25051
 Kris.Wallsmith
 
 
@@ -168,11 +168,11 @@ file
 
 
 
-2010-04-29T21:55:15.000000Z
-02bc92f68c0a1c8e767a95828bdbcff1
-2009-08-06T06:05:00.979469Z
-20837
-fabien
+2010-04-29T21:55:54.000000Z
+bb8aa8c270c422df6ffcac67c6a50110
+2009-12-07T22:00:55.846514Z
+25051
+Kris.Wallsmith
 has-props
 
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-7858
+7794
 
 sfPearRestPlugin.class.php
 file

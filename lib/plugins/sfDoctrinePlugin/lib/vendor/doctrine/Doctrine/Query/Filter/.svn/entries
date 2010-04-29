@@ -2,14 +2,14 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Query/Filter
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Query/Filter
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-6594f01bb2c1dc4b80edd88243b31384
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+a364902bee725f750f3a6d713ceeb298
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-2019
+2009
 
 Chain.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-bdd257208c9ddf70353ac010895c4090
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:59.000000Z
+564d464f624fab8bbe95a2c35b4b0270
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-3156
+3146
 

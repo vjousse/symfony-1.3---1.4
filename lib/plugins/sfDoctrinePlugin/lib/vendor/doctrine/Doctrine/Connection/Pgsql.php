@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Pgsql.php 7490 2010-03-29 19:53:27Z jwage $
+ *  $Id: Pgsql.php 6026 2009-07-08 20:51:21Z domluc $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -27,8 +27,8 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @author      Lukas Smith <smith@pooteeweet.org> (PEAR MDB2 library)
- * @version     $Revision: 7490 $
- * @link        www.doctrine-project.org
+ * @version     $Revision: 6026 $
+ * @link        www.phpdoctrine.org
  * @since       1.0
  */
 class Doctrine_Connection_Pgsql extends Doctrine_Connection_Common
@@ -90,7 +90,6 @@ class Doctrine_Connection_Pgsql extends Doctrine_Connection_Common
     {
         $query = 'SET NAMES '.$this->quote($charset);
         $this->exec($query);
-        parent::setCharset($charset);
     }
 
     /**
@@ -210,16 +209,16 @@ class Doctrine_Connection_Pgsql extends Doctrine_Connection_Common
         $cols = array();
         // the query VALUES will contain either expresions (eg 'NOW()') or ?
         $a = array();
-        
+
+        // fix #1786 and #2327 (default values when table is just 'id' as PK)
+        if(count($fields) === 1 && $table->isIdentifier(key($fields)) && $table->isIdentifierAutoincrement() )
+        {
+            return $this->exec('INSERT INTO ' . $this->quoteIdentifier($tableName)
+                              . ' '
+                              . ' VALUES (DEFAULT)');
+        }
+
         foreach ($fields as $fieldName => $value) {
-        	if ($table->isIdentifier($fieldName) 
-        	           && $table->isIdentifierAutoincrement()
-        	           && $value == null) {
-        		// Autoincrement fields should not be added to the insert statement
-        		// if their value is null
-        		unset($fields[$fieldName]);
-        		continue;
-        	}
             $cols[] = $this->quoteIdentifier($table->getColumnName($fieldName));
             if ($value instanceof Doctrine_Expression) {
                 $a[] = $value->getSql();
@@ -228,13 +227,6 @@ class Doctrine_Connection_Pgsql extends Doctrine_Connection_Common
                 $a[] = '?';
             }
         }
-        
-        if (count($fields) == 0) {
-        	// Real fix #1786 and #2327 (default values when table is just 'id' as PK)        	
-            return $this->exec('INSERT INTO ' . $this->quoteIdentifier($tableName)
-                              . ' '
-                              . ' VALUES (DEFAULT)');        	
-        }
 
         // build the statement
         $query = 'INSERT INTO ' . $this->quoteIdentifier($tableName)
@@ -242,5 +234,10 @@ class Doctrine_Connection_Pgsql extends Doctrine_Connection_Common
                 . ' VALUES (' . implode(', ', $a) . ')';
 
         return $this->exec($query, array_values($fields));
-    }    
+    }
+
+
+
+
+
 }

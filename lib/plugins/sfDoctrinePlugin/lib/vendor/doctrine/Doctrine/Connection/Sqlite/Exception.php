@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Exception.php 7490 2010-03-29 19:53:27Z jwage $
+ *  $Id: Exception.php 6484 2009-10-12 17:40:41Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -28,8 +28,8 @@
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @author      Lukas Smith <smith@pooteeweet.org> (PEAR MDB2 library)
  * @since       1.0
- * @version     $Revision: 7490 $
- * @link        www.doctrine-project.org
+ * @version     $Revision: 6484 $
+ * @link        www.phpdoctrine.org
  */
 class Doctrine_Connection_Sqlite_Exception extends Doctrine_Connection_Exception
 {

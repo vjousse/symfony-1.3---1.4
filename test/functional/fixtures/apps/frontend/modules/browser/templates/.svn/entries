@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_0/test/functional/fixtures/apps/frontend/modules/browser/templates
+http://svn.symfony-project.com/tags/RELEASE_1_3_1/test/functional/fixtures/apps/frontend/modules/browser/templates
 http://svn.symfony-project.com
 
 
 
-2008-10-16T12:11:16.368392Z
-12215
-fabien
+2009-12-06T20:48:52.154761Z
+24992
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -93,4 +93,38 @@ has-props
 
 
 30
+
+redirectTarget1Success.php
+file
+
+
+
+
+2010-04-29T21:55:54.000000Z
+5a8aaa744da94c97524fe6cc51d46d6b
+2009-12-06T20:48:52.154761Z
+24992
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
 

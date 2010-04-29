@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -25,7 +25,7 @@
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @version     $Revision$
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
  */
 class Doctrine_Import_Oracle extends Doctrine_Import
@@ -203,7 +203,7 @@ QEND;
      */
     public function listTables($database = null)
     {
-        $query = "SELECT * FROM user_objects WHERE object_type = 'TABLE' and object_name in (select table_name from user_tables)";
+        $query = "SELECT * FROM user_objects WHERE object_type = 'TABLE'";
         return $this->conn->fetchColumn($query);
     }
 

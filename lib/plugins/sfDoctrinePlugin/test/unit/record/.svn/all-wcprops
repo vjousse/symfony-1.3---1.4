@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/unit/record
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/unit/record
 END
 sfDoctrineRecordTest.php
 K 25
 svn:wc:ra_dav:version-url
 V 105
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/unit/record/sfDoctrineRecordTest.php
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/test/unit/record/sfDoctrineRecordTest.php
 END

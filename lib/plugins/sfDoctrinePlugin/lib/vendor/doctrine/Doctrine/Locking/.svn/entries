@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Locking
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Locking
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
+2009-10-12T17:40:41.504876Z
+6484
 jwage
 has-props
 
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-ba7d0c8a2899db5dffc629b498a19cd2
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+e6321e60f5c694f6f276896b469fa272
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 

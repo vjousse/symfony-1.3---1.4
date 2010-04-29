@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: JoinCondition.php 7490 2010-03-29 19:53:27Z jwage $
+ *  $Id: JoinCondition.php 6859 2009-12-05 00:12:51Z kriswallsmith $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -25,9 +25,9 @@
  * @package     Doctrine
  * @subpackage  Query
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
- * @version     $Revision: 7490 $
+ * @version     $Revision: 6859 $
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  */
 class Doctrine_Query_JoinCondition extends Doctrine_Query_Condition
@@ -101,7 +101,7 @@ class Doctrine_Query_JoinCondition extends Doctrine_Query_Condition
 
                     $value = '(' . implode(', ', $value) . ')';
                 }
-            } elseif ( ! $hasRightAggExpression) {
+            } else {
                 // Possible expression found (field1 AND field2)
                 // In relation to ticket #1488
                 $e     = $this->_tokenizer->bracketExplode($value, array(' AND ', ' \&\& '), '(', ')');
@@ -114,14 +114,18 @@ class Doctrine_Query_JoinCondition extends Doctrine_Query_Condition
                 $value = implode(' AND ', $value);
             }
 
-            if ($hasRightAggExpression) {
-                $rightExpr = $rightMatches[1] . '(' . $value . ')' . $rightMatches[3];
-                $rightExpr = $this->query->parseClause($rightExpr);
-            } else {
-                $rightExpr = $value;
-            }
+            switch ($operator) {
+                case '<':
+                case '>':
+                case '=':
+                case '!=':
+                default:
+                    $rightExpr = (($hasRightAggExpression) ? $rightMatches[1] . '(' : '')
+                              . $value
+                              . (($hasRightAggExpression) ? ')' . $rightMatches[3] : '') ;
 
-            $condition  = $leftExpr . ' ' . $operator . ' ' . $rightExpr;
+                    $condition  = $leftExpr . ' ' . $operator . ' ' . $rightExpr;
+            }
 
             return $condition;
         }

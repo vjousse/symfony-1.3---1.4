@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/lib
+http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib
 http://svn.symfony-project.com
 
 
 
-2009-12-01T05:06:21.176096Z
-24637
+2009-12-08T14:00:16.454604Z
+25074
 Kris.Wallsmith
 has-props
 
@@ -26,10 +26,10 @@ svn:externals
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
-test
+helper
 dir
 
-helper
+test
 dir
 
 log
@@ -41,10 +41,10 @@ dir
 validator
 dir
 
-debug
+generator
 dir
 
-generator
+debug
 dir
 
 routing

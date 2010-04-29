@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/debug
+http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfPropelPlugin/lib/debug
 http://svn.symfony-project.com
 
 
 
-2009-11-08T22:19:19.192825Z
-23704
-FabianLange
+2009-12-06T20:56:49.599850Z
+24993
+Kris.Wallsmith
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-f7d39f84dd51c047bbdf4e23a25f368c
-2009-11-08T22:19:19.192825Z
-23704
-FabianLange
+2010-04-29T21:55:54.000000Z
+61293a16dc08209633e73b330ad21b4f
+2009-12-06T20:56:49.599850Z
+24993
+Kris.Wallsmith
 has-props
 
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-3936
+3973
 

@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 58
-/!svn/ver/7578/branches/1.2/lib/Doctrine/Adapter/Statement
+V 56
+/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Adapter/Statement
 END
 Mock.php
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/!svn/ver/7490/branches/1.2/lib/Doctrine/Adapter/Statement/Mock.php
+V 65
+/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Adapter/Statement/Mock.php
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/!svn/ver/7490/branches/1.2/lib/Doctrine/Adapter/Statement/Interface.php
+V 70
+/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Adapter/Statement/Interface.php
 END
 Oracle.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/!svn/ver/7578/branches/1.2/lib/Doctrine/Adapter/Statement/Oracle.php
+V 67
+/!svn/ver/6894/tags/1.2.1/lib/Doctrine/Adapter/Statement/Oracle.php
 END

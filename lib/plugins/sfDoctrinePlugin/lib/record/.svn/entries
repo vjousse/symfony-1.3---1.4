@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/lib/record
+http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib/record
 http://svn.symfony-project.com
 
 
 
-2009-12-01T01:32:29.613205Z
-24632
+2009-12-01T18:36:11.181357Z
+24703
 Jonathan.Wage
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-e338487c13ae736a03bd6451696c954d
-2009-12-01T01:32:29.613205Z
-24632
+2010-04-29T21:55:54.000000Z
+6a5cf3aff0e3772a51ca9bf1b0c73cc7
+2009-12-01T18:36:11.181357Z
+24703
 Jonathan.Wage
 has-props
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-7445
+7362
 

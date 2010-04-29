@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -25,7 +25,7 @@
  * @package     Doctrine
  * @subpackage  Validator
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
  * @version     $Revision: 3884 $
  * @author      Mark Pearson <mark.pearson0@googlemail.com>
@@ -33,7 +33,7 @@
 class Doctrine_Validator_Timestamp extends Doctrine_Validator_Driver
 {
     /**
-     * checks if given value is a valid ISO-8601 timestamp (YYYY-MM-DDTHH:MM:SS+00:00)
+     * checks if given value is a valid timestamp (YYYY-MM-DD HH:MM:SS)
      *
      * @param mixed $value
      * @return boolean
@@ -44,7 +44,7 @@ class Doctrine_Validator_Timestamp extends Doctrine_Validator_Driver
             return true;
         }
 
-        $e = explode('T', trim($value));
+        $e = explode(' ', trim($value));
         $date = isset($e[0]) ? $e[0]:null;
         $time = isset($e[1]) ? $e[1]:null;
 

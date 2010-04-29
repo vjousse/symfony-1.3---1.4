@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -27,7 +27,7 @@
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
  * @version     $Revision$
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
  */
 class Doctrine_Search extends Doctrine_Record_Generator
@@ -103,9 +103,6 @@ class Doctrine_Search extends Doctrine_Record_Generator
 
             return $newQuery;
         } else {
-            if ( ! isset($this->_options['connection'])) {
-                $this->_options['connection'] = $this->_table->getConnection();
-            }
             $q->query($string);
             return $this->_options['connection']->fetchAll($q->getSqlQuery(), $q->getParams());
         }
@@ -222,11 +219,11 @@ class Doctrine_Search extends Doctrine_Record_Generator
 
         $this->initialize($table);
 
-        $id        = $table->getIdentifierColumnNames();
+        $id        = current($table->getIdentifierColumnNames());
         $class     = $this->_options['className'];
         $fields    = $this->_options['fields'];
         $conn      = $this->_options['connection'];
-        
+
         for ($i = 0; $i < count($fields); $i++) {
             $fields[$i] = $table->getColumnName($fields[$i], $fields[$i]);
         }
@@ -235,30 +232,17 @@ class Doctrine_Search extends Doctrine_Record_Generator
 
         $ids = array();
         foreach ($rows as $row) {
-            foreach ($id as $idcol) {
-                $ids[] = $row[$idcol];
-            }
+           $ids[] = $row[$id];
         }
 
         if (count($ids) > 0)
         {
-            $sql = 'DELETE FROM ' . $conn->quoteIdentifier($this->_table->getTableName());
+            $placeholders = str_repeat('?, ', count($ids));
+            $placeholders = substr($placeholders, 0, strlen($placeholders) - 2);
 
-            if (count($id) == 1) {
-                $placeholders = str_repeat('?, ', count($ids));
-                $placeholders = substr($placeholders, 0, strlen($placeholders) - 2);
-                $sql .= ' WHERE ' . $conn->quoteIdentifier($table->getIdentifier()) . ' IN (' . substr($placeholders, 0) . ')';
-            } else {
-                // composite primary key
-                $placeholders = '';
-                foreach ($table->getIdentifier() as $id) {
-                    $placeholders .= $conn->quoteIdentifier($id) . ' = ? AND ';
-                }
-                $placeholders = '(' . substr($placeholders, 0, strlen($placeholders) - 5) . ') OR ';
-                $placeholders = str_repeat($placeholders, count($rows));
-                $placeholders = substr($placeholders, 0, strlen($placeholders) - 4);
-                $sql .= ' WHERE ' . $placeholders;
-            }
+            $sql = 'DELETE FROM ' 
+                 . $conn->quoteIdentifier($this->_table->getTableName())
+                 . ' WHERE ' . $conn->quoteIdentifier($table->getIdentifier()) . ' IN (' . substr($placeholders, 0) . ')';
 
             $conn->exec($sql, $ids);
         }

@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/lib/form
+http://svn.symfony-project.com/tags/RELEASE_1_3_1/lib/plugins/sfDoctrinePlugin/lib/form
 http://svn.symfony-project.com
 
 
 
-2009-11-30T05:06:09.235916Z
-24537
+2009-12-05T15:05:03.068673Z
+24971
 Kris.Wallsmith
 
 
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:16.000000Z
-32c16c98431420e596361140d3480d48
-2009-11-30T05:06:09.235916Z
-24537
+2010-04-29T21:55:54.000000Z
+8e293f4d9e7f359dbb0f0a7096026d15
+2009-12-05T15:05:03.068673Z
+24971
 Kris.Wallsmith
 has-props
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-10993
+10987
 

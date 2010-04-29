@@ -1,53 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/validation
-END
-sfDeprecatedSettingsValidation.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 103
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/validation/sfDeprecatedSettingsValidation.class.php
-END
-sfDeprecatedPluginsValidation.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 102
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/validation/sfDeprecatedPluginsValidation.class.php
-END
-sfDeprecatedHelpersValidation.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 102
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/validation/sfDeprecatedHelpersValidation.class.php
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/task/project/validation
 END
 sfDeprecatedMethodsValidation.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 102
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/validation/sfDeprecatedMethodsValidation.class.php
-END
-sfDeprecatedConfigurationFilesValidation.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 113
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/validation/sfDeprecatedConfigurationFilesValidation.class.php
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/task/project/validation/sfDeprecatedMethodsValidation.class.php
 END
 sfDeprecatedClassesValidation.class.php
 K 25
 svn:wc:ra_dav:version-url
 V 102
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/validation/sfDeprecatedClassesValidation.class.php
-END
-sfParameterHolderValidation.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 100
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/validation/sfParameterHolderValidation.class.php
-END
-sfValidation.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/validation/sfValidation.class.php
+/!svn/ver/25072/tags/RELEASE_1_3_1/lib/task/project/validation/sfDeprecatedClassesValidation.class.php
 END

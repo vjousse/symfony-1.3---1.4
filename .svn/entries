@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_3_0
+http://svn.symfony-project.com/tags/RELEASE_1_3_1
 http://svn.symfony-project.com
 
 
 
-2009-12-01T10:52:36.528276Z
-24662
+2009-12-08T14:00:16.454604Z
+25074
 Kris.Wallsmith
 has-props
 
@@ -282,10 +282,10 @@ file
 
 
 
-2010-04-29T21:55:18.000000Z
-6a494b8ebd9728e52dd88e86b9612b00
-2007-02-21T14:44:06.958548Z
-3525
+2010-04-29T21:55:54.000000Z
+084e98f6c83548d2ca52058ba0281480
+2009-12-03T13:59:58.686432Z
+24860
 fabien
 
 
@@ -308,5 +308,5 @@ fabien
 
 
 
-993
+1021
 

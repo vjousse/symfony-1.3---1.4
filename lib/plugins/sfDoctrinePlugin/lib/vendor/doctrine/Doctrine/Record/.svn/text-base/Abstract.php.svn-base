@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -26,7 +26,7 @@
  * @subpackage  Record
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
  * @version     $Revision$
  */
@@ -216,6 +216,17 @@ abstract class Doctrine_Record_Abstract extends Doctrine_Access
         } else {
             $this->_table->setOption($name, $value);
         }
+    }
+    
+    /**
+     * getOptions
+     * returns all options of this record and the associated values
+     *
+     * @return array    all options and their values
+     */
+    public function getOptions()
+    {
+        return $this->_table->getOptions();
     }
 
     /**

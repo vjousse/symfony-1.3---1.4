@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Mssql.php 7490 2010-03-29 19:53:27Z jwage $
+ *  $Id: Mssql.php 6345 2009-09-11 20:14:24Z dcousineau $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -28,9 +28,9 @@
  * @author      Lukas Smith <smith@pooteeweet.org> (PEAR MDB2 library)
  * @author      Frank M. Kromann <frank@kromann.info> (PEAR MDB2 Mssql driver)
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
- * @version     $Revision: 7490 $
+ * @version     $Revision: 6345 $
  */
 class Doctrine_Export_Mssql extends Doctrine_Export
 {

@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Migration
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Migration
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
+2009-12-07T21:29:38.561473Z
+6893
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-7f5d43baf4de8fb31c70c0f1e6fbab40
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+d48ca47e8714588d406ec822ee4ce468
+2009-12-02T17:08:00.592740Z
+6842
 jwage
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-16841
+16831
 
 Exception.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-48eaeddf7bc849231a0d421f0490c7af
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+ba4b53846f292cb9126a512abdaa9ab4
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-1418
+1408
 
 Process.php
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-a7053af4a237fbdf26dababc8bca7217
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+bc3c05fb5a33b5c56cc50ea06ca87698
+2009-10-13T23:20:01.049244Z
+6505
 jwage
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-6261
+6251
 
 Builder.php
 file
@@ -134,10 +134,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-0e47ad444dc985d16a042ec781cca85b
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+e7708e9a984ca3762c2d9f7407ce9eed
+2009-10-30T15:45:48.457347Z
+6586
 jwage
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-18303
+18293
 
 IrreversibleMigrationException.php
 file
@@ -168,11 +168,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-0a301ea98d380cd0cb29a86c9bd55933
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+41d3d1b2d57e1803cce56c1a591100fd
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-1473
+1463
 
 Diff.php
 file
@@ -202,10 +202,10 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-85c0528c9afb228027fec1ea64f2aa09
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+9233f13d5c7f561f7c30804c5e973ee3
+2009-12-07T21:29:38.561473Z
+6893
 jwage
 has-props
 
@@ -228,5 +228,5 @@ has-props
 
 
 
-17303
+15637
 

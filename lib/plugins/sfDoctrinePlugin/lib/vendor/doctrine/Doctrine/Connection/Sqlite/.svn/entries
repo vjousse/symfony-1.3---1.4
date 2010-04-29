@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Connection/Sqlite
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Connection/Sqlite
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
+2009-10-12T17:40:41.504876Z
+6484
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-18014db7d2a81491eef2a3ea7d5c65af
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:59.000000Z
+950418328542aea692d21b4879d3e307
+2009-10-12T17:40:41.504876Z
+6484
 jwage
 has-props
 
@@ -58,5 +58,5 @@ has-props
 
 
 
-3893
+3883
 

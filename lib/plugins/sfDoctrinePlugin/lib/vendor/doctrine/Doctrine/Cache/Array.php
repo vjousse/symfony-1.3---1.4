@@ -1,6 +1,6 @@
 <?php
 /*
- *  $Id: Array.php 7490 2010-03-29 19:53:27Z jwage $
+ *  $Id: Array.php 6839 2009-12-01 19:19:05Z jwage $
  *
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
@@ -16,7 +16,7 @@
  *
  * This software consists of voluntary contributions made by many individuals
  * and is licensed under the LGPL. For more information, see
- * <http://www.doctrine-project.org>.
+ * <http://www.phpdoctrine.org>.
  */
 
 /**
@@ -25,18 +25,18 @@
  * @package     Doctrine
  * @subpackage  Cache
  * @license     http://www.opensource.org/licenses/lgpl-license.php LGPL
- * @link        www.doctrine-project.org
+ * @link        www.phpdoctrine.org
  * @since       1.0
- * @version     $Revision: 7490 $
+ * @version     $Revision: 6839 $
  * @author      Konsta Vesterinen <kvesteri@cc.hut.fi>
  * @author      Jonathan H. Wage <jonwage@gmail.com>
  */
-class Doctrine_Cache_Array extends Doctrine_Cache_Driver
+class Doctrine_Cache_Array extends Doctrine_Cache_Driver implements Countable
 {
     /**
      * @var array $data         an array of cached data
      */
-    protected $data = array();
+    protected $data;
 
     /**
      * Fetch a cache record from this cache driver instance
@@ -45,7 +45,7 @@ class Doctrine_Cache_Array extends Doctrine_Cache_Driver
      * @param boolean $testCacheValidity        if set to false, the cache validity won't be tested
      * @return mixed  Returns either the cached data or false
      */
-    protected function _doFetch($id, $testCacheValidity = true)
+    protected function _doFetch($id, $testCacheValidity = true) 
     {
         if (isset($this->data[$id])) {
             return $this->data[$id];
@@ -83,7 +83,7 @@ class Doctrine_Cache_Array extends Doctrine_Cache_Driver
     /**
      * Remove a cache record directly. This method is implemented by the cache
      * drivers and used in Doctrine_Cache_Driver::delete()
-     *
+     * 
      * @param string $id cache id
      * @return boolean true if no problem
      */
@@ -94,15 +94,5 @@ class Doctrine_Cache_Array extends Doctrine_Cache_Driver
         unset($this->data[$id]);
 
         return $exists;
-    }
-
-    /**
-     * Fetch an array of all keys stored in cache
-     *
-     * @return array Returns the array of cache keys
-     */
-    protected function _getCacheKeys()
-    {
-        return array_keys($this->data);
     }
 }

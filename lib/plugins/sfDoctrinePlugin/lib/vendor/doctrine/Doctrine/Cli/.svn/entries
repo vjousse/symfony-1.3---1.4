@@ -2,14 +2,14 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Cli
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Cli
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 
 
 svn:special svn:externals svn:needs-lock
@@ -32,11 +32,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-d7cf1d48dfe005cd42be06cd7a711a2e
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+84c3b1de2f098097230d0481557c0268
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-5518
+5508
 
 Exception.php
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-f2892e10332c815ad320cfb0efa404a5
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+b63e18272c9aad04463f5b6ef247b345
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-1396
+1386
 
 Formatter.php
 file
@@ -100,11 +100,11 @@ file
 
 
 
-2010-04-29T21:55:10.000000Z
-99af44a8276a9723161f373dd47be0cf
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+41a39f2154fdf11d3ca11b1f11145790
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -126,5 +126,5 @@ has-props
 
 
 
-3524
+3514
 

@@ -2,13 +2,13 @@
 
 dir
 7584
-http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib/Doctrine/Relation
+http://doctrine.mirror.svn.symfony-project.com/tags/1.2.1/lib/Doctrine/Relation
 http://doctrine.mirror.svn.symfony-project.com
 
 
 
-2010-03-29T19:53:27.209172Z
-7490
+2009-12-01T19:02:56.800411Z
+6834
 jwage
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-96781129cd5f014b1598b5e4beb3f95c
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+7361bf05e2a06fc948dc580b87deceb5
+2009-12-01T19:02:56.800411Z
+6834
 jwage
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-4573
+3983
 
 Association.php
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-1b9a4e33a1f8bed2ba78634cef7c0c1e
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+d53803f8cd5883c152993e6f13051ef4
+2009-10-14T06:28:49.301456Z
+6508
 jwage
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-4848
+4838
 
 Parser.php
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-c1dd4545ee8da7a96c89b3ed42d13811
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+2543712fbe59aaa690ed45473567da24
+2009-11-24T19:38:42.263360Z
+6800
 jwage
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-19473
+19463
 
 Exception.php
 file
@@ -134,11 +134,11 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-72535f23fe1e1aa54a8353b51ca60a3f
-2010-03-29T19:53:27.209172Z
-7490
-jwage
+2010-04-29T21:55:58.000000Z
+13d7eb9bb637f1c5a217909784b9af8f
+2009-06-02T15:10:46.063184Z
+5798
+piccoloprincipe
 has-props
 
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-1428
+1418
 
 ForeignKey.php
 file
@@ -168,10 +168,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-9b3ad0cce89246808ca67612c6a4ac2c
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+8f4497e9b317460a5367c144fdb2ee09
+2009-10-14T06:28:49.301456Z
+6508
 jwage
 has-props
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-3704
+3694
 
 LocalKey.php
 file
@@ -202,10 +202,10 @@ file
 
 
 
-2010-04-29T21:55:11.000000Z
-caf2f31dcb6170b033471fb073474dd4
-2010-03-29T19:53:27.209172Z
-7490
+2010-04-29T21:55:58.000000Z
+e6b5c4d12f86ff5d47b3aac51e6df7cf
+2009-10-14T06:28:49.301456Z
+6508
 jwage
 has-props
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-3108
+3098
 
 Association
 dir
