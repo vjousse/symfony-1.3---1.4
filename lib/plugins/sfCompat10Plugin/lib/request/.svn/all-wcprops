@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/request
+END
+sfRequestCompat10.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/request/sfRequestCompat10.class.php
+END

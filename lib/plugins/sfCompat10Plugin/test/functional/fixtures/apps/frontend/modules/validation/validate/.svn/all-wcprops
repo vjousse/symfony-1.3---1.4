@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/test/functional/fixtures/apps/frontend/modules/validation/validate
+END
+index.yml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/test/functional/fixtures/apps/frontend/modules/validation/validate/index.yml
+END
+Index2.yml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/test/functional/fixtures/apps/frontend/modules/validation/validate/Index2.yml
+END
+group.yml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/test/functional/fixtures/apps/frontend/modules/validation/validate/group.yml
+END

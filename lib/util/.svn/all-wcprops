@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/util
+END
+sfBrowserBase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/util/sfBrowserBase.class.php
+END
+sfParameterHolder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/util/sfParameterHolder.class.php
+END
+sfNamespacedParameterHolder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/util/sfNamespacedParameterHolder.class.php
+END
+sfClassManipulator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/util/sfClassManipulator.class.php
+END
+sfContext.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/util/sfContext.class.php
+END
+sfToolkit.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/util/sfToolkit.class.php
+END
+sfDomCssSelector.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/util/sfDomCssSelector.class.php
+END

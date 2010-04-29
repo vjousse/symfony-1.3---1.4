@@ -1,0 +1,34 @@
+9
+
+dir
+29325
+http://svn.symfony-project.com/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules
+http://svn.symfony-project.com
+
+
+
+2009-11-17T06:39:35.953872Z
+24068
+Kris.Wallsmith
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+articles
+dir
+
+attachment
+dir
+

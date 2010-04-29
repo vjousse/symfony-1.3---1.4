@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/modules/i18n/templates
+END
+productsSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/modules/i18n/templates/productsSuccess.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/modules/i18n/templates/indexSuccess.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/validator
+END
+sfValidatorPropelUnique.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/validator/sfValidatorPropelUnique.class.php
+END
+sfPropelUniqueValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/validator/sfPropelUniqueValidator.class.php
+END
+sfValidatorPropelChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/validator/sfValidatorPropelChoice.class.php
+END
+sfValidatorPropelChoiceMany.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/validator/sfValidatorPropelChoiceMany.class.php
+END

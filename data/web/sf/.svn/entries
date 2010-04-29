@@ -1,0 +1,40 @@
+9
+
+dir
+29325
+http://svn.symfony-project.com/tags/RELEASE_1_3_0/data/web/sf
+http://svn.symfony-project.com
+
+
+
+2009-09-20T15:07:36.565773Z
+22201
+fabien
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+sf_admin
+dir
+
+calendar
+dir
+
+sf_web_debug
+dir
+
+sf_default
+dir
+

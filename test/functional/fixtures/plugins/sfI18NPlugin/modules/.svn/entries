@@ -1,0 +1,31 @@
+9
+
+dir
+29325
+http://svn.symfony-project.com/tags/RELEASE_1_3_0/test/functional/fixtures/plugins/sfI18NPlugin/modules
+http://svn.symfony-project.com
+
+
+
+2007-06-25T07:37:00.856065Z
+4350
+fabien
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+sfI18NPlugin
+dir
+

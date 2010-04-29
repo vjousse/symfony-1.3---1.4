@@ -260,4 +260,4 @@ class gitMirror
 
 $mirror = new gitMirror('http://svn.symfony-project.com', '1.4', $argv[1]);
 $mirror->sync(array(1, 3, 0),array('RC','BETA','ALPHA'));
-$mirror->push();
+$mirror->push('github');

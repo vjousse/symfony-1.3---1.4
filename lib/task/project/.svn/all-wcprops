@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project
+END
+sfProjectDisableTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/sfProjectDisableTask.class.php
+END
+sfProjectEnableTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/sfProjectEnableTask.class.php
+END
+sfUpgradeTo13Task.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/sfUpgradeTo13Task.class.php
+END
+sfProjectValidateTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/sfProjectValidateTask.class.php
+END
+sfProjectPermissionsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/sfProjectPermissionsTask.class.php
+END
+sfProjectDeployTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/sfProjectDeployTask.class.php
+END
+sfProjectClearControllersTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/sfProjectClearControllersTask.class.php
+END
+sfProjectOptimizeTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/sfProjectOptimizeTask.class.php
+END

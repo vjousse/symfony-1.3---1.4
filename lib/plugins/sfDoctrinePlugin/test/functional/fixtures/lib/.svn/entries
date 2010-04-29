@@ -1,0 +1,74 @@
+9
+
+dir
+29325
+http://svn.symfony-project.com/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib
+http://svn.symfony-project.com
+
+
+
+2009-12-01T01:32:29.613205Z
+24632
+Jonathan.Wage
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+model
+dir
+
+form
+dir
+
+filter
+dir
+
+myDoctrineRecord.class.php
+file
+
+
+
+
+2010-04-29T21:55:03.000000Z
+ba35375cea7abc15fe80c8885b61147f
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+69
+
+migration
+dir
+

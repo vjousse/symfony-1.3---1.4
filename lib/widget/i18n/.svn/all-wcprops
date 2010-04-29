@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/widget/i18n
+END
+sfWidgetFormI18nSelectCurrency.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/widget/i18n/sfWidgetFormI18nSelectCurrency.class.php
+END
+sfWidgetFormI18nSelectCountry.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/widget/i18n/sfWidgetFormI18nSelectCountry.class.php
+END
+sfWidgetFormI18nSelectLanguage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/widget/i18n/sfWidgetFormI18nSelectLanguage.class.php
+END

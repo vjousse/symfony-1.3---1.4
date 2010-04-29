@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator
+END
+sfCompareValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator/sfCompareValidator.class.php
+END
+sfStringValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator/sfStringValidator.class.php
+END
+sfEmailValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator/sfEmailValidator.class.php
+END
+sfNumberValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator/sfNumberValidator.class.php
+END
+sfRegexValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator/sfRegexValidator.class.php
+END
+sfValidatorManager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator/sfValidatorManager.class.php
+END
+sfCallbackValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator/sfCallbackValidator.class.php
+END
+sfDateValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator/sfDateValidator.class.php
+END
+sfFileValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator/sfFileValidator.class.php
+END
+sfValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator/sfValidator.class.php
+END
+sfUrlValidator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfCompat10Plugin/lib/validator/sfUrlValidator.class.php
+END

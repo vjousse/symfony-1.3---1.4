@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/24660/tags/RELEASE_1_3_0/test/unit/widget/i18n
+END
+sfWidgetFormI18nSelectCurrencyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/24660/tags/RELEASE_1_3_0/test/unit/widget/i18n/sfWidgetFormI18nSelectCurrencyTest.php
+END
+sfWidgetFormI18nChoiceCountryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/24660/tags/RELEASE_1_3_0/test/unit/widget/i18n/sfWidgetFormI18nChoiceCountryTest.php
+END
+sfWidgetFormI18nSelectCountryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/24660/tags/RELEASE_1_3_0/test/unit/widget/i18n/sfWidgetFormI18nSelectCountryTest.php
+END
+sfWidgetFormI18nSelectLanguageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/24660/tags/RELEASE_1_3_0/test/unit/widget/i18n/sfWidgetFormI18nSelectLanguageTest.php
+END
+sfWidgetFormI18nChoiceCurrencyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/24660/tags/RELEASE_1_3_0/test/unit/widget/i18n/sfWidgetFormI18nChoiceCurrencyTest.php
+END

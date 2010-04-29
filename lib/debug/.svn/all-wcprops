@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/debug
+END
+sfWebDebugPanelView.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/debug/sfWebDebugPanelView.class.php
+END
+sfWebDebug.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/debug/sfWebDebug.class.php
+END
+sfWebDebugPanel.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/debug/sfWebDebugPanel.class.php
+END

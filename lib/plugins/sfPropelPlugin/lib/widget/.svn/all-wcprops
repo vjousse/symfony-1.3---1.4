@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/widget
+END
+sfWidgetFormPropelSelectMany.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/widget/sfWidgetFormPropelSelectMany.class.php
+END
+sfWidgetFormPropelChoiceMany.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/widget/sfWidgetFormPropelChoiceMany.class.php
+END
+sfWidgetFormPropelSelect.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/widget/sfWidgetFormPropelSelect.class.php
+END

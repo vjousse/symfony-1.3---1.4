@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine
+END
+Attachment.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/Attachment.class.php
+END
+ArticleTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/ArticleTable.class.php
+END
+ModelWithNumberInColumnTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/ModelWithNumberInColumnTable.class.php
+END
+FormGeneratorTest3.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/FormGeneratorTest3.class.php
+END
+AttachmentTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/AttachmentTable.class.php
+END
+FormGeneratorTest3Table.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/FormGeneratorTest3Table.class.php
+END
+ModelWithNumberInColumn.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine/ModelWithNumberInColumn.class.php
+END

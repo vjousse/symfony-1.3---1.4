@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1300/tags/1.4.0/generator/classes/propel/engine/database/model
+END
+Column.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/1300/tags/1.4.0/generator/classes/propel/engine/database/model/Column.php
+END
+PhpNameGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/1300/tags/1.4.0/generator/classes/propel/engine/database/model/PhpNameGenerator.php
+END
+ForeignKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/1300/tags/1.4.0/generator/classes/propel/engine/database/model/ForeignKey.php
+END

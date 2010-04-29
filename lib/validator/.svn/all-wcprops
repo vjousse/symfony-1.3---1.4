@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/validator
+END
+sfValidatedFile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/validator/sfValidatedFile.class.php
+END
+sfValidatorFromDescription.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/validator/sfValidatorFromDescription.class.php
+END
+sfValidatorBase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/validator/sfValidatorBase.class.php
+END
+sfValidatorDate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/validator/sfValidatorDate.class.php
+END
+sfValidatorFile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/validator/sfValidatorFile.class.php
+END
+sfValidatorChoiceMany.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/validator/sfValidatorChoiceMany.class.php
+END

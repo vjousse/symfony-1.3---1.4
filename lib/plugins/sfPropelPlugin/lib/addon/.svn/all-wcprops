@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/addon
+END
+sfPropelPager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/addon/sfPropelPager.class.php
+END
+sfPropelDatabaseSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfPropelPlugin/lib/addon/sfPropelDatabaseSchema.class.php
+END

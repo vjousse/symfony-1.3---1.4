@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/24660/tags/RELEASE_1_3_0/test/other/fixtures/propel
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/24660/tags/RELEASE_1_3_0/test/other/fixtures/propel/propel.ini
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/24660/tags/RELEASE_1_3_0/test/other/fixtures/propel/Category.php
+END

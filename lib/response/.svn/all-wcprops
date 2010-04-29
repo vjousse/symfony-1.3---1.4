@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/response
+END
+sfWebResponse.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/response/sfWebResponse.class.php
+END
+sfConsoleResponse.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/response/sfConsoleResponse.class.php
+END

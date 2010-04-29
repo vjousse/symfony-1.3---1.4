@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/lib/pager
+END
+sfDoctrinePager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/plugins/sfDoctrinePlugin/lib/pager/sfDoctrinePager.class.php
+END

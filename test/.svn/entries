@@ -1,0 +1,43 @@
+9
+
+dir
+29325
+http://svn.symfony-project.com/tags/RELEASE_1_3_0/test
+http://svn.symfony-project.com
+
+
+
+2009-12-01T00:19:33.871860Z
+24628
+Kris.Wallsmith
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+unit
+dir
+
+other
+dir
+
+functional
+dir
+
+bin
+dir
+
+bootstrap
+dir
+

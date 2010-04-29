@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/upgrade1.3
+END
+sfTasksUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/upgrade1.3/sfTasksUpgrade.class.php
+END
+sfFormsUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/upgrade1.3/sfFormsUpgrade.class.php
+END
+sfUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/upgrade1.3/sfUpgrade.class.php
+END
+sfPropelUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/upgrade1.3/sfPropelUpgrade.class.php
+END
+sfAssetsUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/upgrade1.3/sfAssetsUpgrade.class.php
+END
+sfTestsUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/upgrade1.3/sfTestsUpgrade.class.php
+END
+sfYamlUpgrade.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/24660/tags/RELEASE_1_3_0/lib/task/project/upgrade1.3/sfYamlUpgrade.class.php
+END
