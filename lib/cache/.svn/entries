@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/cache
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/cache
 http://svn.symfony-project.com
 
 
 
-2009-11-30T21:39:08.359477Z
-24607
-FabianLange
+2010-03-29T08:18:46.918303Z
+28842
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfEAcceleratorCache.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/cache/sfEAcceleratorCache.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -63,7 +63,7 @@ has-props
 sfXCacheCache.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/cache/sfXCacheCache.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -97,7 +97,7 @@ has-props
 sfNoCache.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/cache/sfNoCache.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -134,11 +134,11 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-d71332b377155d5f8c0922528aae86d9
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-04-29T21:57:50.000000Z
+e1ab8e5699e6c7e445021bd68165edce
+2010-03-29T08:18:46.918303Z
+28842
+fabien
 has-props
 
 
@@ -160,12 +160,12 @@ has-props
 
 
 
-5671
+5664
 
 sfFileCache.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/cache/sfFileCache.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -199,7 +199,7 @@ has-props
 sfSQLiteCache.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/cache/sfSQLiteCache.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -233,7 +233,7 @@ has-props
 sfMemcacheCache.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/cache/sfMemcacheCache.class.php
 
 
 
@@ -267,7 +267,7 @@ has-props
 sfAPCCache.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/cache/sfAPCCache.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -301,7 +301,7 @@ has-props
 sfFunctionCache.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/cache/sfFunctionCache.class.php
 
 
 2010-04-29T21:56:57.000000Z

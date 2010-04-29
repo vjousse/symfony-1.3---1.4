@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/exception/data
 http://svn.symfony-project.com
 
 
 
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-03-21T10:09:26.186811Z
+28640
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 error.html.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/error.html.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -60,44 +60,10 @@ has-props
 
 2217
 
-exception.xml.php
-file
-
-
-
-
-2010-04-29T21:55:00.000000Z
-38c6bbd57a236e109ced780f26a65cb4
-2008-10-14T21:45:36.141152Z
-12191
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-481
-
 exception.atom.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/exception.atom.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -128,16 +94,16 @@ has-props
 
 67
 
-exception.html.php
+exception.xml.php
 file
 
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/exception.xml.php
 
 
-
-2010-04-29T21:56:57.000000Z
-59622075ec35df4d476af895d83549bd
-2009-11-12T11:07:44.003356Z
-23810
+2010-04-29T21:55:00.000000Z
+38c6bbd57a236e109ced780f26a65cb4
+2008-10-14T21:45:36.141152Z
+12191
 Kris.Wallsmith
 has-props
 
@@ -160,12 +126,12 @@ has-props
 
 
 
-5323
+481
 
 error.json.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/error.json.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -196,10 +162,44 @@ has-props
 
 115
 
-error.rdf.php
+exception.html.php
 file
 
 
+
+
+2010-04-29T21:57:50.000000Z
+33a1bf137dc1a48cad6e231539f0918e
+2010-03-21T10:09:26.186811Z
+28640
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5387
+
+error.rdf.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/error.rdf.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -233,7 +233,7 @@ has-props
 error.js.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/error.js.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -267,7 +267,7 @@ has-props
 exception.json.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/exception.json.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -301,7 +301,7 @@ has-props
 error.txt.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/error.txt.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -335,7 +335,7 @@ has-props
 exception.rdf.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/exception.rdf.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -369,7 +369,7 @@ has-props
 exception.js.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/exception.js.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -403,7 +403,7 @@ has-props
 exception.txt.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/exception.txt.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -437,7 +437,7 @@ has-props
 error.css.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/error.css.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -471,7 +471,7 @@ has-props
 unavailable.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/unavailable.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -505,7 +505,7 @@ has-props
 exception.css.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/exception.css.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -539,7 +539,7 @@ has-props
 error.xml.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/error.xml.php
 
 
 2010-04-29T21:55:00.000000Z
@@ -573,7 +573,7 @@ has-props
 error.atom.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/data/error.atom.php
 
 
 2010-04-29T21:55:00.000000Z

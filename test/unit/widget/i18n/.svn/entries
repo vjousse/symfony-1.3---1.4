@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_3/test/unit/widget/i18n
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/test/unit/widget/i18n
 http://svn.symfony-project.com
 
 
@@ -97,7 +97,7 @@ has-props
 sfWidgetFormI18nChoiceCountryTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_3/test/unit/widget/i18n/sfWidgetFormI18nChoiceCountryTest.php
 
 
 2010-04-29T21:57:36.000000Z
@@ -199,7 +199,7 @@ has-props
 sfWidgetFormI18nChoiceCurrencyTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_3/test/unit/widget/i18n/sfWidgetFormI18nChoiceCurrencyTest.php
 
 
 2010-04-29T21:57:36.000000Z

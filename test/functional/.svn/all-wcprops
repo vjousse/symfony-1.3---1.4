@@ -1,5 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/!svn/ver/28266/tags/RELEASE_1_4_3/test/functional
+/!svn/ver/29003/tags/RELEASE_1_4_4/test/functional
+END
+cacheTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/29003/tags/RELEASE_1_4_4/test/functional/cacheTest.php
 END

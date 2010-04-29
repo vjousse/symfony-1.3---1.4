@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/extract
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/i18n/extract
 http://svn.symfony-project.com
 
 
 
-2009-01-19T08:32:06.934610Z
-14872
+2010-03-29T09:37:05.826722Z
+28848
 fabien
 
 
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfI18nExtractorInterface.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/extract/sfI18nExtractorInterface.class.php
 
 
 2010-04-29T21:55:03.000000Z
@@ -63,7 +63,7 @@ has-props
 sfI18nApplicationExtract.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/extract/sfI18nApplicationExtract.class.php
 
 
 2010-04-29T21:55:03.000000Z
@@ -97,7 +97,7 @@ has-props
 sfI18nYamlExtractor.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/extract/sfI18nYamlExtractor.class.php
 
 
 2010-04-29T21:55:03.000000Z
@@ -131,7 +131,7 @@ has-props
 sfI18nModuleExtract.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/extract/sfI18nModuleExtract.class.php
 
 
 2010-04-29T21:55:03.000000Z
@@ -168,11 +168,11 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-6b4d98c49c3517fa28065e1d338fe9a7
-2008-05-21T00:58:19.096741Z
-9128
-Carl.Vondrick
+2010-04-29T21:57:50.000000Z
+7c5c48b17f6b38859f1d515b5d7c39ab
+2010-03-29T08:25:39.035366Z
+28843
+fabien
 has-props
 
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-2439
+2461
 
 sfI18nYamlGeneratorExtractor.class.php
 file
@@ -202,11 +202,11 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-61cf232d171442439028aaaade0cb63f
-2008-05-21T00:58:19.096741Z
-9128
-Carl.Vondrick
+2010-04-29T21:57:50.000000Z
+e018a9b812954e63b486c1848e202603
+2010-03-29T09:37:05.826722Z
+28848
+fabien
 has-props
 
 
@@ -228,12 +228,12 @@ has-props
 
 
 
-2187
+2450
 
 sfI18nYamlValidateExtractor.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/extract/sfI18nYamlValidateExtractor.class.php
 
 
 2010-04-29T21:55:03.000000Z
@@ -267,7 +267,7 @@ has-props
 sfI18nExtract.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/extract/sfI18nExtract.class.php
 
 
 2010-04-29T21:55:03.000000Z

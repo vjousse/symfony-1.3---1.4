@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/exception
 http://svn.symfony-project.com
 
 
 
-2009-11-14T13:33:03.194761Z
-23901
-bschussek
+2010-03-21T10:09:26.186811Z
+28640
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -26,78 +26,10 @@ svn:special svn:externals svn:needs-lock
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
-sfRenderException.class.php
-file
-
-
-
-
-2010-04-29T21:55:01.000000Z
-7ae64acd2fa7bacfc37a1b1771302555
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-700
-
-sfFileException.class.php
-file
-
-
-
-
-2010-04-29T21:55:01.000000Z
-0331ed6d29e0739d0194de661844d919
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-708
-
 sfException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfException.class.php
 
 
 
@@ -128,10 +60,78 @@ has-props
 
 12271
 
+sfFileException.class.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfFileException.class.php
+
+
+2010-04-29T21:55:01.000000Z
+0331ed6d29e0739d0194de661844d919
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+708
+
+sfRenderException.class.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfRenderException.class.php
+
+
+2010-04-29T21:55:01.000000Z
+7ae64acd2fa7bacfc37a1b1771302555
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+700
+
 sfError404Exception.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfError404Exception.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -165,7 +165,7 @@ has-props
 sfControllerException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfControllerException.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -196,44 +196,10 @@ has-props
 
 735
 
-sfStopException.class.php
-file
-
-
-
-
-2010-04-29T21:55:01.000000Z
-0de9a9bb1631278dbe39408f51b602c7
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-686
-
 sfFilterException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfFilterException.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -264,10 +230,44 @@ has-props
 
 738
 
+sfStopException.class.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfStopException.class.php
+
+
+2010-04-29T21:55:01.000000Z
+0de9a9bb1631278dbe39408f51b602c7
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+686
+
 sfInitializationException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfInitializationException.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -301,7 +301,7 @@ has-props
 sfCacheException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfCacheException.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -332,78 +332,10 @@ has-props
 
 703
 
-sfForwardException.class.php
-file
-
-
-
-
-2010-04-29T21:55:01.000000Z
-dd2223c71390d25d1c1f51b31635873c
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-730
-
-sfDatabaseException.class.php
-file
-
-
-
-
-2010-04-29T21:55:01.000000Z
-8b5362a4d8edc7dc150d54adf586edb5
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-706
-
 sfStorageException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfStorageException.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -434,14 +366,14 @@ has-props
 
 779
 
-sfFactoryException.class.php
+sfDatabaseException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfDatabaseException.class.php
 
 
 2010-04-29T21:55:01.000000Z
-0a1e5eb66d5d603a6fb3189d580d24dd
+8b5362a4d8edc7dc150d54adf586edb5
 2009-11-12T11:07:44.003356Z
 23810
 Kris.Wallsmith
@@ -466,12 +398,49 @@ has-props
 
 
 
-755
+706
+
+sfForwardException.class.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfForwardException.class.php
+
+
+2010-04-29T21:55:01.000000Z
+dd2223c71390d25d1c1f51b31635873c
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+730
+
+data
+dir
 
 sfConfigurationException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfConfigurationException.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -502,13 +471,44 @@ has-props
 
 748
 
-data
-dir
+sfFactoryException.class.php
+file
+
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfFactoryException.class.php
+
+
+2010-04-29T21:55:01.000000Z
+0a1e5eb66d5d603a6fb3189d580d24dd
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+755
 
 sfSecurityException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfSecurityException.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -542,7 +542,7 @@ has-props
 sfParseException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfParseException.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -576,7 +576,7 @@ has-props
 sfViewException.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/exception/sfViewException.class.php
 
 
 2010-04-29T21:55:01.000000Z

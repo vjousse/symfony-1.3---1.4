@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_3/lib/test
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/test
 http://svn.symfony-project.com
 
 
 
-2010-02-10T19:46:03.288740Z
-27845
-Kris.Wallsmith
+2010-03-21T10:20:44.993417Z
+28641
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -29,14 +29,14 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfTestFunctionalBase.class.php
 file
 
-http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/test/sfTestFunctionalBase.class.php
 
 
-2010-04-29T21:57:26.000000Z
-5137f92c8f754d1d681d5183cc0bb0ee
-2010-02-10T19:46:03.288740Z
-27845
-Kris.Wallsmith
+
+2010-04-29T21:57:50.000000Z
+5b8c6017f4dbb4243ba899f28736a67e
+2010-03-21T10:20:44.993417Z
+28641
+fabien
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-13258
+13250
 
 sfTesterRequest.class.php
 file

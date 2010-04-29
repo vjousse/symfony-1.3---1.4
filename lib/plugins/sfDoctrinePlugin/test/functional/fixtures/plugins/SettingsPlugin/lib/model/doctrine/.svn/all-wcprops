@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/29003/tags/RELEASE_1_4_4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/plugins/SettingsPlugin/lib/model/doctrine
+END
+PluginSetting.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/!svn/ver/29003/tags/RELEASE_1_4_4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/plugins/SettingsPlugin/lib/model/doctrine/PluginSetting.class.php
+END
+PluginSettingTable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/!svn/ver/29003/tags/RELEASE_1_4_4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/plugins/SettingsPlugin/lib/model/doctrine/PluginSettingTable.class.php
+END

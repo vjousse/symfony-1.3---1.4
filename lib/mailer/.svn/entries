@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/mailer
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/mailer
 http://svn.symfony-project.com
 
 
 
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-03-29T08:13:57.500274Z
+28841
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 sfMailerMessageLoggerPlugin.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/mailer/sfMailerMessageLoggerPlugin.class.php
 
 
 2010-04-29T21:55:01.000000Z
@@ -66,11 +66,11 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-bcf3f991fc2dae2906798d176cd8420e
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+2010-04-29T21:57:50.000000Z
+7739916c832276155cedca5867c49d2c
+2010-03-29T08:13:57.500274Z
+28841
+fabien
 has-props
 
 
@@ -92,5 +92,5 @@ has-props
 
 
 
-8791
+8963
 

@@ -2,7 +2,7 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_3/lib/plugins/sfDoctrinePlugin/test/functional
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/plugins/sfDoctrinePlugin/test/functional
 http://svn.symfony-project.com
 
 
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 AdminGenBrowser.class.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_3/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenBrowser.class.php
 
 
 2010-04-29T21:57:38.000000Z
@@ -236,14 +236,14 @@ has-props
 I18nTest.php
 file
 
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/I18nTest.php
 
 
-2010-04-29T21:56:58.000000Z
-cfb1c1b27af0dcee2d8530214ee28955
-2009-11-15T13:45:31.320424Z
-23967
-FabianLange
+
+2010-04-29T21:57:51.000000Z
+07b7f6e456638805046b685bc714f4fd
+2010-04-06T11:30:44.277471Z
+28992
+Kris.Wallsmith
 has-props
 
 
@@ -265,7 +265,7 @@ has-props
 
 
 
-5283
+5340
 
 AdminGenTest.php
 file

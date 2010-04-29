@@ -1,7 +1,7 @@
 END
-AdminGenBrowser.class.php
+I18nTest.php
 K 25
 svn:wc:ra_dav:version-url
-V 105
-/!svn/ver/28266/tags/RELEASE_1_4_3/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenBrowser.class.php
+V 92
+/!svn/ver/29003/tags/RELEASE_1_4_4/lib/plugins/sfDoctrinePlugin/test/functional/I18nTest.php
 END

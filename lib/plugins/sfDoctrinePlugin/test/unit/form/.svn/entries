@@ -2,13 +2,13 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/plugins/sfDoctrinePlugin/test/unit/form
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/plugins/sfDoctrinePlugin/test/unit/form
 http://svn.symfony-project.com
 
 
 
-2010-02-11T18:12:56.431500Z
-27915
+2010-04-06T11:30:44.277471Z
+28992
 Kris.Wallsmith
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2010-04-29T21:57:26.000000Z
-9be710dc63b65582659b1b2d3ac91c30
-2010-02-08T18:18:44.740130Z
-27748
+2010-04-29T21:57:50.000000Z
+7e63541ecf52d5a6675cc41b45d02f4e
+2010-04-06T11:30:44.277471Z
+28992
 Kris.Wallsmith
 has-props
 
@@ -58,12 +58,12 @@ has-props
 
 
 
-4186
+4949
 
 sfFormDoctrineTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/plugins/sfDoctrinePlugin/test/unit/form/sfFormDoctrineTest.php
 
 
 2010-04-29T21:57:26.000000Z

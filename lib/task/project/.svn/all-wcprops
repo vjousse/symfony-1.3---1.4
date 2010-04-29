@@ -1,5 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/!svn/ver/28266/tags/RELEASE_1_4_3/lib/task/project
+/!svn/ver/29003/tags/RELEASE_1_4_4/lib/task/project
+END
+sfProjectOptimizeTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/29003/tags/RELEASE_1_4_4/lib/task/project/sfProjectOptimizeTask.class.php
 END

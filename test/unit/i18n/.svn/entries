@@ -2,14 +2,14 @@
 
 dir
 29325
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n
+http://svn.symfony-project.com/tags/RELEASE_1_4_4/test/unit/i18n
 http://svn.symfony-project.com
 
 
 
-2009-11-30T23:49:47.071555Z
-24622
-FabianLange
+2010-03-29T10:08:13.782410Z
+28850
+fabien
 
 
 svn:special svn:externals svn:needs-lock
@@ -29,7 +29,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 dataTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/dataTest.php
 
 
 2010-04-29T21:54:59.000000Z
@@ -63,7 +63,7 @@ has-props
 sfChoiceFormatTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfChoiceFormatTest.php
 
 
 2010-04-29T21:54:59.000000Z
@@ -97,7 +97,7 @@ has-props
 sfMessageSource_FileTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfMessageSource_FileTest.php
 
 
 2010-04-29T21:54:59.000000Z
@@ -131,7 +131,7 @@ has-props
 sfMessageSourceTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfMessageSourceTest.php
 
 
 2010-04-29T21:54:59.000000Z
@@ -165,7 +165,7 @@ has-props
 sfMessageSource_SQLiteTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfMessageSource_SQLiteTest.php
 
 
 2010-04-29T21:54:59.000000Z
@@ -205,7 +205,7 @@ dir
 sfMessageSource_AggregateTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfMessageSource_AggregateTest.php
 
 
 2010-04-29T21:54:59.000000Z
@@ -239,7 +239,7 @@ has-props
 sfMessageSource_XLIFFTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfMessageSource_XLIFFTest.php
 
 
 2010-04-29T21:54:59.000000Z
@@ -273,7 +273,7 @@ has-props
 sfNumberFormatInfoTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfNumberFormatInfoTest.php
 
 
 2010-04-29T21:54:59.000000Z
@@ -307,7 +307,7 @@ has-props
 sfCultureInfoTest.php
 file
 
-
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfCultureInfoTest.php
 
 
 2010-04-29T21:54:59.000000Z
@@ -344,11 +344,11 @@ file
 
 
 
-2010-04-29T21:56:57.000000Z
-4aa872204d48748f1b89e391c3fb0334
-2009-11-30T23:49:47.071555Z
-24622
-FabianLange
+2010-04-29T21:57:50.000000Z
+01a7ed06bf30d45de2cc60fe7381be3c
+2010-03-23T12:58:20.436081Z
+28703
+Kris.Wallsmith
 has-props
 
 
@@ -370,5 +370,5 @@ has-props
 
 
 
-6868
+7496
 
