@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/lib/autoload
 http://svn.symfony-project.com
 
@@ -28,7 +28,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 sfCoreAutoload.class.php
 file
-
+29325
 
 
 
@@ -62,7 +62,7 @@ has-props
 
 sfSimpleAutoload.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/autoload/sfSimpleAutoload.class.php
 
 
@@ -96,7 +96,7 @@ has-props
 
 sfAutoload.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/autoload/sfAutoload.class.php
 
 
@@ -130,7 +130,7 @@ has-props
 
 sfAutoloadAgain.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/autoload/sfAutoloadAgain.class.php
 
 

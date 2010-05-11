@@ -3,9 +3,3 @@ svn:wc:ra_dav:version-url
 V 41
 /!svn/ver/29009/branches/1.4/lib/autoload
 END
-sfCoreAutoload.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/!svn/ver/29009/branches/1.4/lib/autoload/sfCoreAutoload.class.php
-END

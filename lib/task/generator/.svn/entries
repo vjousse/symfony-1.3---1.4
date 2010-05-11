@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/lib/task/generator
 http://svn.symfony-project.com
 
@@ -28,7 +28,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 sfGenerateAppTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/generator/sfGenerateAppTask.class.php
 
 
@@ -62,7 +62,7 @@ has-props
 
 sfGenerateTaskTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/generator/sfGenerateTaskTask.class.php
 
 
@@ -99,7 +99,7 @@ dir
 
 sfGenerateModuleTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/generator/sfGenerateModuleTask.class.php
 
 
@@ -133,7 +133,7 @@ has-props
 
 sfGenerateProjectTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/generator/sfGenerateProjectTask.class.php
 
 
@@ -167,7 +167,7 @@ has-props
 
 sfGeneratorBaseTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/generator/sfGeneratorBaseTask.class.php
 
 

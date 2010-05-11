@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/test/unit/widget
 http://svn.symfony-project.com
 
@@ -31,7 +31,7 @@ dir
 
 sfWidgetFormInputHiddenTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormInputHiddenTest.php
 
 
@@ -63,43 +63,9 @@ has-props
 
 631
 
-sfWidgetFormDateTest.php
-file
-
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormDateTest.php
-
-
-2010-04-29T21:54:59.000000Z
-e742f333bcb3e85a3799cb5ca02f7c22
-2009-06-25T06:35:13.766150Z
-19531
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7983
-
 sfWidgetFormTextareaTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormTextareaTest.php
 
 
@@ -131,17 +97,17 @@ has-props
 
 1102
 
-sfWidgetFormSelectTest.php
+sfWidgetFormDateTest.php
 file
+29325
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormDateTest.php
 
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormSelectTest.php
 
-
-
-bf678ac3f5b4b3c22126967cd8f34726
-2009-11-16T13:06:31.897444Z
-24012
-bschussek
+2010-04-29T21:54:59.000000Z
+e742f333bcb3e85a3799cb5ca02f7c22
+2009-06-25T06:35:13.766150Z
+19531
+fabien
 has-props
 
 
@@ -163,11 +129,11 @@ has-props
 
 
 
-6872
+7983
 
 sfWidgetFormTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormTest.php
 
 
@@ -199,9 +165,43 @@ has-props
 
 6062
 
+sfWidgetFormSelectTest.php
+file
+29325
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormSelectTest.php
+
+
+
+bf678ac3f5b4b3c22126967cd8f34726
+2009-11-16T13:06:31.897444Z
+24012
+bschussek
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6872
+
 sfWidgetFormSchemaFormatterListTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormSchemaFormatterListTest.php
 
 
@@ -235,7 +235,7 @@ has-props
 
 sfWidgetFormInputPasswordTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormInputPasswordTest.php
 
 
@@ -269,7 +269,7 @@ has-props
 
 sfWidgetFormFilterDateTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormFilterDateTest.php
 
 
@@ -303,7 +303,7 @@ has-props
 
 sfWidgetFormSchemaFormatterTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormSchemaFormatterTest.php
 
 
@@ -337,7 +337,7 @@ has-props
 
 sfWidgetFormSelectCheckboxTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/test/unit/widget/sfWidgetFormSelectCheckboxTest.php
 
 
@@ -371,7 +371,7 @@ has-props
 
 sfWidgetFormSchemaForEachTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormSchemaForEachTest.php
 
 
@@ -405,7 +405,7 @@ has-props
 
 sfWidgetFormInputFileEditableTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormInputFileEditableTest.php
 
 
@@ -437,43 +437,9 @@ has-props
 
 2946
 
-sfWidgetFormDateRangeTest.php
-file
-
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormDateRangeTest.php
-
-
-
-123785e9a938cfc1c6d36da24f098d8c
-2009-11-16T13:33:34.994617Z
-24015
-bschussek
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1428
-
 sfWidgetFormChoiceTest.php
 file
-
+29325
 
 
 
@@ -505,9 +471,43 @@ has-props
 
 5420
 
+sfWidgetFormDateRangeTest.php
+file
+29325
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormDateRangeTest.php
+
+
+
+123785e9a938cfc1c6d36da24f098d8c
+2009-11-16T13:33:34.994617Z
+24015
+bschussek
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1428
+
 sfWidgetTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetTest.php
 
 
@@ -541,7 +541,7 @@ has-props
 
 sfWidgetFormDateTimeTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormDateTimeTest.php
 
 
@@ -575,7 +575,7 @@ has-props
 
 sfWidgetFormSchemaFormatterTableTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormSchemaFormatterTableTest.php
 
 
@@ -609,7 +609,7 @@ has-props
 
 sfWidgetFormSelectRadioTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/test/unit/widget/sfWidgetFormSelectRadioTest.php
 
 
@@ -643,7 +643,7 @@ has-props
 
 sfWidgetFormTimeTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormTimeTest.php
 
 
@@ -677,7 +677,7 @@ has-props
 
 sfWidgetFormInputFileTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormInputFileTest.php
 
 
@@ -711,7 +711,7 @@ has-props
 
 sfWidgetFormSchemaTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/test/unit/widget/sfWidgetFormSchemaTest.php
 
 
@@ -745,7 +745,7 @@ has-props
 
 sfWidgetFormSchemaDecoratorTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormSchemaDecoratorTest.php
 
 
@@ -779,7 +779,7 @@ has-props
 
 sfWidgetFormInputTextTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormInputTextTest.php
 
 
@@ -813,7 +813,7 @@ has-props
 
 sfWidgetFormSelectManyTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormSelectManyTest.php
 
 
@@ -847,7 +847,7 @@ has-props
 
 sfWidgetFormFilterInputTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormFilterInputTest.php
 
 
@@ -881,7 +881,7 @@ has-props
 
 sfWidgetFormInputCheckboxTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/sfWidgetFormInputCheckboxTest.php
 
 

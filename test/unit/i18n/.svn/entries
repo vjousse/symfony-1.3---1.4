@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/test/unit/i18n
 http://svn.symfony-project.com
 
@@ -28,7 +28,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 dataTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/dataTest.php
 
 
@@ -62,7 +62,7 @@ has-props
 
 sfChoiceFormatTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfChoiceFormatTest.php
 
 
@@ -96,7 +96,7 @@ has-props
 
 sfMessageSource_FileTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfMessageSource_FileTest.php
 
 
@@ -130,7 +130,7 @@ has-props
 
 sfMessageSourceTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfMessageSourceTest.php
 
 
@@ -164,7 +164,7 @@ has-props
 
 sfMessageSource_SQLiteTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfMessageSource_SQLiteTest.php
 
 
@@ -204,7 +204,7 @@ dir
 
 sfMessageSource_AggregateTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfMessageSource_AggregateTest.php
 
 
@@ -238,7 +238,7 @@ has-props
 
 sfMessageSource_XLIFFTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfMessageSource_XLIFFTest.php
 
 
@@ -272,7 +272,7 @@ has-props
 
 sfNumberFormatInfoTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfNumberFormatInfoTest.php
 
 
@@ -306,7 +306,7 @@ has-props
 
 sfCultureInfoTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/i18n/sfCultureInfoTest.php
 
 
@@ -340,7 +340,7 @@ has-props
 
 sfI18NTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_4/test/unit/i18n/sfI18NTest.php
 
 

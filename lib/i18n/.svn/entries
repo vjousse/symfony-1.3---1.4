@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/lib/i18n
 http://svn.symfony-project.com
 
@@ -26,43 +26,9 @@ svn:special svn:externals svn:needs-lock
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
-sfMessageFormat.class.php
-file
-
-http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageFormat.class.php
-
-
-
-fa8c75acaa38670bef212caa6796d2e7
-2009-11-30T23:49:47.071555Z
-24622
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6846
-
 sfMessageSource_XLIFF.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageSource_XLIFF.class.php
 
 
@@ -94,9 +60,43 @@ has-props
 
 11663
 
+sfMessageFormat.class.php
+file
+29325
+http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageFormat.class.php
+
+
+
+fa8c75acaa38670bef212caa6796d2e7
+2009-11-30T23:49:47.071555Z
+24622
+FabianLange
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6846
+
 sfCultureInfo.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfCultureInfo.class.php
 
 
@@ -128,9 +128,12 @@ has-props
 
 22283
 
+Gettext
+dir
+
 sfNumberFormat.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/i18n/sfNumberFormat.class.php
 
 
@@ -162,12 +165,9 @@ has-props
 
 9031
 
-Gettext
-dir
-
 sfChoiceFormat.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfChoiceFormat.class.php
 
 
@@ -201,7 +201,7 @@ has-props
 
 sfMessageSource_File.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageSource_File.class.php
 
 
@@ -235,7 +235,7 @@ has-props
 
 sfMessageSource.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageSource.class.php
 
 
@@ -269,7 +269,7 @@ has-props
 
 sfMessageSource_gettext.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageSource_gettext.class.php
 
 
@@ -303,7 +303,7 @@ has-props
 
 sfMessageSource_Aggregate.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageSource_Aggregate.class.php
 
 
@@ -337,7 +337,7 @@ has-props
 
 sfNumberFormatInfo.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/i18n/sfNumberFormatInfo.class.php
 
 
@@ -371,7 +371,7 @@ has-props
 
 sfIMessageSource.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfIMessageSource.class.php
 
 
@@ -405,7 +405,7 @@ has-props
 
 sfI18N.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/i18n/sfI18N.class.php
 
 
@@ -439,7 +439,7 @@ has-props
 
 sfDateTimeFormatInfo.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfDateTimeFormatInfo.class.php
 
 
@@ -476,7 +476,7 @@ dir
 
 sfDateFormat.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfDateFormat.class.php
 
 
@@ -510,7 +510,7 @@ has-props
 
 sfMessageSource_SQLite.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageSource_SQLite.class.php
 
 
@@ -547,7 +547,7 @@ dir
 
 sfMessageSource_Database.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageSource_Database.class.php
 
 
@@ -581,7 +581,7 @@ has-props
 
 sfMessageSource_MySQL.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/i18n/sfMessageSource_MySQL.class.php
 
 

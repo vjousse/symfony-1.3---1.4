@@ -3,9 +3,3 @@ svn:wc:ra_dav:version-url
 V 46
 /!svn/ver/29285/branches/1.4/test/unit/request
 END
-sfWebRequestTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/!svn/ver/29285/branches/1.4/test/unit/request/sfWebRequestTest.php
-END

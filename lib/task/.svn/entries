@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/lib/task
 http://svn.symfony-project.com
 
@@ -26,18 +26,15 @@ svn:special svn:externals svn:needs-lock
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
-i18n
-dir
-
 test
 dir
 
-app
+i18n
 dir
 
 sfBaseTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/sfBaseTask.class.php
 
 
@@ -69,15 +66,18 @@ has-props
 
 11585
 
-configure
+app
 dir
 
 log
 dir
 
+configure
+dir
+
 sfTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/sfTask.class.php
 
 
@@ -129,7 +129,7 @@ dir
 
 sfFilesystem.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/sfFilesystem.class.php
 
 
@@ -163,7 +163,7 @@ has-props
 
 sfCommandApplicationTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/sfCommandApplicationTask.class.php
 
 

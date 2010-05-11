@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/lib/generator
 http://svn.symfony-project.com
 
@@ -28,7 +28,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 sfModelGeneratorConfiguration.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator/sfModelGeneratorConfiguration.class.php
 
 
@@ -62,7 +62,7 @@ has-props
 
 sfGeneratorManager.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator/sfGeneratorManager.class.php
 
 
@@ -96,7 +96,7 @@ has-props
 
 sfModelGeneratorConfigurationField.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator/sfModelGeneratorConfigurationField.class.php
 
 
@@ -130,7 +130,7 @@ has-props
 
 sfGenerator.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator/sfGenerator.class.php
 
 
@@ -164,7 +164,7 @@ has-props
 
 sfModelGenerator.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/generator/sfModelGenerator.class.php
 
 
@@ -198,7 +198,7 @@ has-props
 
 sfModelGeneratorHelper.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/generator/sfModelGeneratorHelper.class.php
 
 

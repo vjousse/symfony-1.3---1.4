@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional
 http://svn.symfony-project.com
 
@@ -28,7 +28,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 AdminGenBrowser.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_3/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenBrowser.class.php
 
 
@@ -62,7 +62,7 @@ has-props
 
 FormGeneratorTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/plugins/sfDoctrinePlugin/test/functional/FormGeneratorTest.php
 
 
@@ -99,7 +99,7 @@ dir
 
 PagerTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/plugins/sfDoctrinePlugin/test/functional/PagerTest.php
 
 
@@ -133,7 +133,7 @@ has-props
 
 RouteTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/RouteTest.php
 
 
@@ -167,7 +167,7 @@ has-props
 
 ActionRedirectTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/ActionRedirectTest.php
 
 
@@ -201,7 +201,7 @@ has-props
 
 sfDoctrineRecordTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/sfDoctrineRecordTest.php
 
 
@@ -235,7 +235,7 @@ has-props
 
 I18nTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/plugins/sfDoctrinePlugin/test/functional/I18nTest.php
 
 
@@ -269,7 +269,7 @@ has-props
 
 AdminGenTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenTest.php
 
 
@@ -303,7 +303,7 @@ has-props
 
 FormTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/FormTest.php
 
 
@@ -340,7 +340,7 @@ dir
 
 UploadTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/UploadTest.php
 
 
@@ -374,7 +374,7 @@ has-props
 
 EnvironmentSetupTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/EnvironmentSetupTest.php
 
 
@@ -408,7 +408,7 @@ has-props
 
 UniqueTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/UniqueTest.php
 
 

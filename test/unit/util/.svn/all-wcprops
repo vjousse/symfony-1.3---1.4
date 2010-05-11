@@ -3,9 +3,3 @@ svn:wc:ra_dav:version-url
 V 43
 /!svn/ver/29158/branches/1.4/test/unit/util
 END
-sfDomCssSelectorTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/!svn/ver/29158/branches/1.4/test/unit/util/sfDomCssSelectorTest.php
-END

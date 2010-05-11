@@ -3,9 +3,3 @@ svn:wc:ra_dav:version-url
 V 39
 /!svn/ver/29309/branches/1.4/lib/widget
 END
-sfWidgetFormChoiceBase.class.php
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/!svn/ver/29309/branches/1.4/lib/widget/sfWidgetFormChoiceBase.class.php
-END

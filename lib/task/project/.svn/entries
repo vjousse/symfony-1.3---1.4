@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/lib/task/project
 http://svn.symfony-project.com
 
@@ -28,7 +28,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 sfProjectDisableTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectDisableTask.class.php
 
 
@@ -62,7 +62,7 @@ has-props
 
 sfProjectSendEmailsTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectSendEmailsTask.class.php
 
 
@@ -96,7 +96,7 @@ has-props
 
 sfProjectEnableTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectEnableTask.class.php
 
 
@@ -130,7 +130,7 @@ has-props
 
 sfProjectValidateTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectValidateTask.class.php
 
 
@@ -164,7 +164,7 @@ has-props
 
 sfProjectPermissionsTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectPermissionsTask.class.php
 
 
@@ -198,7 +198,7 @@ has-props
 
 sfProjectDeployTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectDeployTask.class.php
 
 
@@ -235,7 +235,7 @@ dir
 
 sfProjectClearControllersTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/sfProjectClearControllersTask.class.php
 
 
@@ -269,7 +269,7 @@ has-props
 
 sfProjectOptimizeTask.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_4/lib/task/project/sfProjectOptimizeTask.class.php
 
 

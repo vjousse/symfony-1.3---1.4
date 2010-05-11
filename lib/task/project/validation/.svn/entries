@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/lib/task/project/validation
 http://svn.symfony-project.com
 
@@ -28,7 +28,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 sfDeprecatedSettingsValidation.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/project/validation/sfDeprecatedSettingsValidation.class.php
 
 
@@ -62,7 +62,7 @@ has-props
 
 sfDeprecatedPluginsValidation.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/project/validation/sfDeprecatedPluginsValidation.class.php
 
 
@@ -96,7 +96,7 @@ has-props
 
 sfDeprecatedHelpersValidation.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/project/validation/sfDeprecatedHelpersValidation.class.php
 
 
@@ -130,7 +130,7 @@ has-props
 
 sfDeprecatedMethodsValidation.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/project/validation/sfDeprecatedMethodsValidation.class.php
 
 
@@ -164,7 +164,7 @@ has-props
 
 sfDeprecatedConfigurationFilesValidation.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/validation/sfDeprecatedConfigurationFilesValidation.class.php
 
 
@@ -198,7 +198,7 @@ has-props
 
 sfDeprecatedClassesValidation.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/project/validation/sfDeprecatedClassesValidation.class.php
 
 
@@ -232,7 +232,7 @@ has-props
 
 sfParameterHolderValidation.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_2/lib/task/project/validation/sfParameterHolderValidation.class.php
 
 
@@ -266,7 +266,7 @@ has-props
 
 sfValidation.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/task/project/validation/sfValidation.class.php
 
 

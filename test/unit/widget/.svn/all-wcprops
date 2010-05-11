@@ -3,9 +3,3 @@ svn:wc:ra_dav:version-url
 V 45
 /!svn/ver/29309/branches/1.4/test/unit/widget
 END
-sfWidgetFormChoiceTest.php
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/!svn/ver/29309/branches/1.4/test/unit/widget/sfWidgetFormChoiceTest.php
-END

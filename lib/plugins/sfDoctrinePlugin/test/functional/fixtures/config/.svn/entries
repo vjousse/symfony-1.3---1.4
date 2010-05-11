@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config
 http://svn.symfony-project.com
 
@@ -28,7 +28,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 schema.yml
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config/schema.yml
 
 
@@ -62,7 +62,7 @@ Jonathan.Wage
 
 rsync_exclude.txt
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config/rsync_exclude.txt
 
 
@@ -99,7 +99,7 @@ dir
 
 databases.yml
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config/databases.yml
 
 
@@ -133,7 +133,7 @@ Jonathan.Wage
 
 ProjectConfiguration.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config/ProjectConfiguration.class.php
 
 
@@ -167,7 +167,7 @@ has-props
 
 properties.ini
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/config/properties.ini
 
 

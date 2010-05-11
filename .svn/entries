@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4
 http://svn.symfony-project.com
 
@@ -31,7 +31,7 @@ dir
 
 LICENSE
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/LICENSE
 
 
@@ -68,7 +68,7 @@ dir
 
 package.xml.tmpl
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/package.xml.tmpl
 
 
@@ -105,7 +105,7 @@ dir
 
 CHANGELOG
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/CHANGELOG
 
 
@@ -139,7 +139,7 @@ Kris.Wallsmith
 
 COPYRIGHT
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/COPYRIGHT
 
 
@@ -176,7 +176,7 @@ dir
 
 README
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/README
 
 

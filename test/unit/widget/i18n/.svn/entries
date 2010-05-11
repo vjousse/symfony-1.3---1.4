@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/test/unit/widget/i18n
 http://svn.symfony-project.com
 
@@ -28,7 +28,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 sfWidgetFormI18nDateTimeTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/i18n/sfWidgetFormI18nDateTimeTest.php
 
 
@@ -62,7 +62,7 @@ has-props
 
 sfWidgetFormI18nDateTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/i18n/sfWidgetFormI18nDateTest.php
 
 
@@ -96,7 +96,7 @@ has-props
 
 sfWidgetFormI18nChoiceCountryTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_3/test/unit/widget/i18n/sfWidgetFormI18nChoiceCountryTest.php
 
 
@@ -130,7 +130,7 @@ has-props
 
 sfWidgetFormI18nChoiceLanguageTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/i18n/sfWidgetFormI18nChoiceLanguageTest.php
 
 
@@ -164,7 +164,7 @@ has-props
 
 sfWidgetFormI18nTimeTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/i18n/sfWidgetFormI18nTimeTest.php
 
 
@@ -198,7 +198,7 @@ has-props
 
 sfWidgetFormI18nChoiceCurrencyTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_3/test/unit/widget/i18n/sfWidgetFormI18nChoiceCurrencyTest.php
 
 
@@ -232,7 +232,7 @@ has-props
 
 sfWidgetFormI18nChoiceTimezoneTest.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/test/unit/widget/i18n/sfWidgetFormI18nChoiceTimezoneTest.php
 
 
