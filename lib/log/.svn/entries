@@ -1,7 +1,7 @@
 9
 
 dir
-29325
+29410
 http://svn.symfony-project.com/branches/1.4/lib/log
 http://svn.symfony-project.com
 
@@ -28,7 +28,7 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 sfNoLogger.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/log/sfNoLogger.class.php
 
 
@@ -62,7 +62,7 @@ has-props
 
 sfFileLogger.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/log/sfFileLogger.class.php
 
 
@@ -96,7 +96,7 @@ has-props
 
 sfLogger.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/log/sfLogger.class.php
 
 
@@ -130,7 +130,7 @@ has-props
 
 sfLoggerInterface.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/log/sfLoggerInterface.class.php
 
 
@@ -164,7 +164,7 @@ has-props
 
 sfLoggerWrapper.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/log/sfLoggerWrapper.class.php
 
 
@@ -198,7 +198,7 @@ has-props
 
 sfConsoleLogger.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/log/sfConsoleLogger.class.php
 
 
@@ -232,7 +232,7 @@ has-props
 
 sfWebDebugLogger.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/log/sfWebDebugLogger.class.php
 
 
@@ -266,7 +266,7 @@ has-props
 
 sfAggregateLogger.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/log/sfAggregateLogger.class.php
 
 
@@ -300,7 +300,7 @@ has-props
 
 sfVarLogger.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_3/lib/log/sfVarLogger.class.php
 
 
@@ -334,7 +334,7 @@ has-props
 
 sfStreamLogger.class.php
 file
-
+29325
 http://svn.symfony-project.com/tags/RELEASE_1_4_0/lib/log/sfStreamLogger.class.php
 
 
